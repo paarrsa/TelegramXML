@@ -32,8 +32,8 @@ jobs:
           TG_API_HASH: ${{ secrets.TG_API_HASH }}
           TG_SESSION: ${{ secrets.TG_SESSION }}
           GITHUB_PAT: ${{ secrets.GH_PAT }}
-          GITHUB_OWNER: ${{ secrets.GITHUB_OWNER }}
-          GITHUB_REPO: ${{ secrets.GITHUB_REPO }}
+          GITHUB_OWNER: ${{ secrets.GH_OWNER }}
+          GITHUB_REPO: ${{ secrets.GH_REPO }}
           GITHUB_BRANCH: main
           POSTS_LIMIT: 20
         run: node src/index.js
