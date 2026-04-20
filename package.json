@@ -1,0 +1,19 @@
+{
+  "name": "tg-xml-feed",
+  "version": "1.0.0",
+  "description": "Fetch Telegram public channel posts and export as XML to GitHub",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node src/index.js --dry-run"
+  },
+  "dependencies": {
+    "@octokit/rest": "^20.1.1",
+    "dotenv": "^16.4.5",
+    "input": "^1.0.1",
+    "sharp": "^0.33.3",
+    "socks": "^2.8.7",
+    "telegram": "^2.22.2"
+  }
+}
