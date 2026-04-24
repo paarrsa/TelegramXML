@@ -7,15 +7,133 @@
     <members>259837</members>
     <profile>https://raw.githubusercontent.com/yourusername/yourrepo/main/profiles/bbcnews.png</profile>
     <telegram_link>https://t.me/chekhabarre</telegram_link>
-    <generated_at>2026-04-24T18:29:23.044Z</generated_at>
+    <generated_at>2026-04-24T19:33:09.239Z</generated_at>
   </meta>
   <posts>
+    <post id="44938">
+      <date>2026-04-24T19:13:20.000Z</date>
+      <text>🔴 نیویورک تایمز: با وجود سفر هیأت‌های امریکایی و ایرانی به اسلام‌آباد اما همچنان نقاط اختلاف بسیاری از جمله برنامه‌ای هسته‌ای ایران و تنگه هرمز بین دو طرف وجود دارد.</text>
+      <views>3740</views>
+      <forwards>0</forwards>
+      <media type="none"/>
+    </post>
+    <post id="44937">
+      <date>2026-04-24T19:12:47.000Z</date>
+      <text>🔴 عراقچی تو اسلام‌آباد رؤیت شد.</text>
+      <views>4048</views>
+      <forwards>31</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__44937__photo.jpg</file>
+        <width>1200</width>
+        <height>800</height>
+        <telegram_link>https://t.me/chekhabarre/44937</telegram_link>
+      </media>
+    </post>
+    <post id="44936">
+      <date>2026-04-24T19:11:34.000Z</date>
+      <text>🔴 شاهزاده رضا پهلوی: تو آلمان با ۱۵۰ خبرنگار گفتگو داشتم ولی هیچکدومشون حتی ذره‌ای راجب کشتار ۴۰ هزار ایرانی تو اعتراضات دی‌ماه حرفی نزد.</text>
+      <views>4364</views>
+      <forwards>10</forwards>
+      <media type="none"/>
+    </post>
+    <post id="44935">
+      <date>2026-04-24T19:03:41.000Z</date>
+      <text></text>
+      <views>5626</views>
+      <forwards>11</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__44935__photo.jpg</file>
+        <width>960</width>
+        <height>1280</height>
+        <telegram_link>https://t.me/chekhabarre/44935</telegram_link>
+      </media>
+    </post>
+    <post id="44934">
+      <date>2026-04-24T19:03:40.000Z</date>
+      <text></text>
+      <views>5627</views>
+      <forwards>11</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__44934__photo.jpg</file>
+        <width>960</width>
+        <height>1280</height>
+        <telegram_link>https://t.me/chekhabarre/44934</telegram_link>
+      </media>
+    </post>
+    <post id="44933">
+      <date>2026-04-24T19:03:39.000Z</date>
+      <text></text>
+      <views>5627</views>
+      <forwards>11</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__44933__photo.jpg</file>
+        <width>960</width>
+        <height>1280</height>
+        <telegram_link>https://t.me/chekhabarre/44933</telegram_link>
+      </media>
+    </post>
+    <post id="44932">
+      <date>2026-04-24T19:03:39.000Z</date>
+      <text>سلام عکس یه سری دیگه از جاوید نام های مشهد💔</text>
+      <views>5628</views>
+      <forwards>11</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__44932__photo.jpg</file>
+        <width>960</width>
+        <height>1280</height>
+        <telegram_link>https://t.me/chekhabarre/44932</telegram_link>
+      </media>
+    </post>
+    <post id="44931">
+      <date>2026-04-24T19:00:22.000Z</date>
+      <text>🔴 ترامپ: ایران داره برنامه‌ریزی می‌کنه یه پیشنهادی بده تا باهاش خواسته‌های ما رو برآورده کنه.</text>
+      <views>5895</views>
+      <forwards>11</forwards>
+      <media type="none"/>
+    </post>
+    <post id="44930">
+      <date>2026-04-24T18:49:57.000Z</date>
+      <text>کارولین لویت، سخنگوی کاخ سفید، رسماً تأیید کرد که مرخصی‌ای چند هفته‌ای می‌گیره تا بچشو به دنیا بیاره.
+
+یه‌مدت باید ترامپ رو به عنوان سخنگوی کاخ سفید تحمل کنید.</text>
+      <views>7145</views>
+      <forwards>98</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>23.446</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/44930</telegram_link>
+      </media>
+    </post>
+    <post id="44929">
+      <date>2026-04-24T18:39:06.000Z</date>
+      <text>اگر واقعا جلیلی به تیم مذاکره کننده اضافه شده باشه باید منتظر حمله اتمی باشیم جدی</text>
+      <views>8224</views>
+      <forwards>55</forwards>
+      <media type="none"/>
+    </post>
+    <post id="44928">
+      <date>2026-04-24T18:37:17.000Z</date>
+      <text>🔴 فقط به ننت نیاز داریم.
+
+حمید رسایی: مردم ایران به اینترنت نیاز ندارن.</text>
+      <views>8754</views>
+      <forwards>59</forwards>
+      <media type="none"/>
+    </post>
+    <post id="44927">
+      <date>2026-04-24T18:32:02.000Z</date>
+      <text>عراقچی رسید اسلام‌آباد.</text>
+      <views>8835</views>
+      <forwards>24</forwards>
+      <media type="none"/>
+    </post>
     <post id="44926">
       <date>2026-04-24T18:24:58.000Z</date>
       <text>🔴 شاهزاده رضا پهلوی: چند هفتهٔ اخیر رفتم یه دور تو اروپا، با نماینده‌های پارلمان، آدم‌های دولتی و رسانه‌ها حرف زدم.
 هدفم فقط یه چیز بود: صدای اون همه ایرانی باشم که زیر دست جمهوری اسلامی گیر افتادن، با ترور و قطع اینترنت و اینا خفه‌شون کردن ولی الان با اطمینان می‌گم این ساکت کردن صداها فقط کار حکومت ایران نیست، یه‌جورایی رسانه‌های بین‌المللی، مخصوصاً اروپایی‌ها هم توش نقش دارن. واسه همین می‌خوام مستقیم با مردم اروپا حرف بزنم.</text>
-      <views>1571</views>
-      <forwards>13</forwards>
+      <views>9738</views>
+      <forwards>67</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>264.022</duration_seconds>
@@ -26,8 +144,8 @@
     <post id="44925">
       <date>2026-04-24T18:06:51.000Z</date>
       <text>🔴 نیویورک تایمز: قالیباف تو دور بعدی مذاکرات تو اسلام‌آباد شرکت نمی‌کنه.</text>
-      <views>4615</views>
-      <forwards>13</forwards>
+      <views>10482</views>
+      <forwards>15</forwards>
       <media type="none"/>
     </post>
     <post id="44924">
@@ -35,15 +153,15 @@
       <text>🔴 لاشیا گردن‌گیرشون خرابه کلا.
 
 تسنیم: عراقچی تو اسلام‌آباد هیچ مذاکره‌ای با آمریکاییا انجام نمیده و رسانه‌های آمریکایی بازم (بازم؟) دروغ گفتن. عراقچی در سفر به اسلام‌آباد با طرفین پاکستانی درمورد ملاحظات ایران برای پایان جنگ صحبت میکنه و با وجود اینکه ویتکاف و کوشنر به دستور ترامپ قراره به پاکستان بیان، هیچ مذاکره‌ای با آمریکاییا در دستورکار داکتر عراقچی نیست.</text>
-      <views>7035</views>
-      <forwards>6</forwards>
+      <views>11777</views>
+      <forwards>10</forwards>
       <media type="none"/>
     </post>
     <post id="44923">
       <date>2026-04-24T17:36:02.000Z</date>
       <text>این اکانت فیکه دوستان.</text>
-      <views>8363</views>
-      <forwards>20</forwards>
+      <views>12464</views>
+      <forwards>23</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__44923__photo.jpg</file>
         <width>1080</width>
@@ -54,22 +172,22 @@
     <post id="44922">
       <date>2026-04-24T17:33:37.000Z</date>
       <text>🔴 در پی یه حادثه رانندگی تو اطراف پنتاگون، ۱۰ عضو وزارت جنگ آمریکا مجروح شدن.</text>
-      <views>8483</views>
-      <forwards>12</forwards>
+      <views>12460</views>
+      <forwards>14</forwards>
       <media type="none"/>
     </post>
     <post id="44921">
       <date>2026-04-24T17:04:56.000Z</date>
       <text>🔴 دو مقام آمریکایی به آکسیوس: ویتکاف و کوشنر با عراقچی توافق توقف جنگ را بررسی خواهند کرد.</text>
-      <views>10340</views>
-      <forwards>21</forwards>
+      <views>13419</views>
+      <forwards>22</forwards>
       <media type="none"/>
     </post>
     <post id="44920">
       <date>2026-04-24T16:51:28.000Z</date>
       <text>توییت جدید سلطان تاکتیک های نامنظم</text>
-      <views>11279</views>
-      <forwards>25</forwards>
+      <views>13904</views>
+      <forwards>27</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__44920__photo.jpg</file>
         <width>977</width>
@@ -80,110 +198,8 @@
     <post id="44919">
       <date>2026-04-24T16:21:30.000Z</date>
       <text>روزشمار ظهور امام سیدعلی خامنه‌ای: روز هجدهم، امام هنوز ظهور نکردند.</text>
-      <views>12481</views>
+      <views>14831</views>
       <forwards>19</forwards>
-      <media type="none"/>
-    </post>
-    <post id="44918">
-      <date>2026-04-24T15:34:31.000Z</date>
-      <text>🔴 ارتش اسرائیل: درجریان جنگ اخیر، با کمک شاباک و موساد به سازمان اطلاعات سپاه ضربات مهلکی وارد کردیم.</text>
-      <views>14139</views>
-      <forwards>5</forwards>
-      <media type="none"/>
-    </post>
-    <post id="44917">
-      <date>2026-04-24T15:22:37.000Z</date>
-      <text>🔴 منتظر به چخ رفتن این سه شهر باشید.
-
-عراقچی: عازم سفری به اسلام‌آباد، مسقط و مسکو هستم. هدف از این سفرها، هماهنگی نزدیک با شرکای خود در موضوعات دوجانبه و رایزنی درباره تحولات منطقه‌ایه.
-همسایگان ما در اولویت ما قرار دارن.</text>
-      <views>14698</views>
-      <forwards>28</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__44917__photo.jpg</file>
-        <width>1178</width>
-        <height>876</height>
-        <telegram_link>https://t.me/chekhabarre/44917</telegram_link>
-      </media>
-    </post>
-    <post id="44916">
-      <date>2026-04-24T15:01:56.000Z</date>
-      <text>🔴 هگست، وزیر جنگ آمریکا: نیروهای نظامی ایران هزاران نفر از مردم ایران رو تو اعتراضات به قتل رسوندن‌.</text>
-      <views>14803</views>
-      <forwards>10</forwards>
-      <media type="none"/>
-    </post>
-    <post id="44915">
-      <date>2026-04-24T15:01:08.000Z</date>
-      <text>🔴 پولیتیکو: کارولین لویت، سخنگوی کاخ سفید، هفته آینده صاحب فرزند دومش می‌شه و چند هفته مرخصی زایمان می‌گیره.
-حالا گفته شده که یا خود ترامپ و یا جی‌دی ونس بصورت موقت سخنگوی کاخ سفید می‌شن.</text>
-      <views>14789</views>
-      <forwards>68</forwards>
-      <media type="none"/>
-    </post>
-    <post id="44914">
-      <date>2026-04-24T14:50:11.000Z</date>
-      <text>🔴 خضریان، عضو کمیسیون امنیت ملی مجلس: کشورهای عربی بدانند که ناو آمریکایی در طول جنگ فرار می‌کند ولی جمهوری اسلامی و شما اینجا می‌مانید و ما شما را رها نخواهیم کرد.</text>
-      <views>14905</views>
-      <forwards>25</forwards>
-      <media type="none"/>
-    </post>
-    <post id="44913">
-      <date>2026-04-24T14:18:48.000Z</date>
-      <text>ولی خدا کنه این قضیه رفتن جلیلی به مذاکرات راست باشه. همینکه بره پشت میز مذاکره رو میکنه به ونس و میگه ببین مادرفاکر، هرچی اورانیوم دارید رو رقیق میکنید، همه بمب‌اتم‌هاتونو میدید بهمون، آبراهام لینکلن رو همینجا ول میکنید و مال ما میشه، ۶ تا از B2 هارو میدید بهمون سوئیچ اون دوتای دیگشم میاریم که فقط دکوری داشته باشیدش نتونید استفاده‌ش کنید، کاخ‌سفیدو حسینیه میکنید، ملانی و ایوانکا ترامپ رو هم تا ۳۰ دقیقه دیگه تو تهران تحویلمون میدید، الانم همتون نوبتی یه‌دست دست‌به‌دیوار برام وایمیستید. اگه حرفی نیست تا شروع کنیم.
-
-@Khabariee</text>
-      <views>15089</views>
-      <forwards>114</forwards>
-      <media type="none"/>
-    </post>
-    <post id="44912">
-      <date>2026-04-24T14:15:48.000Z</date>
-      <text>فعالیت پدافند هوایی در کنشت کرمانشاه؛ تایید شده.</text>
-      <views>15396</views>
-      <forwards>14</forwards>
-      <media type="none"/>
-    </post>
-    <post id="44911">
-      <date>2026-04-24T13:47:04.000Z</date>
-      <text>🔴 سنتکام: برای اولین بار از سال ۲۰۰۳ و جنگ با صدام، همزمان سه ناو هواپیمابر شامل ۲۰۰ جت و ۱۵ هزار تفنگ‌دار دریایی در منطقه هستند!</text>
-      <views>16559</views>
-      <forwards>80</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__44911__photo.jpg</file>
-        <width>622</width>
-        <height>800</height>
-        <telegram_link>https://t.me/chekhabarre/44911</telegram_link>
-      </media>
-    </post>
-    <post id="44910">
-      <date>2026-04-24T13:44:18.000Z</date>
-      <text>یه عده میگن جلیلی قراره جایگزین قالیباف تو تیم مذاکرات شه 😂😂😂😂</text>
-      <views>16158</views>
-      <forwards>42</forwards>
-      <media type="none"/>
-    </post>
-    <post id="44909">
-      <date>2026-04-24T13:11:49.000Z</date>
-      <text>امشب قالیباف به اسلام‌آباد نمی‌ره ظاهرا.
-شایعات کنار گذاشته شدنش از تیم مذاکره‌کنندگان داره رنگ و بوی واقعیت میگیره.</text>
-      <views>17126</views>
-      <forwards>64</forwards>
-      <media type="none"/>
-    </post>
-    <post id="44908">
-      <date>2026-04-24T11:58:51.000Z</date>
-      <text>نمیفهمم چرا جمهوری‌اسلامی اینقدر سعی داره بیغیرتی خودشو ثابت کنه همیشه.
-اول میگن تا محاصره لغو نشه نمی‌ریم بعد زودتر از هیئت آمریکایی پا می‌شن می‌رن اسلام‌آباد</text>
-      <views>18561</views>
-      <forwards>58</forwards>
-      <media type="none"/>
-    </post>
-    <post id="44907">
-      <date>2026-04-24T11:56:48.000Z</date>
-      <text>چیشد پس مادرج</text>
-      <views>18422</views>
-      <forwards>10</forwards>
       <media type="none"/>
     </post>
   </posts>
