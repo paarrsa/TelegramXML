@@ -7,28 +7,81 @@
     <members>259837</members>
     <profile>https://raw.githubusercontent.com/yourusername/yourrepo/main/profiles/bbcnews.png</profile>
     <telegram_link>https://t.me/chekhabarre</telegram_link>
-    <generated_at>2026-04-24T05:59:55.993Z</generated_at>
+    <generated_at>2026-04-24T08:19:16.172Z</generated_at>
   </meta>
   <posts>
+    <post id="44900">
+      <date>2026-04-24T07:45:03.000Z</date>
+      <text>🔴 راند دوم؟
+
+سفارت چین به شهرونداش هشدار داده سریعاً ایران رو ترک کنن.</text>
+      <views>4877</views>
+      <forwards>69</forwards>
+      <media type="none"/>
+    </post>
+    <post id="44899">
+      <date>2026-04-24T07:42:25.000Z</date>
+      <text>🔴 میانجیگرای مارو.
+
+حمله چند فرد مسلح به یه تأسیسات دولتی تو پاکستان، ده‌ها کشته به جا گذاشت.</text>
+      <views>5176</views>
+      <forwards>14</forwards>
+      <media type="none"/>
+    </post>
+    <post id="44898">
+      <date>2026-04-24T07:36:53.000Z</date>
+      <text>🔴 سناتور لیندزی گراهام درمورد جمهوری‌اسلامی:
+نتیجه‌نهایی اینه‌که اونا مسیری برای رسیدن به بمب هسته‌ای ندارن. اونا مثل گذشته موشک‌هایی برای ایجاد وحشت در منطقه و جهان ندارن. این یک موفقیت شگفت‌انگیز بوده و پرزیدنت ترامپ درست میگه: «عجله نکن، درستش کن». اون اولین مردیه که در ۴۷ سال گذشته اونارو زیر پا گذاشته، فقط باید صبور باشیم.
+دموکرات‌ها مصمم هستن که رئیس‌جمهور ترامپ و نزدیک‌ترین متحدانشو متوقف کنن. ما به کمک شما برای عقب راندن چپ رادیکال و دفاع از دستورکار اول آمریکا نیاز داریم.
+من مفتخر بودم که به‌عنوان رئیس‌بودجه سنا به رهبری این مسئولیت کمک کنم و تا زمانی که این پیروزی رو برای رئیس‌جمهور و مردم آمریکا به‌دست نیاریم دست از کار برنمیدارم.
+بخاطر رئیس‌جمهور ترامپ، ایران دیگه کشور اصلی حامی تروریسم در جهان نیست. عزم اون باعث میشه من افتخار کنم که در کنارش می‌ایستم.</text>
+      <views>5666</views>
+      <forwards>9</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>24.278</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/44898</telegram_link>
+      </media>
+    </post>
+    <post id="44897">
+      <date>2026-04-24T06:38:01.000Z</date>
+      <text>🔴 سفیر ج.ا تو مسکو: روسیه می‌تونه وارد تنگه‌مون شه ولی بقیه کشورا نه.</text>
+      <views>8637</views>
+      <forwards>6</forwards>
+      <media type="none"/>
+    </post>
+    <post id="44896">
+      <date>2026-04-24T06:32:26.000Z</date>
+      <text>[@OutOfContext]</text>
+      <views>8822</views>
+      <forwards>102</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__44896__photo.jpg</file>
+        <width>1200</width>
+        <height>1264</height>
+        <telegram_link>https://t.me/chekhabarre/44896</telegram_link>
+      </media>
+    </post>
     <post id="44895">
       <date>2026-04-24T05:24:15.000Z</date>
       <text>🔴 سی‌ان‌ان: ترامپ به‌دنبال حذف چهره‌هایی تندرو در ایران از جمله احمد وحیدیه.</text>
-      <views>2779</views>
-      <forwards>10</forwards>
+      <views>10910</views>
+      <forwards>24</forwards>
       <media type="none"/>
     </post>
     <post id="44894">
       <date>2026-04-24T05:03:08.000Z</date>
       <text>🔴 معاریو: ۴۲ درصد از اسرائیلی‌ها تصمیم ترامپ برای تمدید آتش‌بس رو اشتباه می‌دونن و فقط ۲۸ درصد با این آتش‌بس موافقن.</text>
-      <views>3715</views>
-      <forwards>4</forwards>
+      <views>11232</views>
+      <forwards>7</forwards>
       <media type="none"/>
     </post>
     <post id="44893">
       <date>2026-04-24T04:38:15.000Z</date>
       <text>توضیحات پلیس برلین در خصوص حمله یک فرد به‌نام پدرام حسین مطرب به شاهزاده رضا پهلوی تو برلین.</text>
-      <views>4574</views>
-      <forwards>20</forwards>
+      <views>11642</views>
+      <forwards>46</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>58.329</duration_seconds>
@@ -39,15 +92,15 @@
     <post id="44892">
       <date>2026-04-23T23:47:23.000Z</date>
       <text>غرب تهران، فعال شدن پدافند توپ ضدهوایی.</text>
-      <views>10248</views>
-      <forwards>29</forwards>
+      <views>15348</views>
+      <forwards>30</forwards>
       <media type="none"/>
     </post>
     <post id="44891">
       <date>2026-04-23T23:45:14.000Z</date>
       <text>شما نه‌تنها ننه‌هاتون، همه کس و کارتون خرابه. خصوصاً اونی که میگه ما ضبط کردیم فیلمامونو. ما هم داریم فیلم‌های مادرتو، نیاز نیست جار بزنی.</text>
-      <views>10289</views>
-      <forwards>108</forwards>
+      <views>15452</views>
+      <forwards>145</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>69.242</duration_seconds>
@@ -58,15 +111,15 @@
     <post id="44890">
       <date>2026-04-23T23:34:18.000Z</date>
       <text>به تاریخ توییت توجه‌ کنید.</text>
-      <views>10769</views>
-      <forwards>9</forwards>
+      <views>15594</views>
+      <forwards>10</forwards>
       <media type="none"/>
     </post>
     <post id="44889">
       <date>2026-04-23T23:33:44.000Z</date>
       <text>[@OutOfContext]</text>
-      <views>10717</views>
-      <forwards>44</forwards>
+      <views>15598</views>
+      <forwards>51</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__44889__photo.jpg</file>
         <width>1080</width>
@@ -77,8 +130,8 @@
     <post id="44888">
       <date>2026-04-23T22:03:11.000Z</date>
       <text>🔴 ترامپ: یکی از شروط ما برای ایران، قطع فوری کمک‌ها به حزب‌الله‌ست.</text>
-      <views>14324</views>
-      <forwards>21</forwards>
+      <views>17667</views>
+      <forwards>22</forwards>
       <media type="none"/>
     </post>
     <post id="44887">
@@ -86,15 +139,15 @@
       <text>🔴 برا همین مردمو میبردید کنار نیروگاه‌ها و پل‌ها تا ازشون سپر انسانی درست کنید؟
 
 رادان: در نظام جمهوری‌اسلامی، ما یاد گرفته‌ایم که سینه‌ی خودمونو برای مردم سپر کنیم، نه اینکه پشت‌سر اونا مخفی بشیم.</text>
-      <views>14863</views>
-      <forwards>32</forwards>
+      <views>17993</views>
+      <forwards>33</forwards>
       <media type="none"/>
     </post>
     <post id="44886">
       <date>2026-04-23T21:31:17.000Z</date>
       <text>یاد ایام.</text>
-      <views>16164</views>
-      <forwards>166</forwards>
+      <views>18855</views>
+      <forwards>185</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>34.595</duration_seconds>
@@ -105,14 +158,14 @@
     <post id="44885">
       <date>2026-04-23T21:28:07.000Z</date>
       <text>🔴 مادرحرام پدروال‌استریت‌زاده املاکی: آتش‌بس بین حزب‌الله و اسرائیل سه‌هفته تمدید شد.</text>
-      <views>15874</views>
-      <forwards>28</forwards>
+      <views>18405</views>
+      <forwards>29</forwards>
       <media type="none"/>
     </post>
     <post id="44884">
       <date>2026-04-23T21:04:20.000Z</date>
       <text>🔴 ترامپ: ما هیچوقت این‌قدر مهمات نداشته‌ایم. کشتی‌های ما پره. ما تجهیزاتی با کیفیت بسیار بالاتر از زمانی که جنگ رو شروع کردیم، داریم.</text>
-      <views>16662</views>
+      <views>18826</views>
       <forwards>18</forwards>
       <media type="none"/>
     </post>
@@ -120,8 +173,8 @@
       <date>2026-04-23T20:39:06.000Z</date>
       <text>چقد این خبرنگارا کودنن. رفته از ترامپ پرسیده ممکنه از سلاح هسته‌ای علیه ایران استفاده کنید؟ 
 گوسفند کل هدف این جنگ این بود که از سلاح هسته‌ای استفاده نشه.</text>
-      <views>17450</views>
-      <forwards>33</forwards>
+      <views>19264</views>
+      <forwards>35</forwards>
       <media type="none"/>
     </post>
     <post id="44882">
@@ -131,8 +184,8 @@
 خبرنگار: به مردم آمریکا که می‌پرسن این وضعیت تا کی طول می‌کشه چی می‌گی؟ واضح هم هست که قیمت بنزین بالاتر رفته.
 
 ترامپ: تو واقعاً مایه خجالتی؛ نشنیدی من چی گفتم؟ ویتنام چند سال طول کشید؟</text>
-      <views>17891</views>
-      <forwards>108</forwards>
+      <views>19494</views>
+      <forwards>112</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>37.184</duration_seconds>
@@ -143,58 +196,14 @@
     <post id="44881">
       <date>2026-04-23T20:15:47.000Z</date>
       <text>🔴 ترامپ: دیروز ۸ زن جوان قرار بود تو ایران اعدام بشن. من ازشون خواستم اینکارو نکنن. اسمش رو لطف بذارید یا درخواست اخلاقی. اونا برگشتن و گفتن اعدام نمی‌شن. این مربوط به اعتراضات بود،  ۸ زن خیلی جوان، خیلی جوان.</text>
-      <views>17231</views>
-      <forwards>32</forwards>
+      <views>18680</views>
+      <forwards>33</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>73.856</duration_seconds>
         <note>Video not stored — view on Telegram</note>
         <telegram_link>https://t.me/chekhabarre/44881</telegram_link>
       </media>
-    </post>
-    <post id="44880">
-      <date>2026-04-23T20:13:47.000Z</date>
-      <text>🔴 ترامپ: اگر جنگ الان تموم شه ایران برای بازسازی خودش به خودش ۲۰ سال زمان لازم داره ولی هدف من این نیست چون میخوام ضربه‌ای دائمی به اونا بزنم.</text>
-      <views>16817</views>
-      <forwards>66</forwards>
-      <media type="none"/>
-    </post>
-    <post id="44879">
-      <date>2026-04-23T20:13:30.000Z</date>
-      <text>🔴 ترامپ: رهبران ایران مثل سگ و گربه باهم می‌جنگن تا ببینن کدومشون می‌تونه رهبر شه.</text>
-      <views>16583</views>
-      <forwards>34</forwards>
-      <media type="none"/>
-    </post>
-    <post id="44878">
-      <date>2026-04-23T19:57:19.000Z</date>
-      <text>🔴 مجی از کما توییت زد و بیانیه داد:
-در اثر وحدت عجیب ایجاد شده بین هموطنان در دشمن شکستگی به‌وجود اومده. با شکر عملی این نعمت، انسجام بیشتر و پولادین‌تر شده و دشمنان خوار و خفیف‌تر خواهند شد.
-عملیات رسانه ای دشمن با نشانه‌گیری ذهن و روان مردم قصد خدشه در وحدت و امنیت ملی داره؛ مبادا با سهل انگاری ما این قصد شوم محقق شود.</text>
-      <views>17451</views>
-      <forwards>24</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__44878__photo.jpg</file>
-        <width>1200</width>
-        <height>803</height>
-        <telegram_link>https://t.me/chekhabarre/44878</telegram_link>
-      </media>
-    </post>
-    <post id="44877">
-      <date>2026-04-23T19:35:47.000Z</date>
-      <text>۳۰ میلیون جان‌فدا جمع شده؟ حله. به‌قول سعدی، مُشک آن است که ببوید، نه آنکه عطار بگوید!
-
-@Khabariee</text>
-      <views>16927</views>
-      <forwards>94</forwards>
-      <media type="none"/>
-    </post>
-    <post id="44876">
-      <date>2026-04-23T19:23:01.000Z</date>
-      <text>🔴 خبرگزاری فارس: فعالیت‌های پدافندی امشب تست نبوده و پدافندها در واکنش به حضور ریزپرنده‌ها و پهپادهای کوچیک از نوع «اوربیتر» روی آسمون چند نقطه از کشور و مقابله باهاشون، فعال شدن.</text>
-      <views>17680</views>
-      <forwards>79</forwards>
-      <media type="none"/>
     </post>
   </posts>
 </channel>
