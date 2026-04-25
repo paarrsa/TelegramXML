@@ -7,9 +7,24 @@
     <members>259837</members>
     <profile>https://raw.githubusercontent.com/yourusername/yourrepo/main/profiles/bbcnews.png</profile>
     <telegram_link>https://t.me/chekhabarre</telegram_link>
-    <generated_at>2026-04-25T21:52:24.253Z</generated_at>
+    <generated_at>2026-04-25T22:40:12.047Z</generated_at>
   </meta>
   <posts>
+    <post id="45006">
+      <date>2026-04-25T22:02:24.000Z</date>
+      <text>تست کنید؛ خودم انجام دادم. 
+۳.۹ میلیون نفر! اونم هرکسی میتونه چندین‌بار‌ بدون ثبت کدملی، ثبت‌نام کنه</text>
+      <views>5259</views>
+      <forwards>73</forwards>
+      <media type="none"/>
+    </post>
+    <post id="45005">
+      <date>2026-04-25T21:54:06.000Z</date>
+      <text>🔴 مقام کاخ سفید به پولیتیکو: ترامپ قصد داره رئیس FBI رو از سمتش عزل کنه.</text>
+      <views>6170</views>
+      <forwards>12</forwards>
+      <media type="none"/>
+    </post>
     <post id="45004">
       <date>2026-04-25T21:38:15.000Z</date>
       <text>[Gemini 3.1 Pro 🧠]
@@ -35,15 +50,15 @@ curl -s &apos;janfadaa.ir/ajax&apos; --data-raw &apos;action=getComments&apos; |
 
 📚 جمع‌بندی
 از منظر مهندسی نرم‌افزار، استدلال فنی ایشان صددرصد درست است. اگر خروجیِ کدهای سایت، شناسه‌های جدید ثبت‌نام‌شدگان را در محدوده زیر ۴ میلیون نشان دهد، از نظر فنی ثابت می‌شود که تعداد واقعی رکوردهای موجود در دیتابیسِ آن سایت کمتر از ۴ میلیون نفر است و آمار ۳۰ میلیونی با واقعیت فنی سیستم همخوانی ندارد.</text>
-      <views>3255</views>
-      <forwards>118</forwards>
+      <views>7902</views>
+      <forwards>303</forwards>
       <media type="none"/>
     </post>
     <post id="45003">
       <date>2026-04-25T21:02:48.000Z</date>
       <text></text>
-      <views>7824</views>
-      <forwards>342</forwards>
+      <views>11096</views>
+      <forwards>526</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__45003__photo.jpg</file>
         <width>1080</width>
@@ -54,8 +69,8 @@ curl -s &apos;janfadaa.ir/ajax&apos; --data-raw &apos;action=getComments&apos; |
     <post id="45002">
       <date>2026-04-25T20:55:21.000Z</date>
       <text></text>
-      <views>8614</views>
-      <forwards>45</forwards>
+      <views>11332</views>
+      <forwards>55</forwards>
       <media type="audio" available="false">
         <mime_type>audio/ogg</mime_type>
         <note>Audio not stored — view on Telegram</note>
@@ -65,36 +80,36 @@ curl -s &apos;janfadaa.ir/ajax&apos; --data-raw &apos;action=getComments&apos; |
     <post id="45001">
       <date>2026-04-25T20:51:04.000Z</date>
       <text>🔴 فعالیت مجدد توپ ضدهوایی کرمانشاه؛ تایید شده.</text>
-      <views>9136</views>
+      <views>11658</views>
       <forwards>56</forwards>
       <media type="none"/>
     </post>
     <post id="45000">
       <date>2026-04-25T20:47:54.000Z</date>
       <text>🔴 وال استریت ژورنال: مقامات جمهوری اسلامی پیام‌هایی به آمریکا ارسال کرده‌اند و از ترامپ خواسته‌اند تهدیدات خود را کاهش دهد، با این استدلال که لحن نرم‌تر می‌تواند سخت‌گیران در ایران را بیشتر به مشارکت در مذاکرات ترغیب کند.</text>
-      <views>9380</views>
-      <forwards>22</forwards>
+      <views>11721</views>
+      <forwards>24</forwards>
       <media type="none"/>
     </post>
     <post id="44999">
       <date>2026-04-25T20:42:18.000Z</date>
       <text>🔴 فعالیت توپ ضدهوایی در کرمانشاه؛ تایید شده.</text>
-      <views>10057</views>
+      <views>12252</views>
       <forwards>75</forwards>
       <media type="none"/>
     </post>
     <post id="44998">
       <date>2026-04-25T20:08:46.000Z</date>
       <text>🔴 کانال ۱۲ اسرائیل هم شروع مجدد حملات اسرائیل به لبنان رو تأیید کرد.</text>
-      <views>12263</views>
-      <forwards>35</forwards>
+      <views>13962</views>
+      <forwards>36</forwards>
       <media type="none"/>
     </post>
     <post id="44997">
       <date>2026-04-25T20:08:08.000Z</date>
       <text></text>
-      <views>12215</views>
-      <forwards>32</forwards>
+      <views>13857</views>
+      <forwards>33</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__44997__photo.jpg</file>
         <width>800</width>
@@ -105,8 +120,8 @@ curl -s &apos;janfadaa.ir/ajax&apos; --data-raw &apos;action=getComments&apos; |
     <post id="44996">
       <date>2026-04-25T20:08:08.000Z</date>
       <text></text>
-      <views>12211</views>
-      <forwards>32</forwards>
+      <views>13852</views>
+      <forwards>33</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__44996__photo.jpg</file>
         <width>960</width>
@@ -117,8 +132,8 @@ curl -s &apos;janfadaa.ir/ajax&apos; --data-raw &apos;action=getComments&apos; |
     <post id="44995">
       <date>2026-04-25T20:08:07.000Z</date>
       <text>🔴 تصاویری از حملات هوایی اسرائیل به لبنان.</text>
-      <views>12121</views>
-      <forwards>32</forwards>
+      <views>13717</views>
+      <forwards>33</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__44995__photo.jpg</file>
         <width>1112</width>
@@ -129,15 +144,15 @@ curl -s &apos;janfadaa.ir/ajax&apos; --data-raw &apos;action=getComments&apos; |
     <post id="44994">
       <date>2026-04-25T19:43:07.000Z</date>
       <text>بنظر که بزودی مارم میزنن.</text>
-      <views>13659</views>
-      <forwards>43</forwards>
+      <views>14952</views>
+      <forwards>45</forwards>
       <media type="none"/>
     </post>
     <post id="44993">
       <date>2026-04-25T19:40:49.000Z</date>
       <text>حملات اسرائیل به حزب‌الله باز استارت خورد.</text>
-      <views>13725</views>
-      <forwards>75</forwards>
+      <views>15049</views>
+      <forwards>87</forwards>
       <media type="none"/>
     </post>
     <post id="44992">
@@ -145,29 +160,29 @@ curl -s &apos;janfadaa.ir/ajax&apos; --data-raw &apos;action=getComments&apos; |
       <text>🔴 چیمیگی روانی.
 
 ترامپ: من تصمیمی برای تمدید آتش‌بس نگرفتم.</text>
-      <views>14096</views>
-      <forwards>55</forwards>
+      <views>15371</views>
+      <forwards>57</forwards>
       <media type="none"/>
     </post>
     <post id="44991">
       <date>2026-04-25T19:19:58.000Z</date>
       <text>🔴 ترامپ: ایران امروز جوابش به پیشنهاد مارو ارسال کرد ولی وقتی دور دوم مذاکرات رو لغو کردم فوراً دستپاچه شدن و یه پیشنهاد جدید ظرف ۱۰ دقیقه دادن.</text>
-      <views>14920</views>
-      <forwards>85</forwards>
+      <views>16056</views>
+      <forwards>89</forwards>
       <media type="none"/>
     </post>
     <post id="44990">
       <date>2026-04-25T19:19:14.000Z</date>
       <text>🔴 کانال ۱۴ اسرائیل به نقل از اسموتریچ: ایران یا تسلیم می‌شود یا ما به جنگ بازمی‌گردیم و باید مرزهای قابل دفاع جدیدی ایجاد کنیم.</text>
-      <views>14645</views>
+      <views>15720</views>
       <forwards>21</forwards>
       <media type="none"/>
     </post>
     <post id="44989">
       <date>2026-04-25T19:06:05.000Z</date>
       <text>روزشمار ظهور امام سیدعلی خامنه‌ای: روز نوزدهم، امام هنوز ظهور نکردند.</text>
-      <views>15125</views>
-      <forwards>22</forwards>
+      <views>16094</views>
+      <forwards>24</forwards>
       <media type="none"/>
     </post>
     <post id="44988">
@@ -177,7 +192,7 @@ curl -s &apos;janfadaa.ir/ajax&apos; --data-raw &apos;action=getComments&apos; |
 الاهلی عربستان با شکست ۱-۰ ماشیدای ژاپن تو وقت‌های اضافه، برای دومین‌بار متوالی قهرمان لیگ‌نخبگان آسیا شد.
 
 @CheKhabarr</text>
-      <views>14936</views>
+      <views>15840</views>
       <forwards>12</forwards>
       <media type="none"/>
     </post>
@@ -185,41 +200,13 @@ curl -s &apos;janfadaa.ir/ajax&apos; --data-raw &apos;action=getComments&apos; |
       <date>2026-04-25T18:54:46.000Z</date>
       <text>🔴 لیندزی گراهام: تصمیم رئیس‌جمهور ترامپ برای لغو سفر ویتکاف-کوشنر به پاکستان برای پیگیری مذاکرات بیشتر با ایران در این برهه بسیار عاقلانه بود.
 بیاید به محاصره ادامه بدیم، تنگه هرمز رو باز کنیم، در صورت لزوم عملیات نظامی را از سر بگیریم و اطمینان حاصل کنیم که ایران هرگز نمیتواند به روش‌های قدیمی خود بازگردد. آفرین، آقای رئیس‌جمهور.</text>
-      <views>14983</views>
+      <views>15796</views>
       <forwards>31</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__44987__photo.jpg</file>
         <width>1200</width>
         <height>1051</height>
         <telegram_link>https://t.me/chekhabarre/44987</telegram_link>
-      </media>
-    </post>
-    <post id="44986">
-      <date>2026-04-25T18:37:34.000Z</date>
-      <text>🔞 ویدیویی از درگیری لفظی بی‌نظیر ایرانیای مخالف جمهوری‌اسلامی با ایرانیای حامی فلسطین و ج.ا تو خارج 😂 آخرش عالی بود
-
-@CheKhabarr</text>
-      <views>15411</views>
-      <forwards>611</forwards>
-      <media type="video" available="false">
-        <mime_type>video/mp4</mime_type>
-        <duration_seconds>70.032</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/44986</telegram_link>
-      </media>
-    </post>
-    <post id="44985">
-      <date>2026-04-25T18:07:02.000Z</date>
-      <text>نماینده‌های ترامپ و دیپلمات‌های آمریکایی درحال اومدن به منطقه برای مذاکره کردن.
-
-@Khabariee</text>
-      <views>14914</views>
-      <forwards>133</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__44985__photo.jpg</file>
-        <width>1138</width>
-        <height>1280</height>
-        <telegram_link>https://t.me/chekhabarre/44985</telegram_link>
       </media>
     </post>
   </posts>
