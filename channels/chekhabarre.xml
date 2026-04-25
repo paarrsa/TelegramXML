@@ -7,21 +7,65 @@
     <members>259837</members>
     <profile>https://raw.githubusercontent.com/yourusername/yourrepo/main/profiles/bbcnews.png</profile>
     <telegram_link>https://t.me/chekhabarre</telegram_link>
-    <generated_at>2026-04-25T20:24:34.439Z</generated_at>
+    <generated_at>2026-04-25T21:05:59.356Z</generated_at>
   </meta>
   <posts>
+    <post id="45003">
+      <date>2026-04-25T21:02:48.000Z</date>
+      <text></text>
+      <views>1567</views>
+      <forwards>73</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__45003__photo.jpg</file>
+        <width>1080</width>
+        <height>883</height>
+        <telegram_link>https://t.me/chekhabarre/45003</telegram_link>
+      </media>
+    </post>
+    <post id="45002">
+      <date>2026-04-25T20:55:21.000Z</date>
+      <text></text>
+      <views>3449</views>
+      <forwards>31</forwards>
+      <media type="audio" available="false">
+        <mime_type>audio/ogg</mime_type>
+        <note>Audio not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/45002</telegram_link>
+      </media>
+    </post>
+    <post id="45001">
+      <date>2026-04-25T20:51:04.000Z</date>
+      <text>🔴 فعالیت مجدد توپ ضدهوایی کرمانشاه؛ تایید شده.</text>
+      <views>4689</views>
+      <forwards>51</forwards>
+      <media type="none"/>
+    </post>
+    <post id="45000">
+      <date>2026-04-25T20:47:54.000Z</date>
+      <text>🔴 وال استریت ژورنال: مقامات جمهوری اسلامی پیام‌هایی به آمریکا ارسال کرده‌اند و از ترامپ خواسته‌اند تهدیدات خود را کاهش دهد، با این استدلال که لحن نرم‌تر می‌تواند سخت‌گیران در ایران را بیشتر به مشارکت در مذاکرات ترغیب کند.</text>
+      <views>5027</views>
+      <forwards>21</forwards>
+      <media type="none"/>
+    </post>
+    <post id="44999">
+      <date>2026-04-25T20:42:18.000Z</date>
+      <text>🔴 فعالیت توپ ضدهوایی در کرمانشاه؛ تایید شده.</text>
+      <views>6272</views>
+      <forwards>72</forwards>
+      <media type="none"/>
+    </post>
     <post id="44998">
       <date>2026-04-25T20:08:46.000Z</date>
       <text>🔴 کانال ۱۲ اسرائیل هم شروع مجدد حملات اسرائیل به لبنان رو تأیید کرد.</text>
-      <views>3750</views>
-      <forwards>22</forwards>
+      <views>9384</views>
+      <forwards>34</forwards>
       <media type="none"/>
     </post>
     <post id="44997">
       <date>2026-04-25T20:08:08.000Z</date>
       <text></text>
-      <views>4055</views>
-      <forwards>20</forwards>
+      <views>9380</views>
+      <forwards>31</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__44997__photo.jpg</file>
         <width>800</width>
@@ -32,8 +76,8 @@
     <post id="44996">
       <date>2026-04-25T20:08:08.000Z</date>
       <text></text>
-      <views>4055</views>
-      <forwards>20</forwards>
+      <views>9380</views>
+      <forwards>31</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__44996__photo.jpg</file>
         <width>960</width>
@@ -44,8 +88,8 @@
     <post id="44995">
       <date>2026-04-25T20:08:07.000Z</date>
       <text>🔴 تصاویری از حملات هوایی اسرائیل به لبنان.</text>
-      <views>4059</views>
-      <forwards>20</forwards>
+      <views>9384</views>
+      <forwards>31</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__44995__photo.jpg</file>
         <width>1112</width>
@@ -56,15 +100,15 @@
     <post id="44994">
       <date>2026-04-25T19:43:07.000Z</date>
       <text>بنظر که بزودی مارم میزنن.</text>
-      <views>7802</views>
-      <forwards>32</forwards>
+      <views>11555</views>
+      <forwards>42</forwards>
       <media type="none"/>
     </post>
     <post id="44993">
       <date>2026-04-25T19:40:49.000Z</date>
       <text>حملات اسرائیل به حزب‌الله باز استارت خورد.</text>
-      <views>8122</views>
-      <forwards>65</forwards>
+      <views>11865</views>
+      <forwards>75</forwards>
       <media type="none"/>
     </post>
     <post id="44992">
@@ -72,28 +116,28 @@
       <text>🔴 چیمیگی روانی.
 
 ترامپ: من تصمیمی برای تمدید آتش‌بس نگرفتم.</text>
-      <views>9045</views>
+      <views>12177</views>
       <forwards>55</forwards>
       <media type="none"/>
     </post>
     <post id="44991">
       <date>2026-04-25T19:19:58.000Z</date>
       <text>🔴 ترامپ: ایران امروز جوابش به پیشنهاد مارو ارسال کرد ولی وقتی دور دوم مذاکرات رو لغو کردم فوراً دستپاچه شدن و یه پیشنهاد جدید ظرف ۱۰ دقیقه دادن.</text>
-      <views>10611</views>
+      <views>13120</views>
       <forwards>75</forwards>
       <media type="none"/>
     </post>
     <post id="44990">
       <date>2026-04-25T19:19:14.000Z</date>
       <text>🔴 کانال ۱۴ اسرائیل به نقل از اسموتریچ: ایران یا تسلیم می‌شود یا ما به جنگ بازمی‌گردیم و باید مرزهای قابل دفاع جدیدی ایجاد کنیم.</text>
-      <views>10300</views>
+      <views>13102</views>
       <forwards>21</forwards>
       <media type="none"/>
     </post>
     <post id="44989">
       <date>2026-04-25T19:06:05.000Z</date>
       <text>روزشمار ظهور امام سیدعلی خامنه‌ای: روز نوزدهم، امام هنوز ظهور نکردند.</text>
-      <views>11250</views>
+      <views>13731</views>
       <forwards>22</forwards>
       <media type="none"/>
     </post>
@@ -104,7 +148,7 @@
 الاهلی عربستان با شکست ۱-۰ ماشیدای ژاپن تو وقت‌های اضافه، برای دومین‌بار متوالی قهرمان لیگ‌نخبگان آسیا شد.
 
 @CheKhabarr</text>
-      <views>11244</views>
+      <views>13420</views>
       <forwards>11</forwards>
       <media type="none"/>
     </post>
@@ -112,8 +156,8 @@
       <date>2026-04-25T18:54:46.000Z</date>
       <text>🔴 لیندزی گراهام: تصمیم رئیس‌جمهور ترامپ برای لغو سفر ویتکاف-کوشنر به پاکستان برای پیگیری مذاکرات بیشتر با ایران در این برهه بسیار عاقلانه بود.
 بیاید به محاصره ادامه بدیم، تنگه هرمز رو باز کنیم، در صورت لزوم عملیات نظامی را از سر بگیریم و اطمینان حاصل کنیم که ایران هرگز نمیتواند به روش‌های قدیمی خود بازگردد. آفرین، آقای رئیس‌جمهور.</text>
-      <views>11788</views>
-      <forwards>21</forwards>
+      <views>13656</views>
+      <forwards>31</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__44987__photo.jpg</file>
         <width>1200</width>
@@ -126,8 +170,8 @@
       <text>🔞 ویدیویی از درگیری لفظی بی‌نظیر ایرانیای مخالف جمهوری‌اسلامی با ایرانیای حامی فلسطین و ج.ا تو خارج 😂 آخرش عالی بود
 
 @CheKhabarr</text>
-      <views>12781</views>
-      <forwards>517</forwards>
+      <views>14341</views>
+      <forwards>567</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>70.032</duration_seconds>
@@ -140,7 +184,7 @@
       <text>نماینده‌های ترامپ و دیپلمات‌های آمریکایی درحال اومدن به منطقه برای مذاکره کردن.
 
 @Khabariee</text>
-      <views>12945</views>
+      <views>13889</views>
       <forwards>133</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__44985__photo.jpg</file>
@@ -152,58 +196,8 @@
     <post id="44984">
       <date>2026-04-25T17:19:56.000Z</date>
       <text>گفته شده پلیس پاکستان هم تمهیدات امنیتی رو برای خیابونای این کشور لغو کرده.</text>
-      <views>14113</views>
+      <views>15050</views>
       <forwards>78</forwards>
-      <media type="none"/>
-    </post>
-    <post id="44983">
-      <date>2026-04-25T17:18:47.000Z</date>
-      <text>جالبه بدونید که این خبرنگار از روز اول مذاکرات تو پاکستان بوده به دستور ترامپ.
-حالا ترامپ ازش خواسته کلا برگرده آمریکا.
-شکست کامل مذاکرات؟ خواهیم دید چه می‌شود!</text>
-      <views>14253</views>
-      <forwards>124</forwards>
-      <media type="none"/>
-    </post>
-    <post id="44982">
-      <date>2026-04-25T17:13:34.000Z</date>
-      <text>🔴 خبرنگار نیویورک پست: ترامپ بهم پیام داد و گفت برگرد خونه؛ مذاکرات کنسله.</text>
-      <views>14862</views>
-      <forwards>150</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__44982__photo.jpg</file>
-        <width>1176</width>
-        <height>1117</height>
-        <telegram_link>https://t.me/chekhabarre/44982</telegram_link>
-      </media>
-    </post>
-    <post id="44981">
-      <date>2026-04-25T16:39:20.000Z</date>
-      <text>🚨 ترامپ تو تروث: من همین الان سفر نماینده‌هام رو که قرار بود برن اسلام‌آباد پاکستان برای دیدار با ایرانی‌ها، کنسل کردم.
-خیلی وقته تلف شد، خیلی کار و دردسر! تازه، توی «رهبری» اونا هم یه هرج‌ومرج و دعوای حسابی هست. اصلاً هیچ‌کس نمی‌دونه کی داره اونجا رو اداره می‌کنه — حتی خودشون هم نه!
-ضمناً ما همه‌ی کارت‌ها رو داریم، اونا هیچی ندارن! اگر هم واقعاً می‌خوان حرف بزنن، خیلی ساده‌ست… فقط کافیه زنگ بزنن!!!</text>
-      <views>15517</views>
-      <forwards>124</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__44981__photo.jpg</file>
-        <width>1200</width>
-        <height>638</height>
-        <telegram_link>https://t.me/chekhabarre/44981</telegram_link>
-      </media>
-    </post>
-    <post id="44980">
-      <date>2026-04-25T16:15:25.000Z</date>
-      <text>🔴 ترامپ: سفر به پاکستان خیلی طولانیه. ما می‌تونیم همین کار رو از طریق تلفن هم انجام بدیم.</text>
-      <views>15449</views>
-      <forwards>36</forwards>
-      <media type="none"/>
-    </post>
-    <post id="44979">
-      <date>2026-04-25T15:58:38.000Z</date>
-      <text>🔴 ترامپ به فاکس نیوز: سفر ویتکاف و کوشنر به پاکستان برای مذاکره با ایران را لغو کردم و به دستیارانم گفتم که لازم نیست ۱۸ ساعت پرواز کنند تا در مورد «هیچ» حرف بزنند.
-ما همه کارت‌ها را داریم، آنها می‌توانند هر زمان با ما تماس بگیرند.</text>
-      <views>16046</views>
-      <forwards>126</forwards>
       <media type="none"/>
     </post>
   </posts>
