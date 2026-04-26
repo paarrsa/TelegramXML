@@ -7,207 +7,210 @@
     <members>259837</members>
     <profile>https://raw.githubusercontent.com/yourusername/yourrepo/main/profiles/bbcnews.png</profile>
     <telegram_link>https://t.me/chekhabarre</telegram_link>
-    <generated_at>2026-04-26T03:54:24.262Z</generated_at>
+    <generated_at>2026-04-26T06:08:47.663Z</generated_at>
   </meta>
   <posts>
-    <post id="45006">
-      <date>2026-04-25T22:02:24.000Z</date>
-      <text>تست کنید؛ خودم انجام دادم. 
-۳.۹ میلیون نفر! اونم هرکسی میتونه چندین‌بار‌ بدون ثبت کدملی، ثبت‌نام کنه</text>
-      <views>10904</views>
-      <forwards>125</forwards>
+    <post id="45028">
+      <date>2026-04-26T05:34:39.000Z</date>
+      <text>🔴 اژه‌ای: دشمن میخواد دستاوردهاش در جنگ رو با ایجاد انشقاق (شکاف) در نظام به سرانجام برسونه؛ زهی خیال باطل.</text>
+      <views>3753</views>
+      <forwards>0</forwards>
       <media type="none"/>
     </post>
-    <post id="45005">
-      <date>2026-04-25T21:54:06.000Z</date>
-      <text>🔴 مقام کاخ سفید به پولیتیکو: ترامپ قصد داره رئیس FBI رو از سمتش عزل کنه.</text>
-      <views>11482</views>
-      <forwards>18</forwards>
-      <media type="none"/>
-    </post>
-    <post id="45004">
-      <date>2026-04-25T21:38:15.000Z</date>
-      <text>[Gemini 3.1 Pro 🧠]
-
-سلام! ادعایی که در این توییت (از طرف دکتر علی شریفی زارچی، از اساتید شناخته‌شده علوم کامپیوتر) مطرح شده، از نظر فنی و منطق برنامه‌نویسی کاملاً معتبر و یک روش استاندارد برای کشف آمار واقعی سیستم‌ها است.
-
-برای درک بهتر اینکه چرا این ادعا از نظر فنی درست کار می‌کند، بیایید موضوع را به زبان ساده بررسی کنیم:
-
-📚 ۱. زمینه ماجرا چیست؟
-در پی تحولات اخیر و راه‌اندازی پویش ملی «جان‌فدا» در کشور (در بهار ۱۴۰۵)، مقامات رسمی و رسانه‌های دولتی بارها اعلام کرده‌اند که آمار ثبت‌نام‌کنندگان در این پویش از مرز ۳۰ میلیون نفر عبور کرده است. این توییت در واقع به چالش کشیدن همین آمار رسمی است.
-
-📚 ۲. منطق فنی توییت (شناسه‌های متوالی)
-ادعای توییت بر اساس یک اصل بسیار ساده و رایج در طراحی پایگاه داده (Database) بنا شده است:
-⦁ تولید شناسه (ID): در اکثر قریب به اتفاق وب‌سایت‌ها، وقتی کاربر جدیدی ثبت‌نام می‌کند، سیستم به‌طور خودکار یک عدد (شناسه یا ID) به او اختصاص می‌دهد. این اعداد معمولاً به صورت متوالی (Auto-Increment) بالا می‌روند. یعنی کاربر اول شناسه ۱، کاربر دوم شناسه ۲، و کاربر صدم شناسه ۱۰۰ را می‌گیرد.
-⦁ اشتباه برنامه‌نویسی (نشت داده): شریفی زارچی اشاره می‌کند که توسعه‌دهندگان سایت janfadaa.ir هنگام طراحی سیستمِ نمایش نظرات، به اشتباه شناسه (ID) اصلی ثبت‌نامی کاربران را در خروجی مخفی سایت (API) قرار داده‌اند.
-⦁ بررسی فواصل: اگر یک نفر همین الان در سایت ثبت‌نام کند و سیستم به او شناسه 3,850,000 را بدهد، و نفر بعدی چند دقیقه بعد شناسه 3,850,050 را بگیرد، از نظر ریاضی و منطق کامپیوتر، این سیستم در مجموع کمتر از ۴ میلیون ردیف (کاربر) در خود ثبت کرده است و ادعای ۳۰ میلیون کاربر غیرممکن می‌شود.
-
-📚 ۳. دستوری که در توییت نوشته شده چیست؟
-کدی که در پایین توییت قرار دارد:
-curl -s &apos;janfadaa.ir/ajax&apos; --data-raw &apos;action=getComments&apos; | jq
-
-این یک دستور استاندارد در محیط خط فرمان (ترمینال لینوکس یا مک) است. کار این دستور این است که بدون نیاز به مرورگر، مستقیماً به سرور سایت (بخش ajax) درخواست بفرستد و اطلاعات خام کامنت‌ها را دریافت کند. ابزار jq در انتهای دستور هم برای مرتب و خوانا کردن خروجیِ فایل (احتمالاً JSON) استفاده شده تا شناسه‌ها (ID) راحت‌تر دیده شوند.
-
-📚 جمع‌بندی
-از منظر مهندسی نرم‌افزار، استدلال فنی ایشان صددرصد درست است. اگر خروجیِ کدهای سایت، شناسه‌های جدید ثبت‌نام‌شدگان را در محدوده زیر ۴ میلیون نشان دهد، از نظر فنی ثابت می‌شود که تعداد واقعی رکوردهای موجود در دیتابیسِ آن سایت کمتر از ۴ میلیون نفر است و آمار ۳۰ میلیونی با واقعیت فنی سیستم همخوانی ندارد.</text>
-      <views>13057</views>
-      <forwards>452</forwards>
-      <media type="none"/>
-    </post>
-    <post id="45003">
-      <date>2026-04-25T21:02:48.000Z</date>
-      <text></text>
-      <views>15622</views>
-      <forwards>701</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__45003__photo.jpg</file>
-        <width>1080</width>
-        <height>883</height>
-        <telegram_link>https://t.me/chekhabarre/45003</telegram_link>
-      </media>
-    </post>
-    <post id="45002">
-      <date>2026-04-25T20:55:21.000Z</date>
-      <text></text>
-      <views>15178</views>
-      <forwards>59</forwards>
-      <media type="audio" available="false">
-        <mime_type>audio/ogg</mime_type>
-        <note>Audio not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/45002</telegram_link>
-      </media>
-    </post>
-    <post id="45001">
-      <date>2026-04-25T20:51:04.000Z</date>
-      <text>🔴 فعالیت مجدد توپ ضدهوایی کرمانشاه؛ تایید شده.</text>
-      <views>15341</views>
-      <forwards>57</forwards>
-      <media type="none"/>
-    </post>
-    <post id="45000">
-      <date>2026-04-25T20:47:54.000Z</date>
-      <text>🔴 وال استریت ژورنال: مقامات جمهوری اسلامی پیام‌هایی به آمریکا ارسال کرده‌اند و از ترامپ خواسته‌اند تهدیدات خود را کاهش دهد، با این استدلال که لحن نرم‌تر می‌تواند سخت‌گیران در ایران را بیشتر به مشارکت در مذاکرات ترغیب کند.</text>
-      <views>15230</views>
-      <forwards>25</forwards>
-      <media type="none"/>
-    </post>
-    <post id="44999">
-      <date>2026-04-25T20:42:18.000Z</date>
-      <text>🔴 فعالیت توپ ضدهوایی در کرمانشاه؛ تایید شده.</text>
-      <views>15556</views>
-      <forwards>76</forwards>
-      <media type="none"/>
-    </post>
-    <post id="44998">
-      <date>2026-04-25T20:08:46.000Z</date>
-      <text>🔴 کانال ۱۲ اسرائیل هم شروع مجدد حملات اسرائیل به لبنان رو تأیید کرد.</text>
-      <views>16687</views>
-      <forwards>37</forwards>
-      <media type="none"/>
-    </post>
-    <post id="44997">
-      <date>2026-04-25T20:08:08.000Z</date>
-      <text></text>
-      <views>16489</views>
-      <forwards>34</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__44997__photo.jpg</file>
-        <width>800</width>
-        <height>455</height>
-        <telegram_link>https://t.me/chekhabarre/44997</telegram_link>
-      </media>
-    </post>
-    <post id="44996">
-      <date>2026-04-25T20:08:08.000Z</date>
-      <text></text>
-      <views>16485</views>
-      <forwards>34</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__44996__photo.jpg</file>
-        <width>960</width>
-        <height>1280</height>
-        <telegram_link>https://t.me/chekhabarre/44996</telegram_link>
-      </media>
-    </post>
-    <post id="44995">
-      <date>2026-04-25T20:08:07.000Z</date>
-      <text>🔴 تصاویری از حملات هوایی اسرائیل به لبنان.</text>
-      <views>16283</views>
-      <forwards>34</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__44995__photo.jpg</file>
-        <width>1112</width>
-        <height>1132</height>
-        <telegram_link>https://t.me/chekhabarre/44995</telegram_link>
-      </media>
-    </post>
-    <post id="44994">
-      <date>2026-04-25T19:43:07.000Z</date>
-      <text>بنظر که بزودی مارم میزنن.</text>
-      <views>17100</views>
-      <forwards>47</forwards>
-      <media type="none"/>
-    </post>
-    <post id="44993">
-      <date>2026-04-25T19:40:49.000Z</date>
-      <text>حملات اسرائیل به حزب‌الله باز استارت خورد.</text>
-      <views>17167</views>
-      <forwards>89</forwards>
-      <media type="none"/>
-    </post>
-    <post id="44992">
-      <date>2026-04-25T19:33:38.000Z</date>
-      <text>🔴 چیمیگی روانی.
-
-ترامپ: من تصمیمی برای تمدید آتش‌بس نگرفتم.</text>
-      <views>17382</views>
-      <forwards>60</forwards>
-      <media type="none"/>
-    </post>
-    <post id="44991">
-      <date>2026-04-25T19:19:58.000Z</date>
-      <text>🔴 ترامپ: ایران امروز جوابش به پیشنهاد مارو ارسال کرد ولی وقتی دور دوم مذاکرات رو لغو کردم فوراً دستپاچه شدن و یه پیشنهاد جدید ظرف ۱۰ دقیقه دادن.</text>
-      <views>17924</views>
-      <forwards>90</forwards>
-      <media type="none"/>
-    </post>
-    <post id="44990">
-      <date>2026-04-25T19:19:14.000Z</date>
-      <text>🔴 کانال ۱۴ اسرائیل به نقل از اسموتریچ: ایران یا تسلیم می‌شود یا ما به جنگ بازمی‌گردیم و باید مرزهای قابل دفاع جدیدی ایجاد کنیم.</text>
-      <views>17482</views>
+    <post id="45027">
+      <date>2026-04-26T05:31:33.000Z</date>
+      <text>گفته شده فرد مهاجم این شخص بوده به‌نام «کول آلن» که معلم هم بوده.</text>
+      <views>4062</views>
       <forwards>23</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__45027__photo.jpg</file>
+        <width>1200</width>
+        <height>1200</height>
+        <telegram_link>https://t.me/chekhabarre/45027</telegram_link>
+      </media>
+    </post>
+    <post id="45026">
+      <date>2026-04-26T05:28:26.000Z</date>
+      <text>🔴 شوخی ترامپ حین گفتگوش: هیچ‌کس به من نگفته بود این شغل اینقدر خطرناکه، اگه‌ مارکو (روبیو) به من گفته بود شاید اصلا نامزد نمیشدم.</text>
+      <views>4379</views>
+      <forwards>22</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>47.382</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/45026</telegram_link>
+      </media>
+    </post>
+    <post id="45025">
+      <date>2026-04-26T05:08:21.000Z</date>
+      <text>مهاجم اگر به ج.ا ربط داشته باشه احتمال شروع مجدد جنگ ۱۱۰٪ می‌ره بالاتر.</text>
+      <views>5613</views>
+      <forwards>20</forwards>
       <media type="none"/>
     </post>
-    <post id="44989">
-      <date>2026-04-25T19:06:05.000Z</date>
-      <text>روزشمار ظهور امام سیدعلی خامنه‌ای: روز نوزدهم، امام هنوز ظهور نکردند.</text>
-      <views>17685</views>
-      <forwards>24</forwards>
+    <post id="45024">
+      <date>2026-04-26T05:07:07.000Z</date>
+      <text>🔴 ترامپ: افراد مهاجم به‌سمت کسانی نمی‌روند که هیچ کاری نمی‌کنند؛ آنها به کسانی حمله می‌کنند که کارهای خوب انجام می‌دهند. ما کارهای زیادی کرده‌ایم.</text>
+      <views>5615</views>
+      <forwards>10</forwards>
       <media type="none"/>
     </post>
-    <post id="44988">
-      <date>2026-04-25T19:04:51.000Z</date>
-      <text>⚽️ از #فوتبال چه‌خبر؟ 
-
-الاهلی عربستان با شکست ۱-۰ ماشیدای ژاپن تو وقت‌های اضافه، برای دومین‌بار متوالی قهرمان لیگ‌نخبگان آسیا شد.
-
-@CheKhabarr</text>
-      <views>17328</views>
-      <forwards>12</forwards>
+    <post id="45023">
+      <date>2026-04-26T05:06:14.000Z</date>
+      <text>🔴 ترامپ: همیشه در جهان چهره‌های تأثیرگذار هدف حمله قرار می‌گیرن.</text>
+      <views>5616</views>
+      <forwards>10</forwards>
       <media type="none"/>
     </post>
-    <post id="44987">
-      <date>2026-04-25T18:54:46.000Z</date>
-      <text>🔴 لیندزی گراهام: تصمیم رئیس‌جمهور ترامپ برای لغو سفر ویتکاف-کوشنر به پاکستان برای پیگیری مذاکرات بیشتر با ایران در این برهه بسیار عاقلانه بود.
-بیاید به محاصره ادامه بدیم، تنگه هرمز رو باز کنیم، در صورت لزوم عملیات نظامی را از سر بگیریم و اطمینان حاصل کنیم که ایران هرگز نمیتواند به روش‌های قدیمی خود بازگردد. آفرین، آقای رئیس‌جمهور.</text>
-      <views>17129</views>
+    <post id="45022">
+      <date>2026-04-26T05:05:04.000Z</date>
+      <text>وزیر جنگ، پیت هگست، بدون هیچگونه هراسی درحال رفتن به‌سمت مکان امن پس از تیراندازی.</text>
+      <views>5921</views>
+      <forwards>40</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>4.505</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/45022</telegram_link>
+      </media>
+    </post>
+    <post id="45021">
+      <date>2026-04-26T05:03:31.000Z</date>
+      <text>🔴 تصویری از مارکو روبیو و همسرش پس از تیراندازی تو کاخ سفید.</text>
+      <views>5611</views>
+      <forwards>21</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__45021__photo.jpg</file>
+        <width>647</width>
+        <height>795</height>
+        <telegram_link>https://t.me/chekhabarre/45021</telegram_link>
+      </media>
+    </post>
+    <post id="45020">
+      <date>2026-04-26T05:01:37.000Z</date>
+      <text>🔴 تصویری از گارد ویژه آمریکا بیرون کاخ سفید.</text>
+      <views>5611</views>
+      <forwards>0</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__45020__photo.jpg</file>
+        <width>1200</width>
+        <height>802</height>
+        <telegram_link>https://t.me/chekhabarre/45020</telegram_link>
+      </media>
+    </post>
+    <post id="45018">
+      <date>2026-04-26T04:58:55.000Z</date>
+      <text>🔴 ترامپ همچنین تصویر لحظه‌ی بازداشت فرد مظنون به تیراندازی رو هم تو تروث سوشال پست کرد.</text>
+      <views>5917</views>
       <forwards>32</forwards>
       <media type="photo" available="true">
-        <file>img/chekhabarre__44987__photo.jpg</file>
-        <width>1200</width>
-        <height>1051</height>
-        <telegram_link>https://t.me/chekhabarre/44987</telegram_link>
+        <file>img/chekhabarre__45018__photo.jpg</file>
+        <width>726</width>
+        <height>689</height>
+        <telegram_link>https://t.me/chekhabarre/45018</telegram_link>
       </media>
+    </post>
+    <post id="45017">
+      <date>2026-04-26T04:57:08.000Z</date>
+      <text>🔴 ترامپ ویدئوی دوربین مداربسته از لحظه‌ی حمله‌ فرد مسلح رو تو تروث سوشال پست کرده.</text>
+      <views>5920</views>
+      <forwards>42</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>19.328</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/45017</telegram_link>
+      </media>
+    </post>
+    <post id="45016">
+      <date>2026-04-26T04:55:42.000Z</date>
+      <text>🔴 ترامپ: یک افسر از فاصله بسیار نزدیک مورد اصابت گلوله قرار گرفت اما جلیقه ضدگلوله به تن داشت.
+او حالش خوب است چون جلیقه عالی بود و کار خودش رو انجام داد.</text>
+      <views>5924</views>
+      <forwards>10</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>22.059</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/45016</telegram_link>
+      </media>
+    </post>
+    <post id="45015">
+      <date>2026-04-26T04:53:55.000Z</date>
+      <text>🔴 ترامپ: فکر نکنم این حمله به جنگ ایران مرتبط باشه ولی هنوز نمی‌تونم چیزی رو با قاطعیت بگم.</text>
+      <views>5964</views>
+      <forwards>11</forwards>
+      <media type="none"/>
+    </post>
+    <post id="45014">
+      <date>2026-04-26T04:53:28.000Z</date>
+      <text>🔴 ترامپ: این حمله نمی‌تونه حواس من رو از «جنگ ایران» پرت کنه.</text>
+      <views>6032</views>
+      <forwards>13</forwards>
+      <media type="none"/>
+    </post>
+    <post id="45013">
+      <date>2026-04-26T04:51:59.000Z</date>
+      <text>🔴 ترامپ: این دومین بار تو یکسال اخیره که ۲ چهره‌ی جمهوریخواه هدف تیراندازی قرار می‌گیرن.</text>
+      <views>5915</views>
+      <forwards>1</forwards>
+      <media type="none"/>
+    </post>
+    <post id="45012">
+      <date>2026-04-26T04:51:13.000Z</date>
+      <text>🔴 اولین تصویر از فرد مظنون به تیراندازی در کاخ سفید که تو آمبولانس حضور داره.
+خبر بد برای جمهوری‌اسلامی اینه که طرف زنده مونده و ممکنه اعتراف کنه که از کجا دستور گرفته.</text>
+      <views>6042</views>
+      <forwards>29</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__45012__photo.jpg</file>
+        <width>680</width>
+        <height>453</height>
+        <telegram_link>https://t.me/chekhabarre/45012</telegram_link>
+      </media>
+    </post>
+    <post id="45011">
+      <date>2026-04-26T04:49:32.000Z</date>
+      <text></text>
+      <views>6210</views>
+      <forwards>65</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>75</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/45011</telegram_link>
+      </media>
+    </post>
+    <post id="45010">
+      <date>2026-04-26T04:49:32.000Z</date>
+      <text></text>
+      <views>6249</views>
+      <forwards>65</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>27.052</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/45010</telegram_link>
+      </media>
+    </post>
+    <post id="45009">
+      <date>2026-04-26T04:49:31.000Z</date>
+      <text>🔴 ویدئوهایی از لحظات اولیه‌ی تیراندازی تو کاخ سفید و انتقال ترامپ و ونس به مکان امن.</text>
+      <views>6255</views>
+      <forwards>66</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>27.667</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/45009</telegram_link>
+      </media>
+    </post>
+    <post id="45008">
+      <date>2026-04-26T04:46:57.000Z</date>
+      <text>🔴 ترامپ: فرد مهاجم با چندین سلاح به‌سمت نیروهای امنیتی کاخ سفید یورش برد که ایست بازرسی برقرار کرده بودن.</text>
+      <views>6217</views>
+      <forwards>0</forwards>
+      <media type="none"/>
     </post>
   </posts>
 </channel>
