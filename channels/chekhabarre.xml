@@ -7,22 +7,22 @@
     <members>259837</members>
     <profile>https://raw.githubusercontent.com/yourusername/yourrepo/main/profiles/bbcnews.png</profile>
     <telegram_link>https://t.me/chekhabarre</telegram_link>
-    <generated_at>2026-04-26T00:04:14.198Z</generated_at>
+    <generated_at>2026-04-26T03:54:24.262Z</generated_at>
   </meta>
   <posts>
     <post id="45006">
       <date>2026-04-25T22:02:24.000Z</date>
       <text>تست کنید؛ خودم انجام دادم. 
 ۳.۹ میلیون نفر! اونم هرکسی میتونه چندین‌بار‌ بدون ثبت کدملی، ثبت‌نام کنه</text>
-      <views>7891</views>
-      <forwards>99</forwards>
+      <views>10904</views>
+      <forwards>125</forwards>
       <media type="none"/>
     </post>
     <post id="45005">
       <date>2026-04-25T21:54:06.000Z</date>
       <text>🔴 مقام کاخ سفید به پولیتیکو: ترامپ قصد داره رئیس FBI رو از سمتش عزل کنه.</text>
-      <views>8578</views>
-      <forwards>13</forwards>
+      <views>11482</views>
+      <forwards>18</forwards>
       <media type="none"/>
     </post>
     <post id="45004">
@@ -50,15 +50,15 @@ curl -s &apos;janfadaa.ir/ajax&apos; --data-raw &apos;action=getComments&apos; |
 
 📚 جمع‌بندی
 از منظر مهندسی نرم‌افزار، استدلال فنی ایشان صددرصد درست است. اگر خروجیِ کدهای سایت، شناسه‌های جدید ثبت‌نام‌شدگان را در محدوده زیر ۴ میلیون نشان دهد، از نظر فنی ثابت می‌شود که تعداد واقعی رکوردهای موجود در دیتابیسِ آن سایت کمتر از ۴ میلیون نفر است و آمار ۳۰ میلیونی با واقعیت فنی سیستم همخوانی ندارد.</text>
-      <views>10147</views>
-      <forwards>380</forwards>
+      <views>13057</views>
+      <forwards>452</forwards>
       <media type="none"/>
     </post>
     <post id="45003">
       <date>2026-04-25T21:02:48.000Z</date>
       <text></text>
-      <views>13009</views>
-      <forwards>622</forwards>
+      <views>15622</views>
+      <forwards>701</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__45003__photo.jpg</file>
         <width>1080</width>
@@ -69,8 +69,8 @@ curl -s &apos;janfadaa.ir/ajax&apos; --data-raw &apos;action=getComments&apos; |
     <post id="45002">
       <date>2026-04-25T20:55:21.000Z</date>
       <text></text>
-      <views>12982</views>
-      <forwards>58</forwards>
+      <views>15178</views>
+      <forwards>59</forwards>
       <media type="audio" available="false">
         <mime_type>audio/ogg</mime_type>
         <note>Audio not stored — view on Telegram</note>
@@ -80,36 +80,36 @@ curl -s &apos;janfadaa.ir/ajax&apos; --data-raw &apos;action=getComments&apos; |
     <post id="45001">
       <date>2026-04-25T20:51:04.000Z</date>
       <text>🔴 فعالیت مجدد توپ ضدهوایی کرمانشاه؛ تایید شده.</text>
-      <views>13187</views>
-      <forwards>56</forwards>
+      <views>15341</views>
+      <forwards>57</forwards>
       <media type="none"/>
     </post>
     <post id="45000">
       <date>2026-04-25T20:47:54.000Z</date>
       <text>🔴 وال استریت ژورنال: مقامات جمهوری اسلامی پیام‌هایی به آمریکا ارسال کرده‌اند و از ترامپ خواسته‌اند تهدیدات خود را کاهش دهد، با این استدلال که لحن نرم‌تر می‌تواند سخت‌گیران در ایران را بیشتر به مشارکت در مذاکرات ترغیب کند.</text>
-      <views>13182</views>
-      <forwards>24</forwards>
+      <views>15230</views>
+      <forwards>25</forwards>
       <media type="none"/>
     </post>
     <post id="44999">
       <date>2026-04-25T20:42:18.000Z</date>
       <text>🔴 فعالیت توپ ضدهوایی در کرمانشاه؛ تایید شده.</text>
-      <views>13622</views>
-      <forwards>75</forwards>
+      <views>15556</views>
+      <forwards>76</forwards>
       <media type="none"/>
     </post>
     <post id="44998">
       <date>2026-04-25T20:08:46.000Z</date>
       <text>🔴 کانال ۱۲ اسرائیل هم شروع مجدد حملات اسرائیل به لبنان رو تأیید کرد.</text>
-      <views>15108</views>
-      <forwards>36</forwards>
+      <views>16687</views>
+      <forwards>37</forwards>
       <media type="none"/>
     </post>
     <post id="44997">
       <date>2026-04-25T20:08:08.000Z</date>
       <text></text>
-      <views>14941</views>
-      <forwards>33</forwards>
+      <views>16489</views>
+      <forwards>34</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__44997__photo.jpg</file>
         <width>800</width>
@@ -120,8 +120,8 @@ curl -s &apos;janfadaa.ir/ajax&apos; --data-raw &apos;action=getComments&apos; |
     <post id="44996">
       <date>2026-04-25T20:08:08.000Z</date>
       <text></text>
-      <views>14936</views>
-      <forwards>33</forwards>
+      <views>16485</views>
+      <forwards>34</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__44996__photo.jpg</file>
         <width>960</width>
@@ -132,8 +132,8 @@ curl -s &apos;janfadaa.ir/ajax&apos; --data-raw &apos;action=getComments&apos; |
     <post id="44995">
       <date>2026-04-25T20:08:07.000Z</date>
       <text>🔴 تصاویری از حملات هوایی اسرائیل به لبنان.</text>
-      <views>14767</views>
-      <forwards>33</forwards>
+      <views>16283</views>
+      <forwards>34</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__44995__photo.jpg</file>
         <width>1112</width>
@@ -144,15 +144,15 @@ curl -s &apos;janfadaa.ir/ajax&apos; --data-raw &apos;action=getComments&apos; |
     <post id="44994">
       <date>2026-04-25T19:43:07.000Z</date>
       <text>بنظر که بزودی مارم میزنن.</text>
-      <views>15875</views>
-      <forwards>46</forwards>
+      <views>17100</views>
+      <forwards>47</forwards>
       <media type="none"/>
     </post>
     <post id="44993">
       <date>2026-04-25T19:40:49.000Z</date>
       <text>حملات اسرائیل به حزب‌الله باز استارت خورد.</text>
-      <views>15973</views>
-      <forwards>88</forwards>
+      <views>17167</views>
+      <forwards>89</forwards>
       <media type="none"/>
     </post>
     <post id="44992">
@@ -160,28 +160,28 @@ curl -s &apos;janfadaa.ir/ajax&apos; --data-raw &apos;action=getComments&apos; |
       <text>🔴 چیمیگی روانی.
 
 ترامپ: من تصمیمی برای تمدید آتش‌بس نگرفتم.</text>
-      <views>16261</views>
-      <forwards>59</forwards>
+      <views>17382</views>
+      <forwards>60</forwards>
       <media type="none"/>
     </post>
     <post id="44991">
       <date>2026-04-25T19:19:58.000Z</date>
       <text>🔴 ترامپ: ایران امروز جوابش به پیشنهاد مارو ارسال کرد ولی وقتی دور دوم مذاکرات رو لغو کردم فوراً دستپاچه شدن و یه پیشنهاد جدید ظرف ۱۰ دقیقه دادن.</text>
-      <views>16917</views>
-      <forwards>89</forwards>
+      <views>17924</views>
+      <forwards>90</forwards>
       <media type="none"/>
     </post>
     <post id="44990">
       <date>2026-04-25T19:19:14.000Z</date>
       <text>🔴 کانال ۱۴ اسرائیل به نقل از اسموتریچ: ایران یا تسلیم می‌شود یا ما به جنگ بازمی‌گردیم و باید مرزهای قابل دفاع جدیدی ایجاد کنیم.</text>
-      <views>16517</views>
-      <forwards>21</forwards>
+      <views>17482</views>
+      <forwards>23</forwards>
       <media type="none"/>
     </post>
     <post id="44989">
       <date>2026-04-25T19:06:05.000Z</date>
       <text>روزشمار ظهور امام سیدعلی خامنه‌ای: روز نوزدهم، امام هنوز ظهور نکردند.</text>
-      <views>16824</views>
+      <views>17685</views>
       <forwards>24</forwards>
       <media type="none"/>
     </post>
@@ -192,7 +192,7 @@ curl -s &apos;janfadaa.ir/ajax&apos; --data-raw &apos;action=getComments&apos; |
 الاهلی عربستان با شکست ۱-۰ ماشیدای ژاپن تو وقت‌های اضافه، برای دومین‌بار متوالی قهرمان لیگ‌نخبگان آسیا شد.
 
 @CheKhabarr</text>
-      <views>16501</views>
+      <views>17328</views>
       <forwards>12</forwards>
       <media type="none"/>
     </post>
@@ -200,8 +200,8 @@ curl -s &apos;janfadaa.ir/ajax&apos; --data-raw &apos;action=getComments&apos; |
       <date>2026-04-25T18:54:46.000Z</date>
       <text>🔴 لیندزی گراهام: تصمیم رئیس‌جمهور ترامپ برای لغو سفر ویتکاف-کوشنر به پاکستان برای پیگیری مذاکرات بیشتر با ایران در این برهه بسیار عاقلانه بود.
 بیاید به محاصره ادامه بدیم، تنگه هرمز رو باز کنیم، در صورت لزوم عملیات نظامی را از سر بگیریم و اطمینان حاصل کنیم که ایران هرگز نمیتواند به روش‌های قدیمی خود بازگردد. آفرین، آقای رئیس‌جمهور.</text>
-      <views>16396</views>
-      <forwards>31</forwards>
+      <views>17129</views>
+      <forwards>32</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__44987__photo.jpg</file>
         <width>1200</width>
