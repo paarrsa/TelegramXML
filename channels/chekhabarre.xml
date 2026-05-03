@@ -7,30 +7,73 @@
     <members>259837</members>
     <profile>https://raw.githubusercontent.com/yourusername/yourrepo/main/profiles/bbcnews.png</profile>
     <telegram_link>https://t.me/chekhabarre</telegram_link>
-    <generated_at>2026-05-03T19:03:50.768Z</generated_at>
+    <generated_at>2026-05-03T19:58:52.160Z</generated_at>
   </meta>
   <posts>
+    <post id="45443">
+      <date>2026-05-03T19:50:48.000Z</date>
+      <text></text>
+      <views>3179</views>
+      <forwards>33</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__45443__photo.jpg</file>
+        <width>1200</width>
+        <height>800</height>
+        <telegram_link>https://t.me/chekhabarre/45443</telegram_link>
+      </media>
+    </post>
+    <post id="45442">
+      <date>2026-05-03T19:50:47.000Z</date>
+      <text></text>
+      <views>3176</views>
+      <forwards>34</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__45442__photo.jpg</file>
+        <width>1200</width>
+        <height>800</height>
+        <telegram_link>https://t.me/chekhabarre/45442</telegram_link>
+      </media>
+    </post>
+    <post id="45441">
+      <date>2026-05-03T19:50:47.000Z</date>
+      <text>تصاویری از هواپیمای جنگی A 10 آمریکایی تو منطقه.</text>
+      <views>3190</views>
+      <forwards>34</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__45441__photo.jpg</file>
+        <width>1200</width>
+        <height>800</height>
+        <telegram_link>https://t.me/chekhabarre/45441</telegram_link>
+      </media>
+    </post>
+    <post id="45440">
+      <date>2026-05-03T19:23:22.000Z</date>
+      <text>🔴 فارس: این گزارش الجزیره دروغه.</text>
+      <views>7812</views>
+      <forwards>1</forwards>
+      <media type="none"/>
+    </post>
     <post id="45439">
       <date>2026-05-03T18:59:49.000Z</date>
       <text>🔴 چه جالب، نمی‌دونستیم.
 
 ویتکاف به سی‌ان‌ان: درحال مذاکره با ایرانیم.</text>
-      <views>1504</views>
-      <forwards>6</forwards>
+      <views>10183</views>
+      <forwards>27</forwards>
       <media type="none"/>
     </post>
     <post id="45438">
       <date>2026-05-03T18:47:55.000Z</date>
       <text>🔴 کانال ۱۵ اسرائیل: آمریکا تمامی نیروهای زمینی خودش رو به خلیج فارس رسونده و آمادگی برای منفجر کردن بمب‌ها تو ایران وجود داره.</text>
-      <views>4381</views>
-      <forwards>51</forwards>
+      <views>11406</views>
+      <forwards>76</forwards>
       <media type="none"/>
     </post>
     <post id="45437">
       <date>2026-05-03T18:43:37.000Z</date>
       <text>🔴 ترامپ تو مصاحبه با شبکه کان اسرائیل: پیشنهاد ایران رو بررسی کردیم و برای ما قابل قبول نیست.</text>
-      <views>5241</views>
-      <forwards>24</forwards>
+      <views>11781</views>
+      <forwards>35</forwards>
       <media type="none"/>
     </post>
     <post id="45436">
@@ -38,8 +81,8 @@
       <text>🔴 بمیر دیگه مادرج.
 
 علیرضا دبیر: وظیفشونه به تیم ملی ویزا بدن. بیخود کردن به تیم ملی ویزا ندن اگه نمیتونن ویزا بدن بیخود کردن میزبان جام جهانی شدن. حرفای اون ترامپ احمقو ول کنین بابا.</text>
-      <views>6682</views>
-      <forwards>11</forwards>
+      <views>12471</views>
+      <forwards>23</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>91.625</duration_seconds>
@@ -50,42 +93,42 @@
     <post id="45435">
       <date>2026-05-03T18:05:23.000Z</date>
       <text>🔴 کانال ۱۲ اسرائیل: ارتش در آماده‌باش کامله.</text>
-      <views>9553</views>
-      <forwards>76</forwards>
+      <views>13643</views>
+      <forwards>77</forwards>
       <media type="none"/>
     </post>
     <post id="45434">
       <date>2026-05-03T17:25:13.000Z</date>
       <text>🚨 اکسیوس به نقل از منابع مطلع: پیشنهاد ایران با حداقل‌های مدنظر آمریکا فاصله خیلی زیادی دارد. احتمال پیشرفت یا گشایش در مذاکرات در حد صفر است و گزینه نظامی نزدیک‌تر شده است.</text>
-      <views>11882</views>
-      <forwards>69</forwards>
+      <views>14984</views>
+      <forwards>70</forwards>
       <media type="none"/>
     </post>
     <post id="45433">
       <date>2026-05-03T17:25:03.000Z</date>
       <text>بنظر میاد باز باید ماکارنا پخش کنیم</text>
-      <views>11809</views>
+      <views>14826</views>
       <forwards>22</forwards>
       <media type="none"/>
     </post>
     <post id="45432">
       <date>2026-05-03T17:22:14.000Z</date>
       <text>🚨 مقامات ارشد اسرائیلی به کانال ۱۴: بازگشت به جنگ با ایران را واقعیت دیکته می‌کند؛ مسئله این نیست که آیا این اتفاق می‌افتد یا نه، بلکه مسئله این است که چه زمانی این اتفاق می‌افتد.</text>
-      <views>12164</views>
-      <forwards>40</forwards>
+      <views>15004</views>
+      <forwards>41</forwards>
       <media type="none"/>
     </post>
     <post id="45431">
       <date>2026-05-03T17:02:51.000Z</date>
       <text>🔴 عمیخی اشتاین، خبرنگار i24NEWS: آمریکا پاسخ خودش رو به پیشنهاد اخیر ایران ارائه داد.</text>
-      <views>12900</views>
+      <views>15492</views>
       <forwards>17</forwards>
       <media type="none"/>
     </post>
     <post id="45430">
       <date>2026-05-03T16:49:19.000Z</date>
       <text>🔴 تسنیم: آمریکا به ایران پیشنهاد آتش بس دو ماهه رو داده اما ایران گفته جنگ باید بصورت کامل تموم بشه.</text>
-      <views>13528</views>
+      <views>15727</views>
       <forwards>20</forwards>
       <media type="none"/>
     </post>
@@ -93,15 +136,15 @@
       <date>2026-05-03T16:41:29.000Z</date>
       <text>🔴 منبع مطلع به i24 News: انتظار می‌رود رئیس‌جمهور ترامپ و دولتش، پاسخ رسمی‌ای به پیشنهاد ۱۴ بندی ایران ارسال کنند. 
 اختلاف بزرگ همچنان باقی است؛ مسئله هسته‌ای اورانیوم غنی‌شده.</text>
-      <views>13568</views>
+      <views>15675</views>
       <forwards>11</forwards>
       <media type="none"/>
     </post>
     <post id="45428">
       <date>2026-05-03T15:31:22.000Z</date>
       <text>[@OutOfContext]</text>
-      <views>15071</views>
-      <forwards>385</forwards>
+      <views>16894</views>
+      <forwards>417</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>44.4</duration_seconds>
@@ -112,8 +155,8 @@
     <post id="45427">
       <date>2026-05-03T15:31:22.000Z</date>
       <text></text>
-      <views>14758</views>
-      <forwards>376</forwards>
+      <views>16781</views>
+      <forwards>398</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__45427__photo.jpg</file>
         <width>659</width>
@@ -132,7 +175,7 @@
 آمریکا هم به جاش تحریم‌های ایران رو کم کم برمی‌داره
 
 ۳. تو مرحله سوم تهران قول داده در مورد موضوعات منطقه‌ای با بقیه کشورهای خاورمیانه وارد گفت‌وگو بشه</text>
-      <views>14537</views>
+      <views>16415</views>
       <forwards>50</forwards>
       <media type="none"/>
     </post>
@@ -153,7 +196,7 @@
 📌برای اطلاع از تحلیل بازی‌ها و ورود به کانال سایت جوین بدید: 👇
 
 🔵 @Wincobetofficial</text>
-      <views>14440</views>
+      <views>16556</views>
       <forwards>0</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__45423__photo.jpg</file>
@@ -169,56 +212,13 @@
 جناب اسپایدرمن هم توی تجمعات‌شبانه حضور پیدا کرده و گفته توی پویش جانفدا هم ثبت‌نام کرده.
 
 @CheKhabarr</text>
-      <views>18588</views>
-      <forwards>306</forwards>
+      <views>19755</views>
+      <forwards>316</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__45422__photo.jpg</file>
         <width>1080</width>
         <height>579</height>
         <telegram_link>https://t.me/chekhabarre/45422</telegram_link>
-      </media>
-    </post>
-    <post id="45421">
-      <date>2026-05-03T12:48:27.000Z</date>
-      <text>🔴 زارعی، وزیر صمت: قصد داریم خودروی دست‌دوم وارد کنیم.</text>
-      <views>17818</views>
-      <forwards>27</forwards>
-      <media type="none"/>
-    </post>
-    <post id="45420">
-      <date>2026-05-03T12:08:14.000Z</date>
-      <text></text>
-      <views>18414</views>
-      <forwards>390</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__45420__photo.jpg</file>
-        <width>532</width>
-        <height>800</height>
-        <telegram_link>https://t.me/chekhabarre/45420</telegram_link>
-      </media>
-    </post>
-    <post id="45419">
-      <date>2026-05-03T12:08:14.000Z</date>
-      <text></text>
-      <views>18074</views>
-      <forwards>389</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__45419__photo.jpg</file>
-        <width>520</width>
-        <height>800</height>
-        <telegram_link>https://t.me/chekhabarre/45419</telegram_link>
-      </media>
-    </post>
-    <post id="45418">
-      <date>2026-05-03T12:08:13.000Z</date>
-      <text>[@OutOfContext]</text>
-      <views>17856</views>
-      <forwards>389</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__45418__photo.jpg</file>
-        <width>1199</width>
-        <height>830</height>
-        <telegram_link>https://t.me/chekhabarre/45418</telegram_link>
       </media>
     </post>
   </posts>
