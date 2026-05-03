@@ -7,14 +7,29 @@
     <members>259837</members>
     <profile>https://raw.githubusercontent.com/yourusername/yourrepo/main/profiles/bbcnews.png</profile>
     <telegram_link>https://t.me/chekhabarre</telegram_link>
-    <generated_at>2026-05-03T15:56:57.692Z</generated_at>
+    <generated_at>2026-05-03T16:57:56.469Z</generated_at>
   </meta>
   <posts>
+    <post id="45430">
+      <date>2026-05-03T16:49:19.000Z</date>
+      <text>🔴 تسنیم: آمریکا به ایران پیشنهاد آتش بس دو ماهه رو داده اما ایران گفته جنگ باید بصورت کامل تموم بشه.</text>
+      <views>2403</views>
+      <forwards>11</forwards>
+      <media type="none"/>
+    </post>
+    <post id="45429">
+      <date>2026-05-03T16:41:29.000Z</date>
+      <text>🔴 منبع مطلع به i24 News: انتظار می‌رود رئیس‌جمهور ترامپ و دولتش، پاسخ رسمی‌ای به پیشنهاد ۱۴ بندی ایران ارسال کنند. 
+اختلاف بزرگ همچنان باقی است؛ مسئله هسته‌ای اورانیوم غنی‌شده.</text>
+      <views>3815</views>
+      <forwards>6</forwards>
+      <media type="none"/>
+    </post>
     <post id="45428">
       <date>2026-05-03T15:31:22.000Z</date>
       <text>[@OutOfContext]</text>
-      <views>3711</views>
-      <forwards>117</forwards>
+      <views>8812</views>
+      <forwards>262</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>44.4</duration_seconds>
@@ -25,8 +40,8 @@
     <post id="45427">
       <date>2026-05-03T15:31:22.000Z</date>
       <text></text>
-      <views>3719</views>
-      <forwards>114</forwards>
+      <views>8824</views>
+      <forwards>253</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__45427__photo.jpg</file>
         <width>659</width>
@@ -45,8 +60,8 @@
 آمریکا هم به جاش تحریم‌های ایران رو کم کم برمی‌داره
 
 ۳. تو مرحله سوم تهران قول داده در مورد موضوعات منطقه‌ای با بقیه کشورهای خاورمیانه وارد گفت‌وگو بشه</text>
-      <views>3963</views>
-      <forwards>20</forwards>
+      <views>9168</views>
+      <forwards>35</forwards>
       <media type="none"/>
     </post>
     <post id="45423">
@@ -66,7 +81,7 @@
 📌برای اطلاع از تحلیل بازی‌ها و ورود به کانال سایت جوین بدید: 👇
 
 🔵 @Wincobetofficial</text>
-      <views>4295</views>
+      <views>9058</views>
       <forwards>0</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__45423__photo.jpg</file>
@@ -82,8 +97,8 @@
 جناب اسپایدرمن هم توی تجمعات‌شبانه حضور پیدا کرده و گفته توی پویش جانفدا هم ثبت‌نام کرده.
 
 @CheKhabarr</text>
-      <views>13712</views>
-      <forwards>267</forwards>
+      <views>15957</views>
+      <forwards>282</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__45422__photo.jpg</file>
         <width>1080</width>
@@ -94,15 +109,15 @@
     <post id="45421">
       <date>2026-05-03T12:48:27.000Z</date>
       <text>🔴 زارعی، وزیر صمت: قصد داریم خودروی دست‌دوم وارد کنیم.</text>
-      <views>13397</views>
-      <forwards>26</forwards>
+      <views>15334</views>
+      <forwards>27</forwards>
       <media type="none"/>
     </post>
     <post id="45420">
       <date>2026-05-03T12:08:14.000Z</date>
       <text></text>
-      <views>14584</views>
-      <forwards>334</forwards>
+      <views>16278</views>
+      <forwards>354</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__45420__photo.jpg</file>
         <width>532</width>
@@ -113,8 +128,8 @@
     <post id="45419">
       <date>2026-05-03T12:08:14.000Z</date>
       <text></text>
-      <views>14569</views>
-      <forwards>335</forwards>
+      <views>16196</views>
+      <forwards>354</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__45419__photo.jpg</file>
         <width>520</width>
@@ -125,8 +140,8 @@
     <post id="45418">
       <date>2026-05-03T12:08:13.000Z</date>
       <text>[@OutOfContext]</text>
-      <views>14477</views>
-      <forwards>335</forwards>
+      <views>16089</views>
+      <forwards>354</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__45418__photo.jpg</file>
         <width>1199</width>
@@ -139,15 +154,15 @@
       <text>🔴 رضا الفت‌نسب، رئیس اتحادیه کسب‌و‌کارهای مجازی: اینترنت تو کشور صاحاب نداره. ماهم از این وضع خسته شده‌ایم. ما دو جنگ رو پشت‌سر گذاشتیم ولی هنوز پروتکل‌های مشخصی نداریم که اگه قرار شد فیلتر کنیم، چه چیزهایی رو باید فیلتر کنیم. چرا هوش‌مصنوعی رو فیلتر میکنیم؟ چرا سایتی که برای تحقیقات هست رو فیلتر میکنیم؟ باید این‌هارو لیست کنید. یبار میگید مرکز ملی فضای مجازی، یبار میگید وزارت‌ ارتباطات، یبار میگید وزارت صمت؛ حتی منیکه رئیس‌ اتحادیه کشوری کسب‌وکارهای فضای‌مجازی هستم هم نمیدونم در مورد اقتصاد دیجیتال باید با کی بشینید و صحبت کنید.
 
 @CheKhabarr</text>
-      <views>16227</views>
-      <forwards>41</forwards>
+      <views>17511</views>
+      <forwards>43</forwards>
       <media type="none"/>
     </post>
     <post id="45415">
       <date>2026-05-03T11:17:28.000Z</date>
       <text>روزشمار ظهور امام سیدعلی خامنه‌ای: روز بیست‌وهفتم، امام هنوز ظهور نکردند.</text>
-      <views>16208</views>
-      <forwards>28</forwards>
+      <views>17383</views>
+      <forwards>29</forwards>
       <media type="none"/>
     </post>
     <post id="45414">
@@ -155,8 +170,8 @@
       <text>🔴 ۱۰ گرم از همین جنس لطفا.
 
 سازمان اطلاعات سپاه: فضای تصمیم‌گیری برای آمریکا محدود شده؛ حالا ترامپ باید بین «عملیات غیرممکن» یا «یه توافق بد با ایران» یکی رو انتخاب کنه.</text>
-      <views>16115</views>
-      <forwards>26</forwards>
+      <views>17339</views>
+      <forwards>27</forwards>
       <media type="none"/>
     </post>
     <post id="45413">
@@ -164,8 +179,8 @@
       <text>🔴 دا یسریاشون از خودتوننا.
 
 امام جمعه رشت: اگه مردم تصمیم بگیرن، دمار از روزگار بی‌حجاب‌ها در میارن و دیگه نمیتونید به خیابان بیایید. این وضع کثیف غیرقابل تحمل است؛ شرمتان باد.</text>
-      <views>15914</views>
-      <forwards>15</forwards>
+      <views>17126</views>
+      <forwards>18</forwards>
       <media type="none"/>
     </post>
     <post id="45412">
@@ -173,22 +188,22 @@
       <text>🔴 شما بخونید دبیرستان‌های پرورش قاتل.
 
 منتظرالمهدی، سخنگوی فراجا: از آغاز سال تحصیلی جدید، دبیرستان‌های پلیس شروع به فعالیت میکنن و در مرحله نخست در استان‌های تهران، قم و البرز برپا میشن.</text>
-      <views>15826</views>
+      <views>16890</views>
       <forwards>19</forwards>
       <media type="none"/>
     </post>
     <post id="45411">
       <date>2026-05-03T11:11:27.000Z</date>
       <text>🔴 عراقچی و یاکریم نامه‌رسان عمانی امروز در مورد آخرین تحولات خاورمیانه تلفنی صحبت کردن.</text>
-      <views>15347</views>
+      <views>16357</views>
       <forwards>6</forwards>
       <media type="none"/>
     </post>
     <post id="45410">
       <date>2026-05-03T10:59:45.000Z</date>
       <text>[@OutOfContext]</text>
-      <views>15358</views>
-      <forwards>113</forwards>
+      <views>16445</views>
+      <forwards>121</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__45410__photo.jpg</file>
         <width>572</width>
@@ -199,35 +214,16 @@
     <post id="45409">
       <date>2026-05-03T10:55:20.000Z</date>
       <text>🔴 دادستان کیش در مورد انتشار ویدیوی جنجالی سواحل کیش: پس از بررسی‌های فنی مشخص شد که کلیپ منتشر شده تلفیقی از یک ویدیوی واقعی و هوش‌مصنوعیه؛ افرادی که در تهیه و بهره‌برداری از این ویدیو نقش داشته‌ان تحت پیگرد قانونی قرار میگیرن، کافه‌ای هم که از این کلیپ استفاده تبلیغاتی کرده بود پلمپ میشه.</text>
-      <views>15871</views>
+      <views>16745</views>
       <forwards>57</forwards>
       <media type="none"/>
     </post>
     <post id="45408">
       <date>2026-05-03T07:48:47.000Z</date>
       <text>🔴 تسنیم: بعد از جنگ، بنادر پاکستان رو جایگزین امارات کردیم.</text>
-      <views>18772</views>
+      <views>19465</views>
       <forwards>11</forwards>
       <media type="none"/>
-    </post>
-    <post id="45407">
-      <date>2026-05-03T07:48:03.000Z</date>
-      <text>🔴 معاون عراقچی: الان توپ تو زمین آمریکاست تا رویکرد دیپلماسی رو انتخاب کنه یا به رویارویی ادامه بده.</text>
-      <views>18619</views>
-      <forwards>8</forwards>
-      <media type="none"/>
-    </post>
-    <post id="45406">
-      <date>2026-05-03T07:47:58.000Z</date>
-      <text>حرامت باد ای خاک... 🖤</text>
-      <views>18740</views>
-      <forwards>67</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__45406__photo.jpg</file>
-        <width>1024</width>
-        <height>1280</height>
-        <telegram_link>https://t.me/chekhabarre/45406</telegram_link>
-      </media>
     </post>
   </posts>
 </channel>
