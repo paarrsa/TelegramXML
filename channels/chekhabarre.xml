@@ -7,14 +7,21 @@
     <members>259837</members>
     <profile>https://raw.githubusercontent.com/yourusername/yourrepo/main/profiles/bbcnews.png</profile>
     <telegram_link>https://t.me/chekhabarre</telegram_link>
-    <generated_at>2026-05-05T17:55:14.039Z</generated_at>
+    <generated_at>2026-05-05T19:25:18.732Z</generated_at>
   </meta>
   <posts>
+    <post id="45642">
+      <date>2026-05-05T18:31:55.000Z</date>
+      <text>🔴 سخنگوی قرارگاه خاتم‌الانبیا: نیروهای مسلح جمهوری‌اسلامی روز دوشنبه هیچگونه عملیات موشکی و پهپادی‌ای علیه امارات انجام ندادن و اگه میزدیم، با قاطعیت و صراحت اعلام میکردیم که زدیم.</text>
+      <views>7946</views>
+      <forwards>38</forwards>
+      <media type="none"/>
+    </post>
     <post id="45641">
       <date>2026-05-05T17:10:46.000Z</date>
       <text>🔴 رئیس ستاد مشترک ارتش آمریکا: امروز یه کشتی دیگه هم با پرچم آمریکا با موفقیت از تنگه هرمز عبور کرده.</text>
-      <views>6811</views>
-      <forwards>14</forwards>
+      <views>13259</views>
+      <forwards>20</forwards>
       <media type="none"/>
     </post>
     <post id="45640">
@@ -22,15 +29,15 @@
       <text>🔴 بمیر دیگه حرومز.
 
 عاصم منیر، فرمانده ارتش پاکستان: ما خواستار خویشتنداری برای کمک به کاهش تنش‌های فزاینده بین ایالات متحده و ایران هستیم.</text>
-      <views>7248</views>
-      <forwards>12</forwards>
+      <views>13486</views>
+      <forwards>17</forwards>
       <media type="none"/>
     </post>
     <post id="45639">
       <date>2026-05-05T17:01:08.000Z</date>
       <text>🔴 علی مطهری: داماد ما (علی لاریجانی) تو یه خونه امن تو پردیس کشته شد و هنوز نمی‌دونیم این خونه چجوری لو رفت.</text>
-      <views>8450</views>
-      <forwards>83</forwards>
+      <views>14211</views>
+      <forwards>109</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>121.289</duration_seconds>
@@ -41,14 +48,14 @@
     <post id="45637">
       <date>2026-05-05T16:50:51.000Z</date>
       <text>🔴 فرماندهی نیروی دریایی سپاه: به تمام شناورهایی که قصد تردد از تنگه را دارند هشدار می‌دهیم؛ تنها مسیر ایمن برای عبور از تنگه هرمز کریدوری که قبلا از طرف ایران اعلام شده می‌باشد و انحراف شناورها به سایر مسیرها، غیرایمن بوده و با برخورد قاطع نیروی دریایی سپاه روبرو خواهد شد.</text>
-      <views>9508</views>
+      <views>14414</views>
       <forwards>4</forwards>
       <media type="none"/>
     </post>
     <post id="45636">
       <date>2026-05-05T16:09:42.000Z</date>
       <text>🔴 ترامپ: ایران هیچ شانسی ندارد. هیچوقت هم نداشت. اونا خودشون میدونن. وقتی با من حرف میزنن، این رو بهم میگن.</text>
-      <views>12398</views>
+      <views>16020</views>
       <forwards>13</forwards>
       <media type="none"/>
     </post>
@@ -57,29 +64,29 @@
       <text>🔴 فحش یادشون نده دادا.
 
 ترامپ رو به بچه‌های حاضر تو کنفرانسش: باراک حسین اوباما. در موردش چیزی شنیدین؟</text>
-      <views>12471</views>
+      <views>16005</views>
       <forwards>13</forwards>
       <media type="none"/>
     </post>
     <post id="45634">
       <date>2026-05-05T16:06:59.000Z</date>
       <text>🔴 ترامپ در مورد ایران: اونا باید پرچم سفید تسلیم رو برافراشته کنن.</text>
-      <views>12563</views>
-      <forwards>23</forwards>
+      <views>16011</views>
+      <forwards>25</forwards>
       <media type="none"/>
     </post>
     <post id="45633">
       <date>2026-05-05T16:06:18.000Z</date>
       <text>🔴 ترامپ در مورد ایران: اونا باید کار عاقلانه‌ای انجام بدن، چون ما نمیخوایم وارد شیم و آدم‌هارو بکشیم. من نمیخواهم، من نمیخواهم، خیلی سخت است.</text>
-      <views>12570</views>
-      <forwards>14</forwards>
+      <views>15927</views>
+      <forwards>15</forwards>
       <media type="none"/>
     </post>
     <post id="45632">
       <date>2026-05-05T16:04:37.000Z</date>
       <text>🔴 ترامپ: امیدوارم سیستم مالی ایران ورشکست شود.</text>
-      <views>12684</views>
-      <forwards>15</forwards>
+      <views>15955</views>
+      <forwards>25</forwards>
       <media type="none"/>
     </post>
     <post id="45631">
@@ -87,7 +94,7 @@
       <text>🔴 دیگه فیک‌نیوز و رسانه‌ جعلی نیستن پس.
 
 ترامپ: طبق گزارش سی‌ان‌ان، من در حزب جمهوری‌خواه ۱۰۰٪ تایید شده‌ام.</text>
-      <views>12608</views>
+      <views>15795</views>
       <forwards>1</forwards>
       <media type="none"/>
     </post>
@@ -95,36 +102,36 @@
       <date>2026-05-05T16:01:56.000Z</date>
       <text>🔴 ترامپ: میتونم این ر‌و بگم، ایران میخواد معامله‌ای انجام بده‌.
 ولی چیزی که در مورد ایران دوست ندارم اینه‌که اونا با احترام خیلی بزرگی با من صحبت میکنن، سپس به تلویزیون میرن و میگن «ما با ترامپ صحبت نکرده‌ایم!». اونا بازی میکنن.</text>
-      <views>12663</views>
-      <forwards>37</forwards>
+      <views>15660</views>
+      <forwards>40</forwards>
       <media type="none"/>
     </post>
     <post id="45629">
       <date>2026-05-05T15:59:09.000Z</date>
       <text>🔴 ترامپ: شی (رئیس‌جمهور چین) در موضوع ایران خیلی باهامون مهربون بوده؛ چین مارو به چالش نکشیده، اونا مارو به چالش نمیکشن.</text>
-      <views>12550</views>
+      <views>15426</views>
       <forwards>2</forwards>
       <media type="none"/>
     </post>
     <post id="45628">
       <date>2026-05-05T15:57:28.000Z</date>
       <text>🔴 ترامپ: ایران در ماه‌های گذشته ۴۲ هزار معترض رو کشت.</text>
-      <views>12520</views>
+      <views>15282</views>
       <forwards>8</forwards>
       <media type="none"/>
     </post>
     <post id="45627">
       <date>2026-05-05T14:25:11.000Z</date>
       <text>🔴 وزارت‌دفاع امارات: پدافندهوایی امارات درحال مقابله با حملات موشکی (بالستیک و کروز) و پهپادی از سمت ایرانه.</text>
-      <views>16115</views>
+      <views>17880</views>
       <forwards>41</forwards>
       <media type="none"/>
     </post>
     <post id="45626">
       <date>2026-05-05T14:23:30.000Z</date>
       <text></text>
-      <views>15362</views>
-      <forwards>74</forwards>
+      <views>16885</views>
+      <forwards>76</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__45626__photo.jpg</file>
         <width>1200</width>
@@ -135,8 +142,8 @@
     <post id="45625">
       <date>2026-05-05T14:23:29.000Z</date>
       <text></text>
-      <views>15327</views>
-      <forwards>74</forwards>
+      <views>16838</views>
+      <forwards>76</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__45625__photo.jpg</file>
         <width>1200</width>
@@ -147,8 +154,8 @@
     <post id="45624">
       <date>2026-05-05T14:23:29.000Z</date>
       <text></text>
-      <views>15249</views>
-      <forwards>74</forwards>
+      <views>16718</views>
+      <forwards>76</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__45624__photo.jpg</file>
         <width>1200</width>
@@ -161,8 +168,8 @@
       <text>🔵 تصاویری از وضعیت وحشتناک پاساژ ارغوان اندیشه در حین آتش‌سوزی.
 
 @Khabariee</text>
-      <views>14923</views>
-      <forwards>74</forwards>
+      <views>16301</views>
+      <forwards>76</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__45623__photo.jpg</file>
         <width>1200</width>
@@ -173,19 +180,8 @@
     <post id="45622">
       <date>2026-05-05T14:19:04.000Z</date>
       <text>🔴 سازمان بحران و مدیریت اضطراری امارات: در پی دریافت هشدار حمله‌موشکی، پدافندهای هواییمون فعال شدن.</text>
-      <views>14986</views>
+      <views>16312</views>
       <forwards>1</forwards>
-      <media type="none"/>
-    </post>
-    <post id="45621">
-      <date>2026-05-05T14:04:14.000Z</date>
-      <text>🔴 سالای قبل که میگفتن قطعی نداریم روزی ۴ و ۶ ساعت قطع میشد، خدا به امسال رحم کنه.
-
-معاون پزشکیان: امسال ساعات قطعی برق بیشتر خواهد بود.
-
-@CheKhabarr</text>
-      <views>15741</views>
-      <forwards>65</forwards>
       <media type="none"/>
     </post>
   </posts>
