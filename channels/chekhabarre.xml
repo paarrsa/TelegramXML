@@ -7,14 +7,56 @@
     <members>259837</members>
     <profile>https://raw.githubusercontent.com/yourusername/yourrepo/main/profiles/bbcnews.png</profile>
     <telegram_link>https://t.me/chekhabarre</telegram_link>
-    <generated_at>2026-05-08T12:50:44.288Z</generated_at>
+    <generated_at>2026-05-08T14:29:37.571Z</generated_at>
   </meta>
   <posts>
+    <post id="45843">
+      <date>2026-05-08T14:09:43.000Z</date>
+      <text>🔴 فارس: از ساعتی پیش درگیری‌های پراکنده‌ای میان نیروهای مسلح ایران و شناورهای آمریکایی‌ در محدودهٔ تنگهٔ هرمز در جریان است.</text>
+      <views>4194</views>
+      <forwards>23</forwards>
+      <media type="none"/>
+    </post>
+    <post id="45842">
+      <date>2026-05-08T14:09:00.000Z</date>
+      <text>🔴 پنتاگون برای اولین‌بار، اسناد محرمانهٔ مربوط به UFOها رو منتشر کرده؛ یه ویدئو توسط ارتش ایالات متحده گرفته شده و یک جسم به شکل ستاره رو نشان می‌ده که با حرکتی ضربدری و سریع تو آسمون حرکت می‌کنه.</text>
+      <views>4443</views>
+      <forwards>110</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>80.964309692383</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/45842</telegram_link>
+      </media>
+    </post>
+    <post id="45841">
+      <date>2026-05-08T13:55:16.000Z</date>
+      <text>وی‌پی‌ان تضمینی خواستید: @VPNisho
+تعرفه و متودشون روهم آپدیت کردن پایینترین قیمت بالاترین سرعت.</text>
+      <views>5925</views>
+      <forwards>18</forwards>
+      <media type="none"/>
+    </post>
+    <post id="45840">
+      <date>2026-05-08T13:30:02.000Z</date>
+      <text>🔴 مهر: عصر جمعه تو سیریک بازم صدای انفجار شنیده شده.</text>
+      <views>8580</views>
+      <forwards>5</forwards>
+      <media type="none"/>
+    </post>
+    <post id="45839">
+      <date>2026-05-08T13:19:23.000Z</date>
+      <text>🔴 فاکس نیوز به نقل از یک مسئول آمریکایی: ارتش آمریکا امروز به نفتکش‌های ایرانی که قصد شکستن محاصره را داشتند، حمله کرد.
+نفتکش‌های هدف قرار گرفته، کشتی‌های بزرگ خالی بودند که قصد داشتند به ایران بازگردند.</text>
+      <views>9604</views>
+      <forwards>8</forwards>
+      <media type="none"/>
+    </post>
     <post id="45838">
       <date>2026-05-08T12:46:01.000Z</date>
       <text>[@OutOfContext]</text>
-      <views>1062</views>
-      <forwards>6</forwards>
+      <views>11547</views>
+      <forwards>135</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>138.461</duration_seconds>
@@ -25,28 +67,28 @@
     <post id="45837">
       <date>2026-05-08T12:21:36.000Z</date>
       <text>🔴 فرماندار میناب: در پی حمله دیشب آمریکا، ۱۰ ملوان مجروح و ۵ ملوان مفقود شدن.</text>
-      <views>5169</views>
-      <forwards>20</forwards>
+      <views>13326</views>
+      <forwards>22</forwards>
       <media type="none"/>
     </post>
     <post id="45836">
       <date>2026-05-08T12:11:34.000Z</date>
       <text>🔴 روبیو، وزیر خارجه آمریکا: ما امروز باید از ایران پاسخی دریافت کنیم و امیدوارم این یک پیشنهاد جدی باشد.</text>
-      <views>6718</views>
-      <forwards>16</forwards>
+      <views>13994</views>
+      <forwards>18</forwards>
       <media type="none"/>
     </post>
     <post id="45835">
       <date>2026-05-08T12:09:08.000Z</date>
       <text>🔴 بیانیه‌ی جدید سنتکام: تا الان بیش از ۷۰ نفتکش بخاطر حضور و کنترل نیروهای آمریکا نتونستن وارد یا خارجِ بنادر ایران بشن؛ این کشتی‌ها روی‌هم حدود ۱۶۶ میلیون بشکه نفت، به ارزش بیش از ۱۳ میلیارد دلار، ظرفیت حمل دارن.</text>
-      <views>7023</views>
-      <forwards>5</forwards>
+      <views>13992</views>
+      <forwards>6</forwards>
       <media type="none"/>
     </post>
     <post id="45834">
       <date>2026-05-08T11:17:24.000Z</date>
       <text>🔴 وزارت دفاع امارات: سامانه دفاع هواییمون امروز با ۲ موشک و ۳ پهپاد شلیک شده از سوی ایران مقابله کرد.</text>
-      <views>11342</views>
+      <views>16235</views>
       <forwards>4</forwards>
       <media type="none"/>
     </post>
@@ -55,8 +97,8 @@
       <text>🔴 تروث ترامپ در مورد ساقط کردن پهپادهای سپاه: «لیزرها: بینگ بینگ. رفت!!!»
 
 @CheKhabarr</text>
-      <views>12722</views>
-      <forwards>64</forwards>
+      <views>16972</views>
+      <forwards>67</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__45833__photo.jpg</file>
         <width>1080</width>
@@ -72,7 +114,7 @@
 قبلا گفتیم، الانم تکرار میکنیم که با چندتا ناوچه و ناو که هیچ، با کل نیرو دریایی‌تون هم نمیتونید از تنگه‌هرمز عبور کنید. فقط مثل یک بچه لوس میاید، کتک میخورید و برمیگردید.
 
 @CheKhabarr</text>
-      <views>13138</views>
+      <views>16802</views>
       <forwards>25</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__45832__photo.jpg</file>
@@ -88,7 +130,7 @@
 علم‌الهدی: سودجویان و عاملان اصلی گرونی تو کشور، پیاده‌نظام ارتش آمریکا ان.
 
 @CheKhabarr</text>
-      <views>13619</views>
+      <views>16806</views>
       <forwards>21</forwards>
       <media type="none"/>
     </post>
@@ -99,7 +141,7 @@
 احمد خاتمی: تا زمانی‌ که دیوانه‌ای مثل ترامپ هست، باید مقابلش وایساد و جنگ رو تموم‌شده ندونست. نیروهای مسلح همچنان دست‌به‌ماشه باشن.
 
 @CheKhabarr</text>
-      <views>13626</views>
+      <views>16834</views>
       <forwards>4</forwards>
       <media type="none"/>
     </post>
@@ -110,8 +152,8 @@
 رئیس دانشکده‌پزشکی علوم‌پزشکی تهران: امتحانات پایان‌ترم دانشجوهای پزشکی قطعا بصورت حضوری برگزار میشه و تو وزارت‌بهداشت به‌هیچ عنوان امتحان مجازی موردقبول نیست.
 
 @CheKhabarr</text>
-      <views>16372</views>
-      <forwards>43</forwards>
+      <views>18744</views>
+      <forwards>45</forwards>
       <media type="none"/>
     </post>
     <post id="45828">
@@ -119,7 +161,7 @@
       <text>🔴 رئیس سازمان توسعه‌تجارت: به منظور تامین نیازهای اساسی مردم، تموم کالاهای باقی‌مونده تو گمرک از سال قبل رو ترخیص کردیم.
 
 @CheKhabarr</text>
-      <views>16220</views>
+      <views>18488</views>
       <forwards>5</forwards>
       <media type="none"/>
     </post>
@@ -128,133 +170,30 @@
       <text>🔴 عمو لیندزی: مردم ایران سلاح بدید تا مسلحانه به خیابون بیان.
 
 @CheKhabarr</text>
-      <views>16185</views>
-      <forwards>30</forwards>
+      <views>18407</views>
+      <forwards>31</forwards>
       <media type="none"/>
     </post>
     <post id="45826">
       <date>2026-05-08T08:33:18.000Z</date>
       <text>هفتاد روز قطعی اینترنت.</text>
-      <views>18507</views>
+      <views>20124</views>
       <forwards>23</forwards>
       <media type="none"/>
     </post>
     <post id="45825">
       <date>2026-05-08T08:06:33.000Z</date>
       <text>🔴 رئیس دانشکده پزشکی علوم پزشکی تهران: امتحانات پایان ترم دانشجویان قطعا به صورت «حضوری» برگزار می‌شود.</text>
-      <views>19544</views>
-      <forwards>67</forwards>
+      <views>20928</views>
+      <forwards>69</forwards>
       <media type="none"/>
     </post>
     <post id="45824">
       <date>2026-05-08T08:06:05.000Z</date>
       <text>🔴 نیویورک تایمز: آمریکا ۱۷ میلیارد دلار موشک به کشورای منطقه فروخته‌.</text>
-      <views>19134</views>
-      <forwards>13</forwards>
+      <views>20432</views>
+      <forwards>14</forwards>
       <media type="none"/>
-    </post>
-    <post id="45823">
-      <date>2026-05-08T08:06:01.000Z</date>
-      <text>ترامپ: دلیل اینکه عملیات «پروژه آزادی» رو متوقف کردم این بود که رهبری بسیار خوب پاکستان و رهبرانش و فرمانده فیلد مارشال و نخست‌وزیر در این موضوع خیلی عالی عمل کردند. آن‌ها از ما خواستند که در زمان مذاکرات این کار را انجام ندهیم. اما اگر لازم باشد، دوباره به آن برمی‌گردیم.
-
-@Khabariee</text>
-      <views>17686</views>
-      <forwards>10</forwards>
-      <media type="video" available="false">
-        <mime_type>video/mp4</mime_type>
-        <duration_seconds>31.19</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/45823</telegram_link>
-      </media>
-    </post>
-    <post id="45822">
-      <date>2026-05-08T08:05:52.000Z</date>
-      <text>🟢 دسترسی سریع به سایت وینکوبت
-
-✅ کاربران عزیز، برای ورود آسان و بدون دردسر به سایت وینکوبت، می‌توانید از ربات رسمی استفاده کنید: 👇
-
-🤖 @Wincobet_bot
-🤖 @Wincobet_bot
-
-🔹 ورود سریع و مستقیم به سایت
-🔹 بدون نیاز به جستجوی لینک‌های مختلف
-🔹 دسترسی راحت از داخل تلگرام
-
-📌  همه چیز به ساده‌ترین شکل ممکن داخل ربات برای شما کاربران محترم فراهم شده.
-
-🔗 اگر دنبال یه راه مطمئن و سریع برای ورود هستید، ربات وینکوبت بهترین انتخاب شماست:
-
-🤖 @Wincobet_bot
-
-🔗 برای دریافت تحلیل بازی‌ها و اطلاع از آخرین بروزرسانی‌ها، به کانال رسمی وینکوبت بپیوندید: 👇
-
-🔵 @Wincobetofficial</text>
-      <views>18221</views>
-      <forwards>2</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__45822__photo.jpg</file>
-        <width>1200</width>
-        <height>1200</height>
-        <telegram_link>https://t.me/chekhabarre/45822</telegram_link>
-      </media>
-    </post>
-    <post id="45821">
-      <date>2026-05-08T07:13:21.000Z</date>
-      <text>🔴 گرون کردی منتم میزاری دادا؟
-
-رئیس کمیسیون حمل‌ونقل شورای شهر تهران: به منظور تشویق شهروندان به استفاده از حمل‌ونقل عمومی، قیمت مترو و بی‌آرتی «فقط» ۲۵ درصد گرون میشه.
-
-@CheKhabarr</text>
-      <views>19043</views>
-      <forwards>24</forwards>
-      <media type="none"/>
-    </post>
-    <post id="45820">
-      <date>2026-05-08T07:00:26.000Z</date>
-      <text>+ همتی، رئیس بانک‌مرکزی: مشکلات اقتصادی الان بخاطر جنگه.
-
-- طرف مقابل: پس چرا قبل جنگم وضعیت خوب نبود و مردم ناراضی بودن؟
-
-+ همتی: اون‌که بخاطر تحریم‌ها بود. شما مقاومت کنید ایشالا همه‌چی درست میشه.
-
-@Khabariee</text>
-      <views>18593</views>
-      <forwards>82</forwards>
-      <media type="video" available="false">
-        <mime_type>video/mp4</mime_type>
-        <duration_seconds>20.067</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/45820</telegram_link>
-      </media>
-    </post>
-    <post id="45819">
-      <date>2026-05-08T06:46:12.000Z</date>
-      <text>🔴 آپدیت جدید تلگرام با ۱۱ تغییر نسبتاً بزرگ منتشر شد؛ این ۱۱ تغییر به شرح زیرن:
-
-- صدا زدن ربات‌های هوش مصنوعی داخل هر چت.
-- گفتگو و همکاری ربات‌ها با همدیگر.
-- نمایش زنده جواب ربات هنگام تایپ‌شدن.
-- اتصال ربات به پروفایل برای پاسخ‌گویی خودکار.
-- ساخت سبک اختصاصی برای ویرایش متن با هوش مصنوعی.
-- جست‌وجو بین بیش از ۱۰۰ میلیون استیکر و ایموجی.
-- پشتیبانی جست‌وجوی استیکر در ۳۶ زبان.
-- محدود کردن رأی‌گیری بر اساس کشور یا عضویت در کانال.
-- آمار پیشرفته نظرسنجی‌ها برای مدیران.
-- ارسال پیام زمان‌بندی‌شده به‌صورت بی‌صدا.
-- حذف ری‌اکشن کاربران توسط مدیران گروه.
-- بیش از ۲۰۰ بهبود و رفع باگ.
-
-🔗 دانلود آپدیت جدید تلگرام
-
-@CheKhabarr</text>
-      <views>20102</views>
-      <forwards>212</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__45819__photo.jpg</file>
-        <width>1200</width>
-        <height>789</height>
-        <telegram_link>https://t.me/chekhabarre/45819</telegram_link>
-      </media>
     </post>
   </posts>
 </channel>
