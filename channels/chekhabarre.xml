@@ -7,14 +7,33 @@
     <members>259837</members>
     <profile>https://raw.githubusercontent.com/yourusername/yourrepo/main/profiles/bbcnews.png</profile>
     <telegram_link>https://t.me/chekhabarre</telegram_link>
-    <generated_at>2026-05-13T19:59:16.593Z</generated_at>
+    <generated_at>2026-05-13T21:42:27.127Z</generated_at>
   </meta>
   <posts>
+    <post id="46125">
+      <date>2026-05-13T21:00:23.000Z</date>
+      <text>[@OutOfContext]</text>
+      <views>5639</views>
+      <forwards>31</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__46125__photo.jpg</file>
+        <width>1080</width>
+        <height>839</height>
+        <telegram_link>https://t.me/chekhabarre/46125</telegram_link>
+      </media>
+    </post>
+    <post id="46124">
+      <date>2026-05-13T20:38:01.000Z</date>
+      <text>🔴 جی‌دی ونس: فکر می‌کنم مذاکرات با ایران درحال پیشرفته.</text>
+      <views>8428</views>
+      <forwards>45</forwards>
+      <media type="none"/>
+    </post>
     <post id="46123">
       <date>2026-05-13T19:53:01.000Z</date>
       <text>اپلیکیشن‌های قدرتمند و ابر شاهکار ایرانی قراره بعد از ۸۰ روز قابلیت ارسال فایل با حجم بالا رو فراهم کنن.</text>
-      <views>1855</views>
-      <forwards>11</forwards>
+      <views>12108</views>
+      <forwards>32</forwards>
       <media type="none"/>
     </post>
     <post id="46122">
@@ -22,22 +41,22 @@
       <text>🔴 بمیر دیگه کیر جان.
 
 کیر استارمر: بازم میگم که اگر وارد جنگ با ایران می‌شدیم، این موضوع به ضرر منافع ملیمون می‌شد.</text>
-      <views>5602</views>
-      <forwards>21</forwards>
+      <views>13725</views>
+      <forwards>24</forwards>
       <media type="none"/>
     </post>
     <post id="46121">
       <date>2026-05-13T19:19:30.000Z</date>
       <text>🔴 جیکوبز، خبرنگار سی‌بی‌اس: ونس بهم گفت که امروز صبح با کوشنر و ویتکاف و مقامات عرب راجب ایران گفتگو کرده‌.</text>
-      <views>7380</views>
+      <views>14580</views>
       <forwards>1</forwards>
       <media type="none"/>
     </post>
     <post id="46120">
       <date>2026-05-13T18:59:42.000Z</date>
       <text>⚫ صبح امروز، محمد عباسی از دیگر بازداشتی‌های دی‌ماه ۱۴۰۴ هم با اتهام قتل یه مأمور نیروی انتظامی، اعدام شد.</text>
-      <views>9401</views>
-      <forwards>36</forwards>
+      <views>15714</views>
+      <forwards>45</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__46120__photo.jpg</file>
         <width>1102</width>
@@ -50,49 +69,49 @@
       <text>🔴 مادرقحبه برو دیگه.
 
 نیویورک تایمز: شرکت‌ های چینی به دنبال فروش سلاح به جمهوری اسلامی هستن و قصد دارن اونها رو از طریق کشورهای دیگر ارسال کنن تا منبع خودشون لو نره.</text>
-      <views>9311</views>
+      <views>15257</views>
       <forwards>7</forwards>
       <media type="none"/>
     </post>
     <post id="46118">
       <date>2026-05-13T17:54:31.000Z</date>
       <text>ان‌بی‌سی به نقل از داده‌های ناوبری: چندین کشتی باری و نفتکش مرتبط با چین طی ۲۴ ساعت گذشته از تنگه هرمز عبور کردن.</text>
-      <views>12507</views>
+      <views>17062</views>
       <forwards>9</forwards>
       <media type="none"/>
     </post>
     <post id="46117">
       <date>2026-05-13T17:32:40.000Z</date>
       <text>🔴 رویترز: عربستان و کویت درجریان جنگ ۴۰ روزه به هدف‌های شبه‌نظامی‌های طرفدار ایران تو عراق (حشدالشعبی) حمله کردن.</text>
-      <views>13604</views>
-      <forwards>15</forwards>
+      <views>17632</views>
+      <forwards>16</forwards>
       <media type="none"/>
     </post>
     <post id="46116">
       <date>2026-05-13T17:16:49.000Z</date>
       <text>🔴 رسانه i24 News: بنیامین نتانیاهو به‌طور محرمانه به امارات متحده عربی سفر کرده و در جریان عملیات «غرش شیران» علیه ایران با محمد بن زاید دیدار کرده است.</text>
-      <views>14335</views>
-      <forwards>25</forwards>
+      <views>18027</views>
+      <forwards>26</forwards>
       <media type="none"/>
     </post>
     <post id="46115">
       <date>2026-05-13T17:06:12.000Z</date>
       <text>🔴 باراک راوید از آکسیوس: شورای صلح به رهبری آمریکا قصد داره اجرای طرح خودش برای تشکیل یه حکومت جدید و بازسازی غزه رو تو بخش‌هایی از غزه که تحت کنترل حماس نیست آغاز کنه.</text>
-      <views>14535</views>
+      <views>18069</views>
       <forwards>4</forwards>
       <media type="none"/>
     </post>
     <post id="46114">
       <date>2026-05-13T16:54:01.000Z</date>
       <text>🔴 هفتمین رأی‌گیری سنای آمریکا برای پایان جنگ با جمهوری اسلامی بازهم شکست خورد.</text>
-      <views>15225</views>
-      <forwards>67</forwards>
+      <views>18225</views>
+      <forwards>68</forwards>
       <media type="none"/>
     </post>
     <post id="46113">
       <date>2026-05-13T16:43:53.000Z</date>
       <text>🔴 عباس شلبی: در تلاشی آشکار برای ایجاد تفرقه، کویت به طور غیرقانونی یک کشتی ایرانی را مورد حمله قرار داد و چهار نفر از شهروندان ما را در خلیج فارس بازداشت کرد. این اقدام غیرقانونی در نزدیکی جزیره‌ای رخ داد که ایالات متحده از آن برای حمله به ایران استفاده می‌کند. ما خواستار آزادی فوری شهروندان خود هستیم و حق پاسخگویی را برای خود محفوظ می‌داریم.</text>
-      <views>15250</views>
+      <views>18232</views>
       <forwards>18</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__46113__photo.jpg</file>
@@ -104,8 +123,8 @@
     <post id="46112">
       <date>2026-05-13T16:06:21.000Z</date>
       <text>🔴 کشور لبنان شکایتی رسمی به سازمان ملل ارائه کرده و ایران (جمهوری‌اسلامی) رو به نقض کنوانسیون وین ۱۹۶۱ در مورد روابط دیپلماتیک متهم کرده؛ تو این شکایت، ایران به دخالت مستقیم و آشکار تو امور داخلی لبنان و کشوندن این کشور به جنگ متهم شده.</text>
-      <views>16012</views>
-      <forwards>85</forwards>
+      <views>18387</views>
+      <forwards>88</forwards>
       <media type="none"/>
     </post>
     <post id="46111">
@@ -113,35 +132,35 @@
       <text>🔴 از زبون مردم حرف نزن حرومزاده.
 
 معاون اول وزارت ارتباطات پزشکیان: مردم ایران امنیت در زمان جنگ رو به اینترنت ترجیح میدن.</text>
-      <views>15870</views>
+      <views>18123</views>
       <forwards>32</forwards>
       <media type="none"/>
     </post>
     <post id="46110">
       <date>2026-05-13T15:35:10.000Z</date>
       <text>⚫ پدر احسان افراشته، جوونی که امروز اعدام شد، بعد از شنیدن خبر اعدام پسرش، سکته قلبی کرد و درگذشت.</text>
-      <views>17227</views>
-      <forwards>229</forwards>
+      <views>19608</views>
+      <forwards>235</forwards>
       <media type="none"/>
     </post>
     <post id="46109">
       <date>2026-05-13T15:34:17.000Z</date>
       <text>خدایا این چه زندگی‌ایه، این چه کابوسیه</text>
-      <views>16305</views>
+      <views>18387</views>
       <forwards>14</forwards>
       <media type="none"/>
     </post>
     <post id="46108">
       <date>2026-05-13T15:26:52.000Z</date>
       <text>🔴 ایال زمیر: نیروهای دفاعی اسرائیل با عزم راسخ در همه جبهه‌ها فعالیت می‌کنن؛ عملیات هنوز به پایان نرسیده.</text>
-      <views>16455</views>
+      <views>18358</views>
       <forwards>2</forwards>
       <media type="none"/>
     </post>
     <post id="46107">
       <date>2026-05-13T14:37:21.000Z</date>
       <text>🔴 سفیر روسیه در پاکستان: آماده‌ایم تا مناقشه بین جمهوری اسلامی و آمریکا رو حل کنیم.</text>
-      <views>17041</views>
+      <views>18802</views>
       <forwards>3</forwards>
       <media type="none"/>
     </post>
@@ -150,33 +169,9 @@
       <text>🔴 آها.
 
  روزنامه لو پاریزین: نزدیکان بریژیت مکرون، همسر رئیس جمهور فرانسه، اخبار منتشره درمورد سیلیش به مکرون بخاطر رابطه عاطفی با گلشیفته فراهانی رو تکذیب کردن. اونا گفتن بانوی اول هرگز تو تلفن همسرش تجسس نمی‌کنه.</text>
-      <views>16816</views>
-      <forwards>35</forwards>
+      <views>18503</views>
+      <forwards>36</forwards>
       <media type="none"/>
-    </post>
-    <post id="46105">
-      <date>2026-05-13T14:33:39.000Z</date>
-      <text></text>
-      <views>16163</views>
-      <forwards>137</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__46105__photo.jpg</file>
-        <width>933</width>
-        <height>1280</height>
-        <telegram_link>https://t.me/chekhabarre/46105</telegram_link>
-      </media>
-    </post>
-    <post id="46104">
-      <date>2026-05-13T14:33:38.000Z</date>
-      <text></text>
-      <views>16087</views>
-      <forwards>140</forwards>
-      <media type="video" available="false">
-        <mime_type>video/mp4</mime_type>
-        <duration_seconds>23.22</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/46104</telegram_link>
-      </media>
     </post>
   </posts>
 </channel>
