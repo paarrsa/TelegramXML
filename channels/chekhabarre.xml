@@ -7,21 +7,118 @@
     <members>259837</members>
     <profile>https://raw.githubusercontent.com/yourusername/yourrepo/main/profiles/bbcnews.png</profile>
     <telegram_link>https://t.me/chekhabarre</telegram_link>
-    <generated_at>2026-05-17T18:14:29.309Z</generated_at>
+    <generated_at>2026-05-17T19:41:06.079Z</generated_at>
   </meta>
   <posts>
+    <post id="46368">
+      <date>2026-05-17T19:27:42.000Z</date>
+      <text></text>
+      <views>4329</views>
+      <forwards>72</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>34.087</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/46368</telegram_link>
+      </media>
+    </post>
+    <post id="46367">
+      <date>2026-05-17T19:27:42.000Z</date>
+      <text></text>
+      <views>4341</views>
+      <forwards>61</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__46367__photo.jpg</file>
+        <width>1070</width>
+        <height>803</height>
+        <telegram_link>https://t.me/chekhabarre/46367</telegram_link>
+      </media>
+    </post>
+    <post id="46366">
+      <date>2026-05-17T19:27:41.000Z</date>
+      <text></text>
+      <views>4354</views>
+      <forwards>61</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__46366__photo.jpg</file>
+        <width>1152</width>
+        <height>1024</height>
+        <telegram_link>https://t.me/chekhabarre/46366</telegram_link>
+      </media>
+    </post>
+    <post id="46365">
+      <date>2026-05-17T19:27:40.000Z</date>
+      <text>🔴 کمتر بزنید.
+
+دو جنگنده نیروی دریایی آمریکا تو آسمون و درجریان نمایش هوایی Gunfighter Skies به همدیگه برخورد کردن؛ خلبان‌ها با موفقیت اجکت کردن و سالمن.</text>
+      <views>4343</views>
+      <forwards>61</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__46365__photo.jpg</file>
+        <width>960</width>
+        <height>1280</height>
+        <telegram_link>https://t.me/chekhabarre/46365</telegram_link>
+      </media>
+    </post>
+    <post id="46364">
+      <date>2026-05-17T19:11:04.000Z</date>
+      <text>[@OutOfContext]</text>
+      <views>7230</views>
+      <forwards>38</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__46364__photo.jpg</file>
+        <width>1200</width>
+        <height>263</height>
+        <telegram_link>https://t.me/chekhabarre/46364</telegram_link>
+      </media>
+    </post>
+    <post id="46363">
+      <date>2026-05-17T18:40:20.000Z</date>
+      <text></text>
+      <views>11290</views>
+      <forwards>96</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__46363__photo.jpg</file>
+        <width>1080</width>
+        <height>1248</height>
+        <telegram_link>https://t.me/chekhabarre/46363</telegram_link>
+      </media>
+    </post>
+    <post id="46362">
+      <date>2026-05-17T18:40:20.000Z</date>
+      <text>🔴 خ.م.ر.س.گ پارت هزارم.
+
+چندتا زن بی‌حجاب تو اصفهان رفتن تو تجمعات شبانه شرکت کردن و دادگاه اصفهان هم واسشون ابلاغیه فرستاده و جریمه‌شون کرده :)
+
+@CheKhabarr</text>
+      <views>11296</views>
+      <forwards>96</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__46362__photo.jpg</file>
+        <width>540</width>
+        <height>729</height>
+        <telegram_link>https://t.me/chekhabarre/46362</telegram_link>
+      </media>
+    </post>
+    <post id="46361">
+      <date>2026-05-17T18:17:38.000Z</date>
+      <text>🔴 رضایی، سخنگوی کمیسیون امنیت ملی: وضعیت تنگه هرمز به قبل و بعد از مرگ خامنه‌ای تقسیم می‌شه.</text>
+      <views>13271</views>
+      <forwards>4</forwards>
+      <media type="none"/>
+    </post>
     <post id="46360">
       <date>2026-05-17T18:08:08.000Z</date>
       <text>🔴 ترامپ: ایران خواهان توافقه و منتظر پیشنهاد به‌روز شده‌شون هستم؛ پیشنهادی که امیدوارم بهتر از آخرین پیشنهادی باشه که چند روز پیش ارائه شده بود.</text>
-      <views>2418</views>
-      <forwards>32</forwards>
+      <views>14008</views>
+      <forwards>55</forwards>
       <media type="none"/>
     </post>
     <post id="46359">
       <date>2026-05-17T17:55:38.000Z</date>
       <text>🔴 آکسیوس به نقل از منابع خبری در دولت آمریکا: نشست روز گذشته تیم امنیت ملی آمریکا با حضور ونس، ویتکاف، روبیو و رئیس سازمان سیا برگزار شد.</text>
-      <views>5043</views>
-      <forwards>12</forwards>
+      <views>14809</views>
+      <forwards>13</forwards>
       <media type="none"/>
     </post>
     <post id="46358">
@@ -31,8 +128,8 @@
 سناتور گراهام: ارزش از دست دادن شغلم رو هم داره؛ اگر مجبور بودم کارم رو رها کنم تا مطمئن شم ایران هرگز سلاح هسته‌ای نخواهد داشت، این کار رو می‌کردم.‌‌
 
 @Khabariee</text>
-      <views>11858</views>
-      <forwards>37</forwards>
+      <views>17450</views>
+      <forwards>51</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>69.398</duration_seconds>
@@ -43,15 +140,15 @@
     <post id="46357">
       <date>2026-05-17T16:05:33.000Z</date>
       <text>🔴 کانال ۱۲ اسرائیل: تخمین اسرائیلی‌ها اینه که آمریکا در طول این هفته به جنگ علیه ایران برمی‌گرده.</text>
-      <views>13415</views>
-      <forwards>54</forwards>
+      <views>17768</views>
+      <forwards>57</forwards>
       <media type="none"/>
     </post>
     <post id="46356">
       <date>2026-05-17T16:05:31.000Z</date>
       <text>🔴 پروازهای ترابری آمریکا همچنان ادامه داره.</text>
-      <views>13142</views>
-      <forwards>35</forwards>
+      <views>17359</views>
+      <forwards>36</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__46356__photo.jpg</file>
         <width>1059</width>
@@ -76,7 +173,7 @@
 📌برای اطلاع از تحلیل بازی‌ها و ورود به کانال سایت جوین بدید: 👇
 
 🔵 @Wincobetofficial</text>
-      <views>12995</views>
+      <views>17214</views>
       <forwards>1</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__46355__photo.jpg</file>
@@ -88,14 +185,14 @@
     <post id="46354">
       <date>2026-05-17T16:02:59.000Z</date>
       <text>🔴 اکسیوس: ترامپ و نتانیاهو راجب ایران گفتگو کردن.</text>
-      <views>12663</views>
+      <views>16392</views>
       <forwards>8</forwards>
       <media type="none"/>
     </post>
     <post id="46353">
       <date>2026-05-17T15:51:40.000Z</date>
       <text>تماس تلفنی نتانیاهو و ترامپ انجام شد.</text>
-      <views>13708</views>
+      <views>17158</views>
       <forwards>27</forwards>
       <media type="none"/>
     </post>
@@ -104,23 +201,23 @@
       <text>🔴 دیگه ماجرارو سپردن به دعا.
 
 وزیر کشور پاکستان: پاکستانی‌ها شبانه‌روز برای موفقیت دولت و ملت ایران دعا می‌کنند.</text>
-      <views>15462</views>
-      <forwards>40</forwards>
+      <views>18526</views>
+      <forwards>44</forwards>
       <media type="none"/>
     </post>
     <post id="46349">
       <date>2026-05-17T14:30:27.000Z</date>
       <text>🚨 لارنس نورمن، خبرنگار وال استریت ژورنال: آمریکا پیشنهاد جدیدی به ایران داده که به اونا اجازه می‌ده حق غنی‌سازیشون رو حفظ کنن و به ۲۵ میلیارد دلار پول دست پیدا کنن.</text>
-      <views>17505</views>
-      <forwards>82</forwards>
+      <views>20074</views>
+      <forwards>84</forwards>
       <media type="none"/>
     </post>
     <post id="46348">
       <date>2026-05-17T14:00:25.000Z</date>
       <text>بابای گلشیفته فراهانی به این مردم که اینجوری با دستای خالی جلوی گلوله مقاومت کردن میگه بیضه ندارید.
 جناب فراهانی ما اتفاقا بیضه داریم، خوبشم داریم. ما بیضه رو داریم ولی شما و دخترتون بیضه رو لیس می‌زنید. شما مال آخوند رو می‌لیسید و دخترتون بیضه‌های مکرون رو قورت می‌ده.</text>
-      <views>18918</views>
-      <forwards>207</forwards>
+      <views>21342</views>
+      <forwards>226</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>22.967</duration_seconds>
@@ -131,87 +228,8 @@
     <post id="46347">
       <date>2026-05-17T13:31:01.000Z</date>
       <text>🔴 دو مقام اطلاعاتی منطقه‌ای به فاکس نیوز: ارزیابی غالب در داخل ایران اینه که رئیس‌جمهور ترامپ ممکنه به از سرگیری اقدامات نظامی روی بیاره؛ اونم درحالی که تهران درحال حاضر عمداً در حال پیگیری استراتژی فریب و تأخیره به این امید که با خرید زمان، هر بازگشت احتمالی به جنگ رو پیچیده‌تر کنه.</text>
-      <views>18840</views>
-      <forwards>11</forwards>
-      <media type="none"/>
-    </post>
-    <post id="46346">
-      <date>2026-05-17T13:21:20.000Z</date>
-      <text>🔴 میانجیگر ما بعد از دوماه هنوز نفهمیده پزشکیان کاره‌ای نیس.
-
-وزیر کشور پاکستان یه دیدار خصوصی با پزشکیان داشته که بیش از ۹۰ دقیقه طول کشیده.</text>
-      <views>19289</views>
-      <forwards>23</forwards>
-      <media type="none"/>
-    </post>
-    <post id="46345">
-      <date>2026-05-17T12:16:05.000Z</date>
-      <text>لطفا برید و پست آخر این چنل رو مشاهده کنید و بعدش به بخت تخمی‌تون برای بدنیا اومدن در این کشور عزیز لعن بفرستید.</text>
-      <views>20909</views>
-      <forwards>16</forwards>
-      <media type="none"/>
-    </post>
-    <post id="46344">
-      <date>2026-05-17T12:09:21.000Z</date>
-      <text>[@OutOfContext]</text>
-      <views>20487</views>
-      <forwards>53</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__46344__photo.jpg</file>
-        <width>800</width>
-        <height>357</height>
-        <telegram_link>https://t.me/chekhabarre/46344</telegram_link>
-      </media>
-    </post>
-    <post id="46343">
-      <date>2026-05-17T11:36:51.000Z</date>
-      <text></text>
-      <views>21581</views>
-      <forwards>101</forwards>
-      <media type="document" available="false">
-        <telegram_link>https://t.me/chekhabarre/46343</telegram_link>
-      </media>
-    </post>
-    <post id="46342">
-      <date>2026-05-17T11:31:48.000Z</date>
-      <text>🔴 صفحه هدف دارتشون نبوده احیانا؟
-
-خبرگزاری فارس: یه کشتی اسرائیلی تو خلیج فارس توقیف کردیم که خدمه‌ش عکس شهید علی خامنه‌ای و امام مجتبی خامنه‌ای رو روی دیواراش نصب کرده بودن.</text>
-      <views>21360</views>
-      <forwards>90</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__46342__photo.jpg</file>
-        <width>1123</width>
-        <height>623</height>
-        <telegram_link>https://t.me/chekhabarre/46342</telegram_link>
-      </media>
-    </post>
-    <post id="46341">
-      <date>2026-05-17T11:17:00.000Z</date>
-      <text>نتانیاهو امروز قراره بصورت تلفنی با ترامپ گفتگو کنه.</text>
-      <views>21243</views>
-      <forwards>18</forwards>
-      <media type="none"/>
-    </post>
-    <post id="46340">
-      <date>2026-05-17T10:47:46.000Z</date>
-      <text>تصویری که کویت از لحظه‌ی تسلیم شدن چندین سرباز نیروی دریایی سپاه بعد از محاصره توسط گارد ملی کویت و دستگیریشون منتشر کرده.
-
-@Khabariee</text>
-      <views>21191</views>
-      <forwards>254</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__46340__photo.jpg</file>
-        <width>720</width>
-        <height>385</height>
-        <telegram_link>https://t.me/chekhabarre/46340</telegram_link>
-      </media>
-    </post>
-    <post id="46338">
-      <date>2026-05-17T10:32:27.000Z</date>
-      <text>امروز روز جهانی ارتباطاته؛ روزی که برای مردم ایران حکم یه جوک رو داره اونم درحالی که ۸۰ روزه دسترسیشون به ساده‌ترین حق انسانی یعنی اینترنت، قطعه.</text>
-      <views>21942</views>
-      <forwards>41</forwards>
+      <views>20535</views>
+      <forwards>12</forwards>
       <media type="none"/>
     </post>
   </posts>
