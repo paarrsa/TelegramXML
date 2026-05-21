@@ -7,23 +7,106 @@
     <members>259837</members>
     <profile>https://raw.githubusercontent.com/yourusername/yourrepo/main/profiles/bbcnews.png</profile>
     <telegram_link>https://t.me/chekhabarre</telegram_link>
-    <generated_at>2026-05-21T09:59:18.730Z</generated_at>
+    <generated_at>2026-05-21T12:52:25.373Z</generated_at>
   </meta>
   <posts>
+    <post id="46592">
+      <date>2026-05-21T12:37:38.000Z</date>
+      <text>[@OutOfContext]</text>
+      <views>2692</views>
+      <forwards>10</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>61</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/46592</telegram_link>
+      </media>
+    </post>
+    <post id="46591">
+      <date>2026-05-21T12:08:25.000Z</date>
+      <text>شایعه شده که امروز وزیر کشور پاکستان با وحیدی، فرمانده کل سپاه، دیدار کرده. فعلا رسانه‌های حکومتی تکذیب کردن و گفتن همچین دیداری صورت نگرفته</text>
+      <views>6991</views>
+      <forwards>1</forwards>
+      <media type="none"/>
+    </post>
+    <post id="46589">
+      <date>2026-05-21T11:47:59.000Z</date>
+      <text>🔴 تحویل بگیر آقای املاکی قمارباز ۲.
+
+تایمز اسرائیل: ایران درجریان آتش‌بس از فرصت برای جابه‌جایی لانچرهای موشکی و آماده‌سازی برای دور جدیدی از درگیری‌ها استفاده کرده.
+
+@CheKhabarr</text>
+      <views>9647</views>
+      <forwards>22</forwards>
+      <media type="none"/>
+    </post>
+    <post id="46587">
+      <date>2026-05-21T11:14:58.000Z</date>
+      <text>🎧 از #رپفارسی چخبر؟!
+
+آهنگ جدید رضا پیشرو به‌نام «تاریکی» منتشر شد.
+
+دانلود
+دانلود
+
+@CheKhabarr</text>
+      <views>12064</views>
+      <forwards>31</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__46587__photo.jpg</file>
+        <width>1200</width>
+        <height>675</height>
+        <telegram_link>https://t.me/chekhabarre/46587</telegram_link>
+      </media>
+    </post>
+    <post id="46586">
+      <date>2026-05-21T11:01:51.000Z</date>
+      <text>🔴 یه زمانی با پول رجیستری آیفون ۱۷ پرومکس میشد خونه خرید.
+
+جدیدترین آپدیت از هزینهٔ رجیستری گوشی‌های آیفون تو مدل‌های مختلف رو داشته باشید.
+
+@CheKhabarr</text>
+      <views>13089</views>
+      <forwards>135</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__46586__photo.jpg</file>
+        <width>628</width>
+        <height>1211</height>
+        <telegram_link>https://t.me/chekhabarre/46586</telegram_link>
+      </media>
+    </post>
+    <post id="46585">
+      <date>2026-05-21T10:40:03.000Z</date>
+      <text>🔴 دو منبع ایرانی به رویترز: مجتبی خامنه‌ای دستور داده که اورانیوم غنی شده نباید از ایران خارج شه.
+
+@CheKhabarr</text>
+      <views>14359</views>
+      <forwards>42</forwards>
+      <media type="none"/>
+    </post>
+    <post id="46584">
+      <date>2026-05-21T10:37:31.000Z</date>
+      <text>🔴 علی هاشم، خبرنگار الجزیره: بر اساس منابع من در تهران، پاسخ ایران هنوز به میانجی پاکستانی تحویل داده نشده. رایزنی‌ها همچنان ادامه داره و تلاش‌های جدی برای رسیدن به پیش‌نویس نهایی در جریانه.
+
+@CheKhabarr</text>
+      <views>14216</views>
+      <forwards>2</forwards>
+      <media type="none"/>
+    </post>
     <post id="46583">
       <date>2026-05-21T09:18:05.000Z</date>
       <text>🔴 والا نیوز: منابع اسرائیلی میگن آمریکایی‌ها تو مذاکرات با ایران یه قدم به جلو برداشتن و بنابراین برآوردها اینه که حمله‌ای به ایران ظرف ۲۴ ساعت آینده تکرار نخواهد شد.
 
 @CheKhabarr</text>
-      <views>6121</views>
-      <forwards>3</forwards>
+      <views>17414</views>
+      <forwards>7</forwards>
       <media type="none"/>
     </post>
     <post id="46582">
       <date>2026-05-21T09:12:04.000Z</date>
       <text>توئیت پوریا زراعتی، مجری ایران اینترنشنال.</text>
-      <views>7432</views>
-      <forwards>76</forwards>
+      <views>17904</views>
+      <forwards>131</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__46582__photo.jpg</file>
         <width>590</width>
@@ -38,8 +121,8 @@
 محمد عمر، کارشناس ضد تروریسم تو مصاحبه با شبکه آمریکایی فاکس نیوز:‌ مجتبی خامنه‌ای، رهبر فعلی رژیم جمهوری اسلامی، از الگوی زندگی اسامه بن‌لادن، رهبر سابق القاعده، تو سال‌های پایانی زندگی خودش استفاده می‌کنه تا کسی نتونه ردش رو بزنه.
 
 @CheKhabarr</text>
-      <views>8846</views>
-      <forwards>27</forwards>
+      <views>17765</views>
+      <forwards>42</forwards>
       <media type="none"/>
     </post>
     <post id="46580">
@@ -47,8 +130,8 @@
       <text>🔴 منبع پاکستانی به الجزیره: گره اصلی مذاکرات آمریکا و ایران بر سر اورانیوم غنی‌شده‌‌ست.
 
 @CheKhabarr</text>
-      <views>9190</views>
-      <forwards>1</forwards>
+      <views>17440</views>
+      <forwards>2</forwards>
       <media type="none"/>
     </post>
     <post id="46579">
@@ -56,8 +139,8 @@
       <text>🔴 استیفن میلر، معاون رئیس دفتر کاخ سفید: رژیم ایران یا باید توافقی که آمریکا میخواد رو قبول کنه، یا منتظر ضربه‌ای از ارتش آمریکا باشه که دنیا تو تاریخ مدرن مثلشو ندیده.
 
 @CheKhabarr</text>
-      <views>9728</views>
-      <forwards>10</forwards>
+      <views>17610</views>
+      <forwards>16</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>117.59</duration_seconds>
@@ -70,8 +153,8 @@
       <text>🔴 مقام ارشد اسرائیلی: تا زمانی که جمهوری‌اسلامی سرکار باشه، جنگ ادامه داره و تنها سرنگونی رژیم می‌تونه جنگ‌های بی پایان میان ایران و اسرائیل رو پایان بده.
 
 @CheKhabarr</text>
-      <views>10031</views>
-      <forwards>14</forwards>
+      <views>17210</views>
+      <forwards>17</forwards>
       <media type="none"/>
     </post>
     <post id="46577">
@@ -81,8 +164,8 @@
 حسین شریعتمداری، مدیرمسئول روزنامه کیهان: باید قانونی تصویب بشه که تنگه هرمز تا زمان کشتن ترامپ روی کشتی‌های آمریکا و متحدانش بسته بمونه.
 
 @CheKhabarr</text>
-      <views>14116</views>
-      <forwards>9</forwards>
+      <views>19122</views>
+      <forwards>10</forwards>
       <media type="none"/>
     </post>
     <post id="46576">
@@ -90,8 +173,8 @@
       <text>ملت تو اپلیکیشن های بازاریابی به روش‌های عجیبی در حال درآمدزایی هستن :/
 
 @Khabariee</text>
-      <views>12975</views>
-      <forwards>97</forwards>
+      <views>17593</views>
+      <forwards>129</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__46576__photo.jpg</file>
         <width>1200</width>
@@ -113,7 +196,7 @@
 📌کانال رسمی وینکوبت: 👇
 
 🔵 @Wincobetofficial</text>
-      <views>13439</views>
+      <views>18157</views>
       <forwards>0</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__46575__photo.jpg</file>
@@ -129,22 +212,22 @@
 ایندیپندت: ترامپ بعد از جلسه با جی‌دی ونس، تصمیم گرفت که یه فرصت دیگه به مذاکره بده.
 
 @CheKhabarr</text>
-      <views>14871</views>
-      <forwards>41</forwards>
+      <views>18971</views>
+      <forwards>43</forwards>
       <media type="none"/>
     </post>
     <post id="46573">
       <date>2026-05-21T06:41:50.000Z</date>
       <text>حالا قوه قضاییه چرا یهو تصمیم گرفت به یه ایران پیام بده که خشخاش نکارید؟</text>
-      <views>15325</views>
-      <forwards>60</forwards>
+      <views>19304</views>
+      <forwards>72</forwards>
       <media type="none"/>
     </post>
     <post id="46572">
       <date>2026-05-21T06:36:02.000Z</date>
       <text>⚫️ خبرگزاری قوه قضاییه از اعدام رامین زله و کریم معروف‌پور، به اتهامات عضویت در‌گروهک‌های تجزیه‌طلب خبر داد.</text>
-      <views>15532</views>
-      <forwards>13</forwards>
+      <views>19602</views>
+      <forwards>14</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__46572__photo.jpg</file>
         <width>800</width>
@@ -159,95 +242,14 @@
 تأسیس روسپی‌خونه‌‌های خیابونی توسط جمهوری‌اسلامی در روز روشن!
 
 @CheKhabarr</text>
-      <views>19826</views>
-      <forwards>459</forwards>
+      <views>23030</views>
+      <forwards>511</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>177.75</duration_seconds>
         <note>Video not stored — view on Telegram</note>
         <telegram_link>https://t.me/chekhabarre/46570</telegram_link>
       </media>
-    </post>
-    <post id="46569">
-      <date>2026-05-21T03:49:53.000Z</date>
-      <text>🔴 پست جدید اکانت کاخ سفید با کپشن: عدالت اجرا خواهد شد.
-
-@CheKhabarr</text>
-      <views>19082</views>
-      <forwards>36</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__46569__photo.jpg</file>
-        <width>837</width>
-        <height>1280</height>
-        <telegram_link>https://t.me/chekhabarre/46569</telegram_link>
-      </media>
-    </post>
-    <post id="46568">
-      <date>2026-05-20T23:16:19.000Z</date>
-      <text>🔴 حالا کمتر حساب کن مشتری شیم.
-
-ترامپ: تا مقامات جمهوری اسلامی شرایط من رو قبول نکنن، من هیچ تخفیفی به اونا نمیدم.
-
-@CheKhabarr</text>
-      <views>21736</views>
-      <forwards>8</forwards>
-      <media type="none"/>
-    </post>
-    <post id="46567">
-      <date>2026-05-20T23:16:17.000Z</date>
-      <text>[@OutOfContext]</text>
-      <views>20926</views>
-      <forwards>26</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__46567__photo.jpg</file>
-        <width>1080</width>
-        <height>1898</height>
-        <telegram_link>https://t.me/chekhabarre/46567</telegram_link>
-      </media>
-    </post>
-    <post id="46566">
-      <date>2026-05-20T23:16:12.000Z</date>
-      <text>▪︎ اگه این روزا سایتا سخت لود میشن، ربات تلگرام وینکوبت خیلی کارو راحت کرده:👇
-
-🤖 @Wincobet_bot
-
-بدون اینکه از تلگرام خارج شی میتونی مستقیم وارد بخش بازی‌ها و کازینو بشی، پیش‌بینی ثبت کنی و حتی واریز و برداشت انجام بدی.
-▪︎حالت Mini App داخل تلگرامه و خیلی سبک‌تر و سریع‌تر باز میشه:👇
-
-🤖 @Wincobet_bot</text>
-      <views>21544</views>
-      <forwards>5</forwards>
-      <media type="video" available="false">
-        <mime_type>video/mp4</mime_type>
-        <duration_seconds>34.027</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/46566</telegram_link>
-      </media>
-    </post>
-    <post id="46565">
-      <date>2026-05-20T23:10:39.000Z</date>
-      <text>🔴 ترامپ: اگه پاسخ‌های درست رو نگیریم، خیلی سریع پیش میره. همه ما آماده‌ایم. باید پاسخ‌های درست رو بگیریم. باید پاسخ‌ها کاملاً ۱۰۰٪ درست باشن و اگر اینطور باشد، زمان، انرژی و جان‌های زیادی رو میتونیم نجات بدیم.</text>
-      <views>21393</views>
-      <forwards>9</forwards>
-      <media type="none"/>
-    </post>
-    <post id="46564">
-      <date>2026-05-20T20:34:29.000Z</date>
-      <text>بلایی که معاشرت با ترامپ سر شما میاره:</text>
-      <views>25289</views>
-      <forwards>54</forwards>
-      <media type="none"/>
-    </post>
-    <post id="46563">
-      <date>2026-05-20T20:27:43.000Z</date>
-      <text>🔴 منم همینطور بی‌بی، منم همینطور.
-
-باراک راوید: یه منبع آمریکایی که در جریان تماس تلفنی بین ترامپ و نتانیاهو قرار داشت به من گفت: «موهای بی‌بی بعد از تماس آتش گرفته بود!»
-
-@CheKhabarr</text>
-      <views>25550</views>
-      <forwards>189</forwards>
-      <media type="none"/>
     </post>
   </posts>
 </channel>
