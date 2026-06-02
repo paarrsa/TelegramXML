@@ -7,213 +7,165 @@
     <members>259837</members>
     <profile>https://raw.githubusercontent.com/yourusername/yourrepo/main/profiles/bbcnews.png</profile>
     <telegram_link>https://t.me/chekhabarre</telegram_link>
-    <generated_at>2026-06-02T21:56:18.506Z</generated_at>
+    <generated_at>2026-06-02T23:48:55.993Z</generated_at>
   </meta>
   <posts>
-    <post id="47386">
-      <date>2026-06-02T21:48:42.000Z</date>
-      <text></text>
-      <views>5317</views>
-      <forwards>11</forwards>
-      <media type="video" available="false">
-        <mime_type>video/webm</mime_type>
-        <duration_seconds>3</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/47386</telegram_link>
-      </media>
-    </post>
-    <post id="47385">
-      <date>2026-06-02T21:48:19.000Z</date>
-      <text>تلاش نکن نقض نمیشه</text>
-      <views>5929</views>
-      <forwards>23</forwards>
+    <post id="47423">
+      <date>2026-06-02T23:38:12.000Z</date>
+      <text>پیروزی دیگر برای نظام اسلامی 🇮🇷</text>
+      <views>6139</views>
+      <forwards>36</forwards>
       <media type="none"/>
     </post>
-    <post id="47384">
-      <date>2026-06-02T21:45:56.000Z</date>
-      <text>🔴 صدای انفجار در قشم.
-خبرگزاری مهر: منشا انفجار هنوز معلوم نیست.</text>
-      <views>7592</views>
+    <post id="47422">
+      <date>2026-06-02T23:37:20.000Z</date>
+      <text>🔴 فرماندهی مرکزی آمریکا اعلام کرد که نیروهای آمریکایی چندین موشک بالستیک و پهپاد ایرانی را رهگیری کرده و پس از تلاش‌های حمله ایران در سراسر خاورمیانه، حملات دفاعی به یک ایستگاه کنترل زمینی نظامی در جزیره قشم انجام دادند.
+
+سنت‌کام گفت دو موشک ایرانی که به سمت کویت شلیک شده بودند قبل از برخورد ناکام ماندند، در حالی که سه موشک شلیک شده به بحرین توسط دفاع هوایی آمریکا و بحرین رهگیری شدند. نیروهای آمریکایی همچنین سه پهپاد حمله یک‌طرفه که به سمت کشتی‌های غیرنظامی پرتاب شده بودند را سرنگون کردند. هیچ یک از پرسنل آمریکایی آسیب ندیدند.</text>
+      <views>7145</views>
+      <forwards>145</forwards>
+      <media type="none"/>
+    </post>
+    <post id="47421">
+      <date>2026-06-02T23:32:16.000Z</date>
+      <text>خب امشبم کیر شدیم. شب شما بخیر باشه.</text>
+      <views>9192</views>
+      <forwards>141</forwards>
+      <media type="none"/>
+    </post>
+    <post id="47420">
+      <date>2026-06-02T23:26:26.000Z</date>
+      <text>گویا این خبری نبوده؛ بچه‌های ساکن دبی تو دایرکت اطلاع دادن.</text>
+      <views>10246</views>
+      <forwards>69</forwards>
+      <media type="none"/>
+    </post>
+    <post id="47419">
+      <date>2026-06-02T23:22:36.000Z</date>
+      <text>مادرقهبه الان میاد میگه ما به توافق نزدیک‌تر شدیم</text>
+      <views>12257</views>
+      <forwards>246</forwards>
+      <media type="none"/>
+    </post>
+    <post id="47418">
+      <date>2026-06-02T23:20:37.000Z</date>
+      <text>حمله موشکی به دبی</text>
+      <views>12284</views>
+      <forwards>350</forwards>
+      <media type="none"/>
+    </post>
+    <post id="47417">
+      <date>2026-06-02T23:20:34.000Z</date>
+      <text>🚨🚨🚨</text>
+      <views>12262</views>
+      <forwards>34</forwards>
+      <media type="none"/>
+    </post>
+    <post id="47416">
+      <date>2026-06-02T23:20:25.000Z</date>
+      <text>اماراتم زدن انگار.</text>
+      <views>12270</views>
+      <forwards>246</forwards>
+      <media type="none"/>
+    </post>
+    <post id="47415">
+      <date>2026-06-02T23:19:16.000Z</date>
+      <text></text>
+      <views>12264</views>
+      <forwards>69</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>12.3</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/47415</telegram_link>
+      </media>
+    </post>
+    <post id="47414">
+      <date>2026-06-02T23:17:39.000Z</date>
+      <text>بزن که خوب میزنی</text>
+      <views>12238</views>
       <forwards>105</forwards>
       <media type="none"/>
     </post>
-    <post id="47383">
-      <date>2026-06-02T21:11:17.000Z</date>
-      <text>🔴 سنتکام از شلیک یک موشک هل‌فایر به موتورخانه یک نفتکش ایرانی بدون‌بار به‌اسم M/T Lexie که به‌سوی جزیره خارک درحرکت بود، خبر داد. 
-
-طبق بیانیه سنتکام، خدمه کشتی هشدارهای مکرر رو نادیده گرفتن و طی یک دوره ۲۴ ساعته چندین بار از اجرای دستورهای نیروهای آمریکایی سر باز زدند.</text>
-      <views>15515</views>
-      <forwards>115</forwards>
-      <media type="video" available="false">
-        <mime_type>video/mp4</mime_type>
-        <duration_seconds>20.096</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/47383</telegram_link>
-      </media>
-    </post>
-    <post id="47382">
-      <date>2026-06-02T21:06:13.000Z</date>
-      <text>🔴 تسنیم: برای تیم‌ناملی، ویزای مکزیک صادر شد.</text>
-      <views>16707</views>
-      <forwards>12</forwards>
+    <post id="47413">
+      <date>2026-06-02T23:17:17.000Z</date>
+      <text>حمله به عربستان</text>
+      <views>13265</views>
+      <forwards>522</forwards>
       <media type="none"/>
     </post>
-    <post id="47381">
-      <date>2026-06-02T20:24:26.000Z</date>
-      <text>🔴 کار آیت‌الله آمریکامنه‌ای تمام است.
-
-گلرو، عضو کمیسیون امنیت ملی و سیاست خارجی مجلس: تیم مذاکره کننده با قدرت ایستاده تا آمریکا به خواسته‌هایش نرسد.</text>
-      <views>25210</views>
-      <forwards>20</forwards>
+    <post id="47412">
+      <date>2026-06-02T23:17:12.000Z</date>
+      <text>🚨🚨🚨🚨🚨</text>
+      <views>12243</views>
+      <forwards>68</forwards>
       <media type="none"/>
     </post>
-    <post id="47380">
-      <date>2026-06-02T19:52:52.000Z</date>
-      <text>🔴 رکورد تورم در ایران از زمان جنگ جهانی دوم تاکنون شکسته شد.
-بر اساس داده‌های بانک مرکزی، نرخ تورم نقطه‌به‌نقطه در اردیبهشت ۱۴۰۵ به ۷۷.۲ درصد رسید.</text>
-      <views>30669</views>
-      <forwards>257</forwards>
+    <post id="47411">
+      <date>2026-06-02T23:17:08.000Z</date>
+      <text>فووووری</text>
+      <views>12241</views>
+      <forwards>103</forwards>
       <media type="none"/>
     </post>
-    <post id="47379">
-      <date>2026-06-02T19:33:46.000Z</date>
-      <text>🔴 بر اساس اعلام وزارت خزانه‌داری آمریکا، محمد آقامیر، محمدعلی آقامیر، علی خویی و امیرحسین راد به دلیل ارتباط با صرافی رمزارز نوبیتکس تحریم شده‌اند.
-
-همچنین چهار شرکت فعال در حوزه خدمات مالی و رمزارز شامل نوبیتکس، بیت‌پین، رمزینکس و والکس به فهرست تحریم‌ها اضافه شده‌اند.</text>
-      <views>32823</views>
-      <forwards>223</forwards>
+    <post id="47410">
+      <date>2026-06-02T23:16:53.000Z</date>
+      <text>من که میدونم بخاطر تشیع نشدن رهبر عزیز انقلاب دارن اینکارارو میکنن اما نمیتونم ثابت کنم.</text>
+      <views>12248</views>
+      <forwards>137</forwards>
       <media type="none"/>
     </post>
-    <post id="47378">
-      <date>2026-06-02T19:25:59.000Z</date>
-      <text>خودتم میدونی قراره از تشیع خامنه ای خایه فنگ بشیا بازم تمسخر میکنی</text>
-      <views>33413</views>
-      <forwards>10</forwards>
+    <post id="47409">
+      <date>2026-06-02T23:15:42.000Z</date>
+      <text>شین | انفجارهای جدید در قشم</text>
+      <views>13259</views>
+      <forwards>279</forwards>
       <media type="none"/>
     </post>
-    <post id="47377">
-      <date>2026-06-02T19:17:11.000Z</date>
-      <text>تورمی‌ که مردم ایران فقط در ۳۱ روز اخیر (بین اول اردیبهشت امسال تا ۳۱ اردیبهشت ماه) احساس کردند برابر تورمی است که مردم آمریکا در طول ۳ سال تجربه می‌کنند!
-
-✍🏻 رضا خانکی</text>
-      <views>34588</views>
-      <forwards>152</forwards>
-      <media type="none"/>
-    </post>
-    <post id="47376">
-      <date>2026-06-02T17:17:47.000Z</date>
-      <text>🔴 آها.
-
-شبکه ۱۲ اسرائیل: دستور تخلیه ضاحیه جنوبی بخشی از هماهنگی نتانیاهو و ترامپ برای فشار به ایران تو مذاکرات بوده و نه برای حمله مستقیم به ضاحیه.
-
-@CheKhabarr</text>
-      <views>41421</views>
-      <forwards>60</forwards>
-      <media type="none"/>
-    </post>
-    <post id="47375">
-      <date>2026-06-02T17:09:55.000Z</date>
-      <text>🔴 ترامپ تو تروث:
-خبرهای فیک درباره اینکه ایران و آمریکا چند روزه دیگه با هم حرف نمی‌زنن درست نیست. گفت‌وگوها کاملاً ادامه داشته، حتی چند روز پیش، دیروز و امروز هم در جریان بوده. نتیجه‌ش رو کسی دقیق نمی‌دونه ولی من به ایران گفتم وقتش رسیده یه توافق انجام بدین. این ماجرا ۴۷ ساله ادامه داره و دیگه نباید همین‌طوری ادامه پیدا کنه.
-
-@CheKhabarr</text>
-      <views>41243</views>
-      <forwards>66</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__47375__photo.jpg</file>
-        <width>922</width>
-        <height>462</height>
-        <telegram_link>https://t.me/chekhabarre/47375</telegram_link>
-      </media>
-    </post>
-    <post id="47374">
-      <date>2026-06-02T17:05:16.000Z</date>
-      <text>🔴 مارکو روبیو: من از هیچ برنامه‌ای برای مسلح کردن غیرنظامیان تو ایران برای سرنگونی حکومتش خبر ندارم؛ شاید کشورها یا طرف‌های دیگه چنین کاری بکنن اما قطعاً دولت آمریکا چنین برنامه‌ای نداره.
-
-@CheKhabarr</text>
-      <views>39647</views>
-      <forwards>90</forwards>
-      <media type="none"/>
-    </post>
-    <post id="47373">
-      <date>2026-06-02T16:35:37.000Z</date>
-      <text>🔴 سخنگوی هیئت رئیسه مجلس: این جنگ واسه ما عالی و اقتدارآفرینه.
-
-@CheKhabarr</text>
-      <views>39301</views>
-      <forwards>11</forwards>
-      <media type="none"/>
-    </post>
-    <post id="47372">
-      <date>2026-06-02T16:26:58.000Z</date>
-      <text>🔴 اینم شده عین داستان ظهور امام زمان.
-
-روبیو: شاید ظرف چندروز آینده خبری از توافق با ایران بشنویم.
-
-@CheKhabarr</text>
-      <views>39616</views>
-      <forwards>33</forwards>
-      <media type="none"/>
-    </post>
-    <post id="47371">
-      <date>2026-06-02T16:25:40.000Z</date>
-      <text>🔴 روبیو: اگه اونا به چیزی که ما درباره برنامه هسته‌ای می‌خوایم عمل کنن، اون وقت می‌شه درباره آزاد شدن پول‌های بلوکه‌شده‌شون حرف زد. یعنی هرچی بیشتر همکاری کنن، امتیاز بیشتری می‌گیرن ولی در نهایت حتی جدا از موضوع هسته‌ای هم ما هنوز با چالش‌های دیگه‌ای درباره ایران روبه‌رو هستیم؛ مثل این‌که پولشون رو کجا و چطور خرج می‌کنن.
-
-@CheKhabarr</text>
-      <views>39874</views>
-      <forwards>26</forwards>
-      <media type="video" available="false">
-        <mime_type>video/mp4</mime_type>
-        <duration_seconds>28.153</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/47371</telegram_link>
-      </media>
-    </post>
-    <post id="47370">
-      <date>2026-06-02T16:25:23.000Z</date>
-      <text>▪︎با این وضعیت اینترنت، ربات تلگرام وینکوبت خیلی کاربردیه چون براحتی وارد سایت میشی.
-
-▪︎هم ثبت‌نامش سریع انجام میشه، هم کازینو رو داخل خود تلگرام میتونی بازی کنی و عملاً کل سایتو داخل ربات داری.
-▪︎پیش‌بینی، بازی، واریز، برداشت و همه‌چی همونجا انجام میشه و خیلی روون‌تره: 👇
-
-🤖 @Wincobet_bot
-🤖 @Wincobet_bot
-
-📌کانال رسمی وینکوبت:👇
-
-🔵 @Wincobetofficial</text>
-      <views>37702</views>
+    <post id="47408">
+      <date>2026-06-02T23:15:28.000Z</date>
+      <text>🚨🚨</text>
+      <views>12244</views>
       <forwards>0</forwards>
       <media type="none"/>
     </post>
-    <post id="47369">
-      <date>2026-06-02T15:10:38.000Z</date>
-      <text>مارکو روبیو، راجب مجتبی خامنه‌ای: 
-رهبر قبلی دیگه تو صحنه نیست و عملاً کنار رفته؛ حالا پسرش جای اونو گرفته. اما نکته اینجاست که حدود یک ماهه هیچ خبری ازش نیست. طبق گزارش‌های منتشرشده، اون تو همون حمله به‌شدت آسیب دیده. شما خودتون مطمئنید هنوز زنده‌ست؟ چون واقعیت اینه که ما هیچ حضور علنی یا صحبت عمومی ازش ندیدیم بنابراین تا جایی که اطلاعات عمومی نشون میده، وضعیتش کاملاً مبهمه و عملاً خبری از حضورش نیست.
-
-@CheKhabarr</text>
-      <views>41430</views>
-      <forwards>131</forwards>
+    <post id="47407">
+      <date>2026-06-02T23:15:23.000Z</date>
+      <text>نقض شد؟</text>
+      <views>12243</views>
+      <forwards>37</forwards>
       <media type="none"/>
     </post>
-    <post id="47368">
-      <date>2026-06-02T13:59:44.000Z</date>
-      <text>🔴 نتانیاهو: موساد همیشه تو خط مقدم مقابله با تجاوزگری رژیم ایران بوده و هست.
-
-@CheKhabarr</text>
-      <views>42998</views>
-      <forwards>22</forwards>
-      <media type="none"/>
+    <post id="47406">
+      <date>2026-06-02T23:12:07.000Z</date>
+      <text>نتانیاهو الان:</text>
+      <views>12863</views>
+      <forwards>95</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__47406__photo.jpg</file>
+        <width>1200</width>
+        <height>591</height>
+        <telegram_link>https://t.me/chekhabarre/47406</telegram_link>
+      </media>
     </post>
-    <post id="47367">
-      <date>2026-06-02T13:58:56.000Z</date>
-      <text>🔴 باز اینا تریاک کشیدن.
-
-روزنامه کیهان: حالا که روسیه منطقه کریمه رو‌ پس گرفته و چین هم دنبال اینه تایوانو بگیره، ماهم باید بریم بحرینو پس بگیریم.
-
-@CheKhabarr</text>
-      <views>43266</views>
-      <forwards>69</forwards>
+    <post id="47405">
+      <date>2026-06-02T23:10:23.000Z</date>
+      <text>🔴 یک فریم از خاورمیانه؛ یکی داره از موشکا فیلم میگیره که همون لحظه یکی کصدست بازی درمیاره میماله به گاردریل.</text>
+      <views>13070</views>
+      <forwards>272</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>22.338</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/47405</telegram_link>
+      </media>
+    </post>
+    <post id="47404">
+      <date>2026-06-02T23:07:30.000Z</date>
+      <text>🔴 سپاه پاسداران: 
+در پاسخ به حمله آمریکا به قشم، حملاتی به کویت و بحرین انجام دادیم. به آمریکا و هر کشوری که خاک یا آسمان خود را برای عملیات علیه ایران در اختیار بگذارد هشدار داده شده که هرگونه اقدام جدید با پاسخی شدیدتر و فراتر از «قواعد متعارف» روبه‌رو خواهد شد. دوران «بزن و دررو» پایان یافته و نیروهای آمریکایی و متحدانشان باید منتظر پیامدهای اقدامات خود باشند.</text>
+      <views>13539</views>
+      <forwards>157</forwards>
       <media type="none"/>
     </post>
   </posts>
