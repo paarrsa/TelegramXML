@@ -7,185 +7,115 @@
     <members>259837</members>
     <profile>https://raw.githubusercontent.com/yourusername/yourrepo/main/profiles/bbcnews.png</profile>
     <telegram_link>https://t.me/chekhabarre</telegram_link>
-    <generated_at>2026-06-03T12:16:16.621Z</generated_at>
+    <generated_at>2026-06-03T17:22:49.087Z</generated_at>
   </meta>
   <posts>
-    <post id="47450">
-      <date>2026-06-03T11:06:54.000Z</date>
-      <text>دلقک بازی جدید ترامپ تو تروث.</text>
-      <views>17739</views>
-      <forwards>129</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__47450__photo.jpg</file>
-        <width>589</width>
-        <height>1023</height>
-        <telegram_link>https://t.me/chekhabarre/47450</telegram_link>
-      </media>
-    </post>
-    <post id="47449">
-      <date>2026-06-03T10:56:55.000Z</date>
-      <text>یه بلاگر خارجی اومده یه ویدیو درست کرده تحت این عنوان که «اگه ترامپ به‌عنوان جوکر تو دارک‌نایت بازی میکرد» چطوری میشد. فوق‌العادست.
+    <post id="47466">
+      <date>2026-06-03T17:19:10.000Z</date>
+      <text>🔴 فاکس نیوز: جمشید قمی، مدیرعامل یه شرکت فناوری تو ایالت کالیفرنیا، به اتهام تأمین تجهیزات برای برنامه‌های هسته‌ای و نظامی ایران بازداشت شد.
 
 @CheKhabarr</text>
-      <views>20426</views>
-      <forwards>307</forwards>
-      <media type="video" available="false">
-        <mime_type>video/mp4</mime_type>
-        <duration_seconds>65.617</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/47449</telegram_link>
-      </media>
-    </post>
-    <post id="47448">
-      <date>2026-06-03T10:46:02.000Z</date>
-      <text>🔴 می‌خندم چراکه چشمانم توان گریه ندارد.
-
-ترامپ: من این افتخار را نداشته‌ام که با آیت‌الله ملاقات کنم. او حالش خوب نیست؛ بخش‌های زیادی از بدنش کم دارد.</text>
-      <views>23519</views>
-      <forwards>587</forwards>
-      <media type="none"/>
-    </post>
-    <post id="47447">
-      <date>2026-06-03T10:45:53.000Z</date>
-      <text>🔴 ترامپ: آیت‌الله همجنسگراست.</text>
-      <views>23830</views>
-      <forwards>689</forwards>
-      <media type="none"/>
-    </post>
-    <post id="47446">
-      <date>2026-06-03T10:42:36.000Z</date>
-      <text>مهمات عمل نکرده بوده.</text>
-      <views>22965</views>
+      <views>2069</views>
       <forwards>1</forwards>
       <media type="none"/>
     </post>
-    <post id="47445">
-      <date>2026-06-03T10:30:13.000Z</date>
-      <text>تو بندرعباس این وسط صدای انفجار شنیده شده</text>
-      <views>25439</views>
-      <forwards>69</forwards>
-      <media type="none"/>
-    </post>
-    <post id="47444">
-      <date>2026-06-03T10:29:39.000Z</date>
-      <text>🔴 ترامپ: آیت‌الله خامنه‌ای نقشی سازنده تو مذاکرات داره و همه‌چیز خوب پیش می‌ره. ایران قول داده سمت سلاح هسته‌ای نره.</text>
-      <views>26609</views>
-      <forwards>332</forwards>
-      <media type="none"/>
-    </post>
-    <post id="47443">
-      <date>2026-06-03T10:28:54.000Z</date>
-      <text>🔴 ترامپ: من به نتانیاهو گفتم تو یه دیوونه‌‌ای.</text>
-      <views>26470</views>
-      <forwards>340</forwards>
-      <media type="none"/>
-    </post>
-    <post id="47442">
-      <date>2026-06-03T10:28:38.000Z</date>
-      <text>🔴 ترامپ به نیویورک پست: احتمالاً با آیت‌الله مجتبی خامنه‌ای دیدار می‌کنم!</text>
-      <views>26842</views>
-      <forwards>465</forwards>
-      <media type="none"/>
-    </post>
-    <post id="47441">
-      <date>2026-06-03T09:50:03.000Z</date>
-      <text></text>
-      <views>29929</views>
-      <forwards>185</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__47441__photo.jpg</file>
-        <width>720</width>
-        <height>1280</height>
-        <telegram_link>https://t.me/chekhabarre/47441</telegram_link>
-      </media>
-    </post>
-    <post id="47440">
-      <date>2026-06-03T09:50:02.000Z</date>
-      <text></text>
-      <views>29710</views>
-      <forwards>184</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__47440__photo.jpg</file>
-        <width>720</width>
-        <height>1280</height>
-        <telegram_link>https://t.me/chekhabarre/47440</telegram_link>
-      </media>
-    </post>
-    <post id="47439">
-      <date>2026-06-03T09:50:02.000Z</date>
-      <text>🔴 فرودگاه کویت پی حملات موشکی و پهپادی ج‌ا.</text>
-      <views>29785</views>
-      <forwards>185</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__47439__photo.jpg</file>
-        <width>960</width>
-        <height>1280</height>
-        <telegram_link>https://t.me/chekhabarre/47439</telegram_link>
-      </media>
-    </post>
-    <post id="47438">
-      <date>2026-06-03T09:11:32.000Z</date>
-      <text>🔴 ای‌بی‌سی به نقل از مقامات آمریکایی: ترامپ از تهران می‌خواد که امتیازات مشخص هسته‌ای رو به صورت مکتوب به عنوان بخشی از یک توافق مقدماتی ارائه دهد تا بتوان بر بن‌بست طولانی میان آمریکا و ایران غلبه کرد.
+    <post id="47465">
+      <date>2026-06-03T17:17:52.000Z</date>
+      <text>🔴 منبعی از تیم مذاکره‌کننده جمهوری‌اسلامی به خبرگزاری فارس: ما هیچ توافقی رو امضاء نمی‌کنیم که توش به منافع لبنان توجه نشده باشه.
 
 @CheKhabarr</text>
-      <views>31010</views>
-      <forwards>11</forwards>
+      <views>4090</views>
+      <forwards>2</forwards>
       <media type="none"/>
     </post>
-    <post id="47437">
-      <date>2026-06-03T09:09:37.000Z</date>
-      <text>[@OutOfContext]</text>
-      <views>30425</views>
-      <forwards>191</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__47437__photo.jpg</file>
-        <width>686</width>
-        <height>1200</height>
-        <telegram_link>https://t.me/chekhabarre/47437</telegram_link>
-      </media>
-    </post>
-    <post id="47436">
-      <date>2026-06-03T09:08:34.000Z</date>
-      <text>⚫ حکم اعدام فتح‌الله‌ آوری، از بازداشتی‌های اعتراضات دی‌ماه ۱۴۰۴ تو همدان، اجرا شد.
+    <post id="47464">
+      <date>2026-06-03T17:08:58.000Z</date>
+      <text>🔴 باز این مودی شروع کرد.
 
-@CheKhabarr</text>
-      <views>29990</views>
-      <forwards>70</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__47436__photo.jpg</file>
-        <width>1024</width>
-        <height>1280</height>
-        <telegram_link>https://t.me/chekhabarre/47436</telegram_link>
-      </media>
-    </post>
-    <post id="47435">
-      <date>2026-06-03T08:11:15.000Z</date>
-      <text>🔴 نایب رئیس مجلس: موشک‌هایی که به بیت اصابت کرد تنها چند کروز بود نه سنگرشکن. در ساعات اولیه دغدغه این را داشتیم که رئیس جمهور را در نهاد ریاست جمهوری زده اند؛ خیلی ها می گفتند قاعدتا حضرت آقا الان در منزل شخصی خودشان نیستند.
-
-@CheKhabarr</text>
-      <views>32270</views>
-      <forwards>30</forwards>
+ترامپ: رابطه‌م با نتانیاهو عالیه و راجب لبنان هم‌نظریم.</text>
+      <views>8193</views>
+      <forwards>1</forwards>
       <media type="none"/>
     </post>
-    <post id="47434">
-      <date>2026-06-03T08:11:10.000Z</date>
-      <text>گزارش مجتبا پورمحسن از ابعاد تازهٔ سرکوب خونین و ترسناک اعتراضات تو شهر رشت در دو شب ۱۸ و ۱۹ دی ۱۴۰۴:
+    <post id="47463">
+      <date>2026-06-03T17:08:03.000Z</date>
+      <text>یسری از دوستان تا چیزی می‌شنون که باهاش حال نمی‌کنن میان دایرکت میگن چرا خبر فیک پخش می‌کنی.
+اگر اطمینان ندارید میتونید شبکه اینترنشنال رو هم چک کنید. همینو زیرنویس کرده دیگه</text>
+      <views>8205</views>
+      <forwards>1</forwards>
+      <media type="none"/>
+    </post>
+    <post id="47462">
+      <date>2026-06-03T16:51:07.000Z</date>
+      <text>🚨 تمام شد، مبارک خیلیا.
 
-@Khabariee</text>
-      <views>29358</views>
-      <forwards>802</forwards>
+مارکو روبیو: ما دیگه عملیات گسترده و مداوم نظامی تو ایران انجام نمی‌دیم و عملیات خشم حماسی بصورت کامل به پایان رسیده.
+
+@CheKhabarr</text>
+      <views>17685</views>
+      <forwards>845</forwards>
+      <media type="none"/>
+    </post>
+    <post id="47461">
+      <date>2026-06-03T16:29:44.000Z</date>
+      <text>فارس تکذیب کرد.</text>
+      <views>21551</views>
+      <forwards>104</forwards>
+      <media type="none"/>
+    </post>
+    <post id="47460">
+      <date>2026-06-03T16:16:24.000Z</date>
+      <text>🔴 خبرگزاری فارس: تاریخ برگزاری آیین وداع، تشییع و خاکسپاری پیکر سیدعلی خامنه‌ای مشخص شد و به شرح زیره:
+- ۲۰، ۲۱، ۲۲ خرداد: وداع تو حرم امام‌ خمینی.
+- ۲۳ خرداد: تشییع تو تهران.
+- ۲۴ خرداد: تشییع تو قم.
+- ۲۵ خرداد: تشییع تو عراق.
+- ۲۶ خرداد (اول محرم): تشییع و خاکسپاری تو مشهد.
+
+@CheKhabarr</text>
+      <views>24001</views>
+      <forwards>400</forwards>
+      <media type="none"/>
+    </post>
+    <post id="47459">
+      <date>2026-06-03T15:23:55.000Z</date>
+      <text>🔴 نتانیاهو:
+ما باید به مردم ایران کمک کنیم تا این حکومت رو کنار بزنن و این موضع ما تغییری نکرده اما لزوماً قرار نیست این اتفاق دقیقاً تو زمانی که ما می‌خوایم رخ بده.
+مردم ایران خواهان روابط خوب با آمریکا هستن و میخان با اسرائیل هم روابط خوبی داشته باشن و این میتونه محقق بشه.</text>
+      <views>29466</views>
+      <forwards>127</forwards>
+      <media type="none"/>
+    </post>
+    <post id="47458">
+      <date>2026-06-03T15:18:19.000Z</date>
+      <text>🔴 نتانیاهو: بین من و ترامپ هماهنگی وجود داره.</text>
+      <views>28787</views>
+      <forwards>35</forwards>
+      <media type="none"/>
+    </post>
+    <post id="47457">
+      <date>2026-06-03T14:59:16.000Z</date>
+      <text>🔴 خبرنگار: شما قبلاً درباره تغییر رژیم صحبت می‌کردید. چرا اکنون کسی درباره آن صحبت نمی‌کند؟
+
+نتانیاهو: «چرا می‌گویید درباره آن صحبت نمی‌کنیم؟»
+
+خبرنگار: به نظر می‌رسد ترامپ آماده است با همین حکومت فعلی به توافق برسد.
+
+نتانیاهو: «این به آن معنا نیست که او می‌خواهد این حکومت فعلی باقی بماند. شما نمی‌توانید دقیقاً پیش‌بینی کنید که چه زمانی یک حکومتی از این دست سقوط خواهد کرد.»﻿</text>
+      <views>30924</views>
+      <forwards>262</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
-        <duration_seconds>527.338</duration_seconds>
+        <duration_seconds>33.366</duration_seconds>
         <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/47434</telegram_link>
+        <telegram_link>https://t.me/chekhabarre/47457</telegram_link>
       </media>
     </post>
-    <post id="47433">
-      <date>2026-06-03T08:11:01.000Z</date>
+    <post id="47456">
+      <date>2026-06-03T14:59:13.000Z</date>
       <text>Sportnavad➕ | اسپورت نود➕
 
-🇫🇷 رقابت جذاب و حساس برای رسیدن به نیمه‌نهایی رولان‌گاروس، دیدارهای هیجان‌انگیز امروز تنیس رو با آپشن‌های مختلف در اسپورت نود پیش‌بینی کنید.
+⚽️ دیدارهای جذاب دوستانه ملی امشب رو با آپشن‌های مختلف در سایت اسپورت نود با بالاترین ضرایب ممکن پیش‌بینی کنید.
 
 🔗 ضرایب رقابتی و متنوع فقط در سایت معتبر اسپورت نود به همراه:👇
 
@@ -204,31 +134,100 @@
 🔗 کانال رسمی اسپورت نود:👇
 
 ✉️ @Sportnavad</text>
-      <views>32525</views>
+      <views>28385</views>
       <forwards>0</forwards>
       <media type="photo" available="true">
-        <file>img/chekhabarre__47433__photo.jpg</file>
+        <file>img/chekhabarre__47456__photo.jpg</file>
         <width>1200</width>
         <height>1200</height>
-        <telegram_link>https://t.me/chekhabarre/47433</telegram_link>
+        <telegram_link>https://t.me/chekhabarre/47456</telegram_link>
       </media>
     </post>
-    <post id="47432">
-      <date>2026-06-03T07:10:43.000Z</date>
-      <text>🔴 شما فقط ببینید اینا چقدر واسه زندگی مردمشون احترام قائلن.
-
-کابینه ژاپن ۱۹ میلیارد دلار بودجه اضافی برای محافظت از خانوارها در برابر تورم مرتبط با جنگ آمریکا و اسرائیل علیه ایران تصویب کرد.
-
-@CheKhabarr</text>
-      <views>36183</views>
-      <forwards>225</forwards>
+    <post id="47455">
+      <date>2026-06-03T14:56:57.000Z</date>
+      <text>🔴 نتانیاهو درباره ایران: رئیس‌جمهور ترامپ معتقده که می‌تونه مشکل غنی‌سازی رو با فشار دیپلماتیک و مذاکرات سخت حل کنه. فکر می‌کنم باید بهش فرصت بدیم.</text>
+      <views>26342</views>
+      <forwards>31</forwards>
       <media type="none"/>
     </post>
-    <post id="47431">
-      <date>2026-06-03T06:44:40.000Z</date>
-      <text>🔴 فرمانداری دزفول: اگر از ساعت ۱۰ تا ۱۲ صدای انفجار شنیدید کار خودمونه. داریم امحا مهمات انجام می‌دیم.</text>
-      <views>37747</views>
-      <forwards>10</forwards>
+    <post id="47454">
+      <date>2026-06-03T13:38:37.000Z</date>
+      <text>🔴 اسرائیل هیوم: واشنگتن از تهران خواسته تا قبل از اعلام توافق، محل ذخیره اورانیوم غنی‌شده رو روشن کنه.
+
+@CheKhabarr</text>
+      <views>31418</views>
+      <forwards>33</forwards>
+      <media type="none"/>
+    </post>
+    <post id="47453">
+      <date>2026-06-03T13:18:58.000Z</date>
+      <text>🔴 وزارت امور خارجه کویت ضمن احضار کاردار ایران، دو دیپلمات ایرانی رو هم عنصر نامطلوب اعلام کرد.</text>
+      <views>33133</views>
+      <forwards>11</forwards>
+      <media type="none"/>
+    </post>
+    <post id="47452">
+      <date>2026-06-03T13:17:51.000Z</date>
+      <text>🔴 نخست‌وزیر عراق از تشکیل یه کمیته مشترک برای تدوین سازوکارهای قطع ارتباط با گروه الحشدالشعبی و انحصار سلاح تو دست دولت خبر داد.
+
+@CheKhabarr</text>
+      <views>33327</views>
+      <forwards>22</forwards>
+      <media type="none"/>
+    </post>
+    <post id="47451">
+      <date>2026-06-03T12:27:45.000Z</date>
+      <text>🔴 وزارت دفاع کویت: ج‌ا دیشب ۱۳ موشک بالستیک و ۱۷ پهپاد به سمت ما شلیک کرده.
+از زمان شروع جنگ هم ۱۵ کروز، ۳۷۲ موشک بالستیک و ۸۶۹ پهپاد.</text>
+      <views>35543</views>
+      <forwards>74</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__47451__photo.jpg</file>
+        <width>1024</width>
+        <height>1280</height>
+        <telegram_link>https://t.me/chekhabarre/47451</telegram_link>
+      </media>
+    </post>
+    <post id="47450">
+      <date>2026-06-03T11:06:54.000Z</date>
+      <text>دلقک بازی جدید ترامپ تو تروث.</text>
+      <views>39788</views>
+      <forwards>180</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__47450__photo.jpg</file>
+        <width>589</width>
+        <height>1023</height>
+        <telegram_link>https://t.me/chekhabarre/47450</telegram_link>
+      </media>
+    </post>
+    <post id="47449">
+      <date>2026-06-03T10:56:55.000Z</date>
+      <text>یه بلاگر خارجی اومده یه ویدیو درست کرده تحت این عنوان که «اگه ترامپ به‌عنوان جوکر تو دارک‌نایت بازی میکرد» چطوری میشد. فوق‌العادست.
+
+@CheKhabarr</text>
+      <views>40410</views>
+      <forwards>513</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>65.617</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/47449</telegram_link>
+      </media>
+    </post>
+    <post id="47448">
+      <date>2026-06-03T10:46:02.000Z</date>
+      <text>🔴 می‌خندم چراکه چشمانم توان گریه ندارد.
+
+ترامپ: من این افتخار را نداشته‌ام که با آیت‌الله ملاقات کنم. او حالش خوب نیست؛ بخش‌های زیادی از بدنش کم دارد.</text>
+      <views>42033</views>
+      <forwards>742</forwards>
+      <media type="none"/>
+    </post>
+    <post id="47447">
+      <date>2026-06-03T10:45:53.000Z</date>
+      <text>🔴 ترامپ: آیت‌الله همجنسگراست.</text>
+      <views>42359</views>
+      <forwards>855</forwards>
       <media type="none"/>
     </post>
   </posts>
