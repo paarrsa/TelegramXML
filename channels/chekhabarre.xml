@@ -7,160 +7,168 @@
     <members>259837</members>
     <profile>https://raw.githubusercontent.com/yourusername/yourrepo/main/profiles/bbcnews.png</profile>
     <telegram_link>https://t.me/chekhabarre</telegram_link>
-    <generated_at>2026-06-11T20:00:19.745Z</generated_at>
+    <generated_at>2026-06-11T22:09:14.883Z</generated_at>
   </meta>
   <posts>
-    <post id="48492">
-      <date>2026-06-11T19:53:28.000Z</date>
-      <text>🔴 د آخه پدرسوخته.
-
-ترامپ راجب عاصم منیر: من اونو ژنرال صدا می‌زنم. او یک ژنراله. او ژنرال بزرگیه؛ اونقدر بزرگ که در واقع یه فیلد مارشاله، یعنی یک درجه بالاتر.</text>
-      <views>8141</views>
-      <forwards>34</forwards>
-      <media type="none"/>
-    </post>
-    <post id="48491">
-      <date>2026-06-11T19:50:13.000Z</date>
-      <text>گفتگوی تلفنی بنی نتان و ترامپم انجام شد.</text>
-      <views>11149</views>
-      <forwards>36</forwards>
-      <media type="none"/>
-    </post>
-    <post id="48490">
-      <date>2026-06-11T19:46:53.000Z</date>
-      <text>🔴 العربیه: آمریکا قبول کرده تحریم‌های ایران رو کاهش بده و محاصره دریایی رو برداره.</text>
-      <views>14215</views>
-      <forwards>173</forwards>
-      <media type="none"/>
-    </post>
-    <post id="48489">
-      <date>2026-06-11T19:45:03.000Z</date>
-      <text>نفت همینجوری داره میاد پایین</text>
-      <views>16250</views>
-      <forwards>73</forwards>
-      <media type="none"/>
-    </post>
-    <post id="48488">
-      <date>2026-06-11T19:41:53.000Z</date>
-      <text>🔴 ترامپ: من نمی‌تونم برای امضاء توافق حضور داشته باشم ولی جی‌دی ونس رو می‌فرستم.</text>
-      <views>17268</views>
-      <forwards>211</forwards>
-      <media type="none"/>
-    </post>
-    <post id="48487">
-      <date>2026-06-11T19:41:21.000Z</date>
-      <text>🔴 ترامپ: همه بابت این توافق بسیار خوشحالن. تنگه به محض امضاء شدن توافق باز می‌شه.</text>
-      <views>18278</views>
-      <forwards>244</forwards>
-      <media type="none"/>
-    </post>
-    <post id="48486">
-      <date>2026-06-11T19:36:40.000Z</date>
-      <text></text>
-      <views>20320</views>
-      <forwards>105</forwards>
-      <media type="video" available="false">
-        <mime_type>video/mp4</mime_type>
-        <duration_seconds>4.267</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/48486</telegram_link>
-      </media>
-    </post>
-    <post id="48485">
-      <date>2026-06-11T19:34:13.000Z</date>
-      <text>ترامپ: توافق بزودی در اروپا امضا می‌شه.</text>
-      <views>23378</views>
-      <forwards>622</forwards>
-      <media type="none"/>
-    </post>
-    <post id="48484">
-      <date>2026-06-11T19:34:05.000Z</date>
-      <text>🚨🚨🚨</text>
-      <views>21340</views>
+    <post id="48516">
+      <date>2026-06-11T22:06:45.000Z</date>
+      <text>🔴 فارس: ایران اجازه عبور نفتکش متخلف از تنگه هرمز را نداد. پیگیری ها از منابع محلی نشان می‌دهد دقایقی قبل نیروهای ایران اجازه عبور یک نفتکش متخلف که بدون هماهنگی وارد محدوده تنگه شده بود را ندادند.</text>
+      <views>4058</views>
       <forwards>1</forwards>
       <media type="none"/>
     </post>
-    <post id="48483">
-      <date>2026-06-11T19:31:34.000Z</date>
-      <text>🔴 سی‌بی‌اس: احتمالاً هفته بعد تفاهم‌نامه ایران و آمریکا امضاء شه.</text>
-      <views>23379</views>
-      <forwards>241</forwards>
+    <post id="48515">
+      <date>2026-06-11T21:57:29.000Z</date>
+      <text>این بابا هم به‌محض تیک‌آف کد اضطراری ۷۷۰۰ صادر کرد.</text>
+      <views>12206</views>
+      <forwards>35</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__48515__photo.jpg</file>
+        <width>730</width>
+        <height>1280</height>
+        <telegram_link>https://t.me/chekhabarre/48515</telegram_link>
+      </media>
+    </post>
+    <post id="48514">
+      <date>2026-06-11T21:54:40.000Z</date>
+      <text>شنیده شدن صدای چند انفجار در بندرعباس، دقایقی پیش</text>
+      <views>15239</views>
+      <forwards>172</forwards>
       <media type="none"/>
     </post>
-    <post id="48482">
-      <date>2026-06-11T19:30:39.000Z</date>
-      <text>دفتر امیر قطرم مثکه تأیید کرده که ایران و آمریکا با همدیگه کنار اومدن و شرایط رو پذیرفتن</text>
-      <views>24395</views>
-      <forwards>277</forwards>
+    <post id="48513">
+      <date>2026-06-11T21:52:35.000Z</date>
+      <text>[@OutOfContext]</text>
+      <views>16253</views>
+      <forwards>172</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__48513__photo.jpg</file>
+        <width>1200</width>
+        <height>960</height>
+        <telegram_link>https://t.me/chekhabarre/48513</telegram_link>
+      </media>
+    </post>
+    <post id="48512">
+      <date>2026-06-11T21:40:46.000Z</date>
+      <text>تعداد زیادی سوخترسان در آسمان منطقس. بهترین موقعیت واسه اینکه آمریکا اسرائیلو بزنه</text>
+      <views>23377</views>
+      <forwards>310</forwards>
       <media type="none"/>
     </post>
-    <post id="48481">
-      <date>2026-06-11T19:26:06.000Z</date>
-      <text>🔴 کان‌نیوز: نتانیاهو و ترامپ امشب صحبت میکنن.</text>
-      <views>25417</views>
-      <forwards>69</forwards>
+    <post id="48511">
+      <date>2026-06-11T21:38:44.000Z</date>
+      <text>یک انفجار دیگه در سیریک</text>
+      <views>23377</views>
+      <forwards>140</forwards>
       <media type="none"/>
     </post>
-    <post id="48480">
-      <date>2026-06-11T19:20:43.000Z</date>
-      <text>همون سیاست پیروز شدن کون اینا به شمشیر</text>
-      <views>27454</views>
-      <forwards>38</forwards>
+    <post id="48510">
+      <date>2026-06-11T21:35:43.000Z</date>
+      <text></text>
+      <views>25384</views>
+      <forwards>102</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__48510__photo.jpg</file>
+        <width>888</width>
+        <height>1280</height>
+        <telegram_link>https://t.me/chekhabarre/48510</telegram_link>
+      </media>
+    </post>
+    <post id="48509">
+      <date>2026-06-11T21:33:29.000Z</date>
+      <text>آواکس چرا رو آسمون منطقس 😂</text>
+      <views>26402</views>
+      <forwards>104</forwards>
       <media type="none"/>
     </post>
-    <post id="48479">
-      <date>2026-06-11T19:19:09.000Z</date>
-      <text>چنل‌های حکومتی قرومدنگ دارن میگن آمریکا شرایط ایران رو پذیرفته و دارن از مفاد شرایطشون دم میزنن</text>
-      <views>28472</views>
-      <forwards>107</forwards>
+    <post id="48508">
+      <date>2026-06-11T21:24:19.000Z</date>
+      <text>گزارش‌های غیررسمی از انفجار مجدد در سیریک</text>
+      <views>29453</views>
+      <forwards>175</forwards>
       <media type="none"/>
     </post>
-    <post id="48478">
-      <date>2026-06-11T19:14:50.000Z</date>
-      <text>مثکه توافق واقعیه!</text>
-      <views>30508</views>
-      <forwards>212</forwards>
+    <post id="48507">
+      <date>2026-06-11T21:07:27.000Z</date>
+      <text>🔴 دقایقی قبل، صدای بند سوم توافق از سیریک شنیده شده.</text>
+      <views>38620</views>
+      <forwards>867</forwards>
       <media type="none"/>
     </post>
-    <post id="48477">
-      <date>2026-06-11T19:05:41.000Z</date>
-      <text>🔴 باز حرفارو برعکس کردن.
+    <post id="48506">
+      <date>2026-06-11T21:06:29.000Z</date>
+      <text>ما که بدنم نداریم</text>
+      <views>37606</views>
+      <forwards>377</forwards>
+      <media type="none"/>
+    </post>
+    <post id="48505">
+      <date>2026-06-11T21:03:14.000Z</date>
+      <text>ما که سر نداریم</text>
+      <views>38592</views>
+      <forwards>445</forwards>
+      <media type="none"/>
+    </post>
+    <post id="48504">
+      <date>2026-06-11T20:59:09.000Z</date>
+      <text>کصکشا این بود رسم رفاقت؟
+زنمون گایید حالا می‌خوای توافق کنید؟
+استخوان هام تو کون مرده زنده تون</text>
+      <views>40650</views>
+      <forwards>483</forwards>
+      <media type="none"/>
+    </post>
+    <post id="48503">
+      <date>2026-06-11T20:58:31.000Z</date>
+      <text>امان از فرزند ناخلف...💔</text>
+      <views>45669</views>
+      <forwards>822</forwards>
+      <media type="none"/>
+    </post>
+    <post id="48502">
+      <date>2026-06-11T20:53:51.000Z</date>
+      <text>یعنی واقعا عمو مجتبی با قاتل:
 
-نیویورک تایمز: پیش از لغو حملات برنامه‌ریزی‌شده علیه ایران در روز پنج‌شنبه، ترامپ با میانجی‌های پاکستانی گفت‌وگو کرده بود؛ آن‌ها به او گفته بودند که با ایران «به توافقی» رسیده‌اند.</text>
-      <views>32525</views>
-      <forwards>68</forwards>
+سید علی خامنه‌ای 💔، قاتل خانواده‌ی رهبر جدیدمون 💔 قاتل سردار سلیمانی 💔، قاتل سید مقاومت حسن نصرالله💔، قاتل شهید فقید اسماعیل هنیه💔، قاتل دانشمندمون محسن فخری‌زاده💔، قاتل سردار حسین سلامی💔، قاتل سردار محمد باقری غلامعلی رشید💔، قاتل سردار موشکیمون امیرعلی حاجی‌زاده💔، قاتل شهید فریدون عباسی💔، قاتل شهیپ محمدمهدی طهرانچی💔، قاتل سرلشکر شهید احمدرضا ذوالفقاری💔، قاتل سید امیرحسین فقهی💔، قاتل شهید اکبر مطلبی‌زاده💔، قاتل سردار سرافراز عزیزمون علی شمخانی💔، قاتل فرمانده بی‌بدیلمون محمد پاکپور💔، قاتل سرلشکر عبدالرحیم موسوی💔، قاتل سرتیپ عزیز نصیری‌زاده 💔، قاتل عزیز اطلاعاتیمون اسماعیل خطیب💔، قاتل شهیدان غلامرضا سلیمانی 💔 و مجید خادمی💔، قاتل سردار سرافرازی که بر بستن تنگه اصرار داشت یعنی شهید علیرضا تنگسیری 💔، قاتل رئیس جمهور آینده شهید بزرگوار علی لاریجانی 💔، و قاتل شهیدان دیگر مانند محمد کاظمی 💔، حسن محقق 💔، داوود شیخیان 💔، محمدباقر طاهرپور 💔، بهنام رضایی 💔، اسماعیل احمدی 💔، علی‌محمد نائینی 💔، مهدی رستمی شمستان 💔، سعید برجی 💔و منصور صفارپور 💔 
+
+توافق کرده؟</text>
+      <views>41655</views>
+      <forwards>930</forwards>
       <media type="none"/>
     </post>
-    <post id="48476">
-      <date>2026-06-11T18:52:19.000Z</date>
-      <text>⚽ از #فوتبال چه‌خبر؟!
-
-ژوزه مورینیو رسماً سرمربی رئال مادرید شد.
-
-@CheKhabarr</text>
-      <views>35578</views>
+    <post id="48501">
+      <date>2026-06-11T20:48:22.000Z</date>
+      <text>تازه اینا میخواستن مشترکاً با عمان واسه عبور از تنگه هرمز عوارض وضع کنن.</text>
+      <views>39606</views>
+      <forwards>35</forwards>
+      <media type="none"/>
+    </post>
+    <post id="48500">
+      <date>2026-06-11T20:42:30.000Z</date>
+      <text>خطوط‌قرمز ج‌ا: ندادن اورانیوم و غنی کردنش تو خاک کشور، اضافه کردن لبنان به‌عنوان طرف معامله و کوتاه نیامدن از برنامه موشکی.</text>
+      <views>41632</views>
+      <forwards>106</forwards>
+      <media type="none"/>
+    </post>
+    <post id="48499">
+      <date>2026-06-11T20:41:53.000Z</date>
+      <text>🔴 بقایی: آمریکایی‌‌ها درحال القا هستن که جمهوری اسلامی تحت فشار به توافق رضایت داده، در حالیکه ما به هیچ عنوان از خطوط قرمز خود کوتاه نخواهیم آمد.</text>
+      <views>41634</views>
+      <forwards>173</forwards>
+      <media type="none"/>
+    </post>
+    <post id="48498">
+      <date>2026-06-11T20:34:59.000Z</date>
+      <text>مادرجنده ها فقط من باید بگا میرفتم؟</text>
+      <views>47726</views>
+      <forwards>900</forwards>
+      <media type="none"/>
+    </post>
+    <post id="48497">
+      <date>2026-06-11T20:26:21.000Z</date>
+      <text>حالا کی میره برای امضا؟ قالیباف؟ پزشکیان؟</text>
+      <views>44695</views>
       <forwards>71</forwards>
-      <media type="none"/>
-    </post>
-    <post id="48475">
-      <date>2026-06-11T18:45:18.000Z</date>
-      <text>🔴 مراسم تشیع سیدعلی خامنه‌ای به دهه دوم محرم موکول شد.</text>
-      <views>37616</views>
-      <forwards>281</forwards>
-      <media type="none"/>
-    </post>
-    <post id="48474">
-      <date>2026-06-11T18:45:09.000Z</date>
-      <text>پاره شدم</text>
-      <views>35590</views>
-      <forwards>0</forwards>
-      <media type="none"/>
-    </post>
-    <post id="48473">
-      <date>2026-06-11T18:41:18.000Z</date>
-      <text>🔴 کانال ۱۲ اسرائیل: طبق نظرسنجی‌ها ۶۲٪ مردم اسرائیل دیگه هیچ اعتقاد و اعتمادی به ترامپ ندارن.</text>
-      <views>36615</views>
-      <forwards>105</forwards>
       <media type="none"/>
     </post>
   </posts>
