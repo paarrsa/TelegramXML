@@ -7,21 +7,114 @@
     <members>259837</members>
     <profile>https://raw.githubusercontent.com/yourusername/yourrepo/main/profiles/bbcnews.png</profile>
     <telegram_link>https://t.me/chekhabarre</telegram_link>
-    <generated_at>2026-06-15T18:15:48.874Z</generated_at>
+    <generated_at>2026-06-15T21:28:06.047Z</generated_at>
   </meta>
   <posts>
+    <post id="48901">
+      <date>2026-06-15T21:24:49.000Z</date>
+      <text>🔴 Deal with ayatollah.
+
+خبرگزاری مهر: شنیده شدن صدای سه انفجار در جنوب قشم و تنگه هرمز</text>
+      <views>4269</views>
+      <forwards>100</forwards>
+      <media type="none"/>
+    </post>
+    <post id="48900">
+      <date>2026-06-15T20:36:34.000Z</date>
+      <text>🔴 خبرگزاری مهر: رفع محاصره دریایی عملیاتی شد. دقایقی پیش، ۳ نفتکش و ۲ کشتی حامل کالای اساسی ایران از محاصره دریایی عبور کردن.</text>
+      <views>20897</views>
+      <forwards>68</forwards>
+      <media type="none"/>
+    </post>
+    <post id="48899">
+      <date>2026-06-15T20:31:53.000Z</date>
+      <text>اگه تو توییتر اسم‌و‌رسمی دارید و اکانتتون ایمپرشن خوبی داره یا کسیو میشناسید که اینطوریه، بفرستید واسش. لاقل برسه به دست خود مادرجندش یکم حرص بخوره</text>
+      <views>22825</views>
+      <forwards>27</forwards>
+      <media type="none"/>
+    </post>
+    <post id="48898">
+      <date>2026-06-15T20:22:09.000Z</date>
+      <text>لطفا تا جایی که می‌تونید، اینو تو توییتر پخش کنید. برای مارک لوین، اینفلوئنسرها و خبرنگاران کاخ‌سفید، سناتورها، برای همه بفرستید.</text>
+      <views>26288</views>
+      <forwards>63</forwards>
+      <media type="none"/>
+    </post>
+    <post id="48897">
+      <date>2026-06-15T20:21:36.000Z</date>
+      <text>[@OutOfContext]</text>
+      <views>24253</views>
+      <forwards>287</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__48897__photo.jpg</file>
+        <width>1157</width>
+        <height>1200</height>
+        <telegram_link>https://t.me/chekhabarre/48897</telegram_link>
+      </media>
+    </post>
+    <post id="48896">
+      <date>2026-06-15T20:15:23.000Z</date>
+      <text>🔴 زاکانی، شهردار تهران: جنگ ما با آمریکا ادامه داره و با امضای توافق هم از بین نمیره.</text>
+      <views>27755</views>
+      <forwards>51</forwards>
+      <media type="none"/>
+    </post>
+    <post id="48895">
+      <date>2026-06-15T20:04:50.000Z</date>
+      <text>آجی حالا عیب نداره، بابات که نمرده چه‌مرگته.</text>
+      <views>31854</views>
+      <forwards>637</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>44.767</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/48895</telegram_link>
+      </media>
+    </post>
+    <post id="48894">
+      <date>2026-06-15T20:00:53.000Z</date>
+      <text>🔴 ما نگران تو بودیم حاجی، زنده‌ای پس.
+
+سردار قاآنی، فرمانده نیروی قدس سپاه: جبهه مقاومت به شدت آمریکا و رژیم صهیونی رو نگران کرده.</text>
+      <views>31551</views>
+      <forwards>30</forwards>
+      <media type="none"/>
+    </post>
+    <post id="48893">
+      <date>2026-06-15T19:44:38.000Z</date>
+      <text>🔴 عمو مجتبی مردی دیگه نه؟
+
+مشاور قالیباف: چیزی به اسم شروط رهبری وجود نداره.</text>
+      <views>35873</views>
+      <forwards>332</forwards>
+      <media type="none"/>
+    </post>
+    <post id="48892">
+      <date>2026-06-15T18:48:40.000Z</date>
+      <text>🔴 نتانیاهو: اقداماتی که ما علیه رژیم ایران کردیم، خیلی میتونه به روند سرنگونیشون توسط مردم کمک کنه. اونا فعلا در بحران اقتصادی به سر میبرن و ما نمیدونیم دقیقا چه موقعی این حکومت از بین میره.</text>
+      <views>41882</views>
+      <forwards>208</forwards>
+      <media type="none"/>
+    </post>
+    <post id="48891">
+      <date>2026-06-15T18:31:49.000Z</date>
+      <text>🔴 نتانیاهو: من با ترامپ موافق نیستم، بنابراین، اسرائیل هر کاری که لازم باشه در برابر ایران انجام میده.</text>
+      <views>44586</views>
+      <forwards>463</forwards>
+      <media type="none"/>
+    </post>
     <post id="48890">
       <date>2026-06-15T18:11:41.000Z</date>
       <text>🔴 نتانیاهو: چه با توافق، چه بدون توافق، تا وقتی من هستم جمهوری اسلامی به سلاح هسته‌ای دست پیدا نمیکنه.</text>
-      <views>4903</views>
-      <forwards>30</forwards>
+      <views>46260</views>
+      <forwards>149</forwards>
       <media type="none"/>
     </post>
     <post id="48889">
       <date>2026-06-15T18:09:25.000Z</date>
       <text>🔴 نتانیاهو: ما عملیات پیجر رو انجام دادیم و هزاران نفر از نیروهای حزب‌الله رو به هلاکت رسوندیم.</text>
-      <views>6738</views>
-      <forwards>21</forwards>
+      <views>45905</views>
+      <forwards>67</forwards>
       <media type="none"/>
     </post>
     <post id="48888">
@@ -29,8 +122,8 @@
       <text>🔴 عمویم بی‌بی باغیرت.
 
 ارتش اسرائیل اعلام کرد دو تا از فرمانده‌های عملیاتی حماس رو هدف قرار داده و کشته؛ یکی «صالح رمضان محمد خلیفه» که تو مرکز غزه و گردان النصیرات فعالیت می‌کرده، و یکی دیگه هم «محمد موسی دیاب الهبیل» که در غرب جبالیا فعالیت داشته.</text>
-      <views>16987</views>
-      <forwards>66</forwards>
+      <views>47836</views>
+      <forwards>113</forwards>
       <media type="none"/>
     </post>
     <post id="48887">
@@ -38,8 +131,8 @@
       <text>🔴 قالیباف، عراقچی، چرب کنید.
 
 ترامپ: یادداشت تفاهم با ایران رو منتشر میکنیم. سندی مهم و قدرتمنده و ما به زودی منتشرش می‌کنیم. احتمالاً کمی پس از جمعه</text>
-      <views>29833</views>
-      <forwards>143</forwards>
+      <views>51096</views>
+      <forwards>183</forwards>
       <media type="none"/>
     </post>
     <post id="48886">
@@ -49,8 +142,8 @@
 دونالد ترامپ: توافق با ایران به‌طور کامل امضا شده، تنگه هرمز به‌طور کامل بازه و ایران به سلاح هسته‌ای دست پیدا نمیکنه. ما نظارت و کنترل قوی خواهیم داشت.
 
 البته تنگه به‌طور کامل باز نشده. اونا دنبال چند مین هستند تا پاکسازی کنند؛ اما تا جمعه به‌طور کامل بازگشایی میشه.</text>
-      <views>33393</views>
-      <forwards>51</forwards>
+      <views>51767</views>
+      <forwards>61</forwards>
       <media type="none"/>
     </post>
     <post id="48885">
@@ -60,8 +153,8 @@
 
 مشاهده
 مشاهده</text>
-      <views>37957</views>
-      <forwards>927</forwards>
+      <views>53107</views>
+      <forwards>1196</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__48885__photo.jpg</file>
         <width>492</width>
@@ -72,8 +165,8 @@
     <post id="48884">
       <date>2026-06-15T15:00:29.000Z</date>
       <text>عمو فیلمت با امیرتتلو پخش شد، تا جایی که جامیشد داشتی میخوردی، اون درد نداشت؟</text>
-      <views>39904</views>
-      <forwards>339</forwards>
+      <views>50756</views>
+      <forwards>407</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__48884__photo.jpg</file>
         <width>651</width>
@@ -84,8 +177,8 @@
     <post id="48883">
       <date>2026-06-15T15:00:27.000Z</date>
       <text>🔴 جی‌دی ونس: رسانه‌های ایرانی، به‌ویژه رسانه‌های تندرو، درباره چیزی که به دست میارن قراره صحبت کنن و درباره چیزی که به‌جاش میدن نه. برای ما مهمه که این روایت رو اصلاح کنیم.</text>
-      <views>38436</views>
-      <forwards>40</forwards>
+      <views>48029</views>
+      <forwards>51</forwards>
       <media type="none"/>
     </post>
     <post id="48882">
@@ -108,7 +201,7 @@
 🔗 کانال رسمی اسپورت نود:👇
 
 ✉️ @Sportnavad</text>
-      <views>38682</views>
+      <views>49659</views>
       <forwards>0</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__48882__photo.jpg</file>
@@ -116,121 +209,6 @@
         <height>1200</height>
         <telegram_link>https://t.me/chekhabarre/48882</telegram_link>
       </media>
-    </post>
-    <post id="48881">
-      <date>2026-06-15T14:52:40.000Z</date>
-      <text>🔴 قبل اینکه برسم خودت قمبل کن.
-
-نیویورک‌پست: جمهوری اسلامی باید قدم‌های عملی و مشخصی برای کنار گذاشتن برنامه هسته‌ایش برداره؛ در عوض، آمریکا هم به‌صورت مرحله‌ای تحریم‌ها رو کاهش می‌ده.</text>
-      <views>36141</views>
-      <forwards>21</forwards>
-      <media type="none"/>
-    </post>
-    <post id="48880">
-      <date>2026-06-15T14:46:45.000Z</date>
-      <text>🔴 پزشکیان: اگر تفاهم نامه امضا بشه، سندی افتخارآمیز برای کشور خواهد بود.</text>
-      <views>36892</views>
-      <forwards>32</forwards>
-      <media type="none"/>
-    </post>
-    <post id="48879">
-      <date>2026-06-15T14:37:28.000Z</date>
-      <text>🔴 رویترز: حمله پهپادی اسرائیل به لبنان. این نخستین حمله اسرائیل در لبنان از زمان اعلام توافق میان آمریکا و ایرانه.</text>
-      <views>38427</views>
-      <forwards>56</forwards>
-      <media type="none"/>
-    </post>
-    <post id="48878">
-      <date>2026-06-15T14:11:54.000Z</date>
-      <text>موضوعی که الان خنده‌داره اینه که اروپا داره نیابتی‌ها و تسلیحات موشکی رو به ترامپ گوشزد میکنه و ترامپ فقط گیر داده به هسته‌ای. مادرخراب چرا همیشه برعکسی؟</text>
-      <views>40347</views>
-      <forwards>81</forwards>
-      <media type="none"/>
-    </post>
-    <post id="48877">
-      <date>2026-06-15T13:40:31.000Z</date>
-      <text>مجری: ایرانی‌ها می‌گویند قرار است به یک صندوق ۳۰۰ میلیارد دلاری برای بازسازی دسترسی داشته باشند. درست است یا نادرست؟
-
-جی‌دی ونس: چنین چیزی می‌تواند در دسترس آن‌ها قرار بگیرد، مشروط بر اینکه به تعهدات خود در این توافق پایبند باشند.</text>
-      <views>42789</views>
-      <forwards>161</forwards>
-      <media type="video" available="false">
-        <mime_type>video/mp4</mime_type>
-        <duration_seconds>67.499</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/48877</telegram_link>
-      </media>
-    </post>
-    <post id="48876">
-      <date>2026-06-15T13:36:09.000Z</date>
-      <text>🔴 ببخشید خامنه‌ای الان کجاست؟
-
-اژه‌ای: توی جنگ سوم هم پیروز شدیم.</text>
-      <views>41020</views>
-      <forwards>66</forwards>
-      <media type="none"/>
-    </post>
-    <post id="48875">
-      <date>2026-06-15T13:34:39.000Z</date>
-      <text>🔴 مادرقحبه: متأسفانه، اگر افرادی را از کشورهای جهان سوم وارد کنید، به سرعت به یک کشور جهان سومی تبدیل می‌شوید و هیچ کاری از دستتان بر نمی‌آید. آمریکا را دوباره بزرگ کنید!</text>
-      <views>41021</views>
-      <forwards>88</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__48875__photo.jpg</file>
-        <width>1170</width>
-        <height>548</height>
-        <telegram_link>https://t.me/chekhabarre/48875</telegram_link>
-      </media>
-    </post>
-    <post id="48874">
-      <date>2026-06-15T13:28:26.000Z</date>
-      <text>🔴 ونس: ما اکنون مستقیماً با سیستم ایران صحبت می‌کنیم. ما روابط خوبی با آنجا داریم.
-
-ما دیگر پیام‌ها را از طریق کانال‌های مخفی رد و بدل نمی‌کنیم؛ ما در واقع با آنها صحبت می‌کنیم.
-
-وقتی با آنها صحبت می‌کنید، متوجه می‌شوید چه چیزی واقعی است، چه چیزی ساختگی است، در مورد چه چیزی جدی هستند و در مورد چه چیزی جدی نیستند.</text>
-      <views>41807</views>
-      <forwards>91</forwards>
-      <media type="video" available="false">
-        <mime_type>video/mp4</mime_type>
-        <duration_seconds>54.742</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/48874</telegram_link>
-      </media>
-    </post>
-    <post id="48873">
-      <date>2026-06-15T13:26:18.000Z</date>
-      <text>🔴 جی‌دی ونس: ما دستمون رو برای تغییر رابطه با ایران دراز کردیم، اگر اونا مایل به تغییر روابط دارن، ما هم باهاش موضعمون رو عوض میکنیم.</text>
-      <views>40553</views>
-      <forwards>76</forwards>
-      <media type="video" available="false">
-        <mime_type>video/mp4</mime_type>
-        <duration_seconds>13.142</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/48873</telegram_link>
-      </media>
-    </post>
-    <post id="48872">
-      <date>2026-06-15T13:19:40.000Z</date>
-      <text>🔴 ترامپ: کشتی‌ها، بسیاری از آنها که پر از نفت هستند، شروع به حرکت از تنگه هرمز کرده‌اند. آنها در امتداد «بزرگراه» جنوبی حرکت می‌کنند که کاملاً امن، مطمئن و بکر است. مناطق دیگری هم برای سفر وجود دارد!!!</text>
-      <views>41675</views>
-      <forwards>30</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__48872__photo.jpg</file>
-        <width>1176</width>
-        <height>378</height>
-        <telegram_link>https://t.me/chekhabarre/48872</telegram_link>
-      </media>
-    </post>
-    <post id="48871">
-      <date>2026-06-15T12:39:29.000Z</date>
-      <text>🔴 سخنگوی وزارت خارجه: 
-ما برای یه مدت مشخص، متناسب با اقداماتی که طرف مقابل انجام می‌ده، تردد امن در تنگه هرمز رو مدیریت می‌کنیم.
-این مسئولیت به‌عنوان دولت ساحلی با جمهوری اسلامی ایرانه.
-ما دنبال گرفتن عوارض نیستیم، اما برای خدماتی مثل ناوبری، بیمه، حفاظت از محیط زیست و موارد مشابه، هزینه‌هایی طراحی می‌کنیم و دریافت خواهد شد.</text>
-      <views>44427</views>
-      <forwards>40</forwards>
-      <media type="none"/>
     </post>
   </posts>
 </channel>
