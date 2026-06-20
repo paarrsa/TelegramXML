@@ -7,14 +7,78 @@
     <members>259837</members>
     <profile>https://raw.githubusercontent.com/yourusername/yourrepo/main/profiles/bbcnews.png</profile>
     <telegram_link>https://t.me/chekhabarre</telegram_link>
-    <generated_at>2026-06-20T06:24:24.480Z</generated_at>
+    <generated_at>2026-06-20T09:49:55.641Z</generated_at>
   </meta>
   <posts>
+    <post id="49155">
+      <date>2026-06-20T07:56:57.000Z</date>
+      <text>🔴 سازمان سنجش: کنکور سراسری ۲۹ و ۳۰ مردادماه برگزار میشه و زمانش تغییری نمیکنه.</text>
+      <views>20780</views>
+      <forwards>147</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49154">
+      <date>2026-06-20T07:54:50.000Z</date>
+      <text>🔴 جنگنده‌های اسرائیلی توی یه حمله جدید، ارتفاعات الریحان و جبل الرفیع تو منطقه اقلیم التفاح در جنوب لبنان رو هدف قرار دادن.</text>
+      <views>21114</views>
+      <forwards>14</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49153">
+      <date>2026-06-20T07:54:48.000Z</date>
+      <text>🔴 ویدیوی سوم از جنایت دی‌ماه منتشر شد و با دیدنش تا حدی به عمق فاجعه و بی‌شرفی و وحشی‌گری جمهوری اسلامی پی میبرید.</text>
+      <views>21464</views>
+      <forwards>652</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>121.387</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/49153</telegram_link>
+      </media>
+    </post>
+    <post id="49152">
+      <date>2026-06-20T07:54:46.000Z</date>
+      <text>Sportnavad➕ | اسپورت نود➕
+
+⚽️ اوج هیجان مسابقات جام‌جهانی ۲۰۲۶ فقط با اسپورت نود
+
+⚽️ گروه F جام‌جهانی ۲۰۲۶
+
+[ هلند 🇳🇱 🆚 🇸🇪 سوئد ]
+
+⏰ شنبه ساعت ۲۰:۳۰
+🏟 استادیوم ان‌آرجی
+
+🎁   بونوس ویژه ثبت‌نام برای کاربران سایت، با شارژ حساب از طریق کریپتو ۴٪ بیشتر از مبلغ شارژ حساب دریافت کنید.
+🔗 برای ورود سریعتر به اسپورت نود از طریق ربات رسمی سایت اقدام نمایید:👇
+
+🤖 @Sportnavad_bot
+🤖 @Sportnavad_bot
+
+🔗 کانال رسمی اسپورت نود:👇
+
+✉️ @Sportnavad</text>
+      <views>20233</views>
+      <forwards>0</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__49152__photo.jpg</file>
+        <width>1200</width>
+        <height>1200</height>
+        <telegram_link>https://t.me/chekhabarre/49152</telegram_link>
+      </media>
+    </post>
+    <post id="49151">
+      <date>2026-06-20T07:37:11.000Z</date>
+      <text>🔴 العربیه: ‏وزیر کشور پاکستان برای پیگیری مذاکرات آمریکا و ایران راهی تهران میشه.</text>
+      <views>21832</views>
+      <forwards>24</forwards>
+      <media type="none"/>
+    </post>
     <post id="49150">
       <date>2026-06-20T05:57:50.000Z</date>
       <text></text>
-      <views>8617</views>
-      <forwards>55</forwards>
+      <views>31583</views>
+      <forwards>106</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__49150__photo.jpg</file>
         <width>1200</width>
@@ -25,8 +89,8 @@
     <post id="49149">
       <date>2026-06-20T05:57:49.000Z</date>
       <text></text>
-      <views>8622</views>
-      <forwards>55</forwards>
+      <views>31959</views>
+      <forwards>106</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__49149__photo.jpg</file>
         <width>720</width>
@@ -39,8 +103,8 @@
       <text>🔴 سدمجید پاشو.
 
 حملات هوایی اسرائیل شهر نبطیه و شهرک نبطیه الفوقا در جنوب لبنان رو هدف قرار دادن.</text>
-      <views>8609</views>
-      <forwards>56</forwards>
+      <views>31960</views>
+      <forwards>107</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__49148__photo.jpg</file>
         <width>960</width>
@@ -51,8 +115,8 @@
     <post id="49147">
       <date>2026-06-20T05:18:18.000Z</date>
       <text>🔴 از شب گذشته تا امروز صبح، ارتش اسرائیل حملات پهپادی و موشکی گسترده‌ای در جنوب لبنان انجام دادن.</text>
-      <views>15178</views>
-      <forwards>17</forwards>
+      <views>34374</views>
+      <forwards>27</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>4.296</duration_seconds>
@@ -63,22 +127,22 @@
     <post id="49146">
       <date>2026-06-19T22:28:15.000Z</date>
       <text>حالا داداش جنگنده راننده نداره، ولی حرفت متین.</text>
-      <views>36798</views>
-      <forwards>53</forwards>
+      <views>46123</views>
+      <forwards>63</forwards>
       <media type="none"/>
     </post>
     <post id="49145">
       <date>2026-06-19T22:27:31.000Z</date>
       <text>سلام داداش من خودم موقعی که به بیت حمله کردن بودم راننده جنگنده بودم خودم رهبرو ترور کردم ولی الان پشیمون شدم بسیج ثبت‌نام کردم</text>
-      <views>38641</views>
-      <forwards>156</forwards>
+      <views>48405</views>
+      <forwards>179</forwards>
       <media type="none"/>
     </post>
     <post id="49144">
       <date>2026-06-19T22:22:27.000Z</date>
       <text>ببینید از پرستوهای جمهوری اسلامی که خودش رو جزو معترضین دی‌ماه میدونه ولی پشیمون شده و پریده روی خایه‌های آخوند.</text>
-      <views>37732</views>
-      <forwards>323</forwards>
+      <views>46819</views>
+      <forwards>377</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>90.303</duration_seconds>
@@ -109,7 +173,7 @@
 🔗 کانال رسمی اسپورت نود:👇
 
 ✉️ @Sportnavad</text>
-      <views>36488</views>
+      <views>45361</views>
       <forwards>1</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__49143__photo.jpg</file>
@@ -121,15 +185,15 @@
     <post id="49142">
       <date>2026-06-19T21:13:43.000Z</date>
       <text>تهدید رئیس‌جمهور مثلا منتخب مردم توسط یک مداح حکومتی:</text>
-      <views>41662</views>
+      <views>47666</views>
       <forwards>12</forwards>
       <media type="none"/>
     </post>
     <post id="49141">
       <date>2026-06-19T20:26:37.000Z</date>
       <text>🔴 ترامپ: بیبی نتانیاهو یه نخست‌وزیر جنگجوئه، باید همین‌جوری هم شناخته بشه. باید بهش اعتبار بدن و حقشو بدن.</text>
-      <views>45628</views>
-      <forwards>62</forwards>
+      <views>50405</views>
+      <forwards>75</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>22.102</duration_seconds>
@@ -140,8 +204,8 @@
     <post id="49140">
       <date>2026-06-19T20:04:38.000Z</date>
       <text>🔴 خایمال: می‌خوام از چین تشکر کنم. من از شی خواستم که وارد ماجرای ایران نشه؛ اونم گفت نمی‌شه و واقعاً هم نشد. حرکت خیلی خوبی بود.</text>
-      <views>47690</views>
-      <forwards>50</forwards>
+      <views>52150</views>
+      <forwards>61</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>22.998</duration_seconds>
@@ -152,8 +216,8 @@
     <post id="49139">
       <date>2026-06-19T20:04:12.000Z</date>
       <text>🔴 ترامپ: ایران ۶۰ روز وقت داره که به یه توافق برسه. اگه نرسه، ما یه کارایی می‌کنیم که اصلاً خوششون نمیاد. البته فکر نمی‌کنم کار به اونجا بکشه. ولی اگه بکشه، اون‌وقت دیگه نفت از اون تنگه (هرمز) راحت جریان پیدا نمی‌کنه.</text>
-      <views>46132</views>
-      <forwards>121</forwards>
+      <views>50639</views>
+      <forwards>132</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>41.963</duration_seconds>
@@ -164,7 +228,7 @@
     <post id="49138">
       <date>2026-06-19T19:50:48.000Z</date>
       <text>🔴 ترامپ: ما موفق شدیم طی یک هفته، نیروی دریایی و هوایی ایران رو از بین ببریم.</text>
-      <views>45833</views>
+      <views>49704</views>
       <forwards>40</forwards>
       <media type="none"/>
     </post>
@@ -176,8 +240,8 @@
 این چه تغییر رژیمیه که‌ انجام دادید؟ شما خامنه‌ای جونیور رو همچنان در ایران دارید و مقامات بسیاری از سپاهیا زنده‌ن.
 
 پرزیدنت ترامپ: خامنه‌ای جونیور با پدر متفاوت است. آن‌ها افراد متفاوتی هستند.</text>
-      <views>48581</views>
-      <forwards>363</forwards>
+      <views>51967</views>
+      <forwards>374</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>27.755</duration_seconds>
@@ -188,55 +252,8 @@
     <post id="49136">
       <date>2026-06-19T19:18:27.000Z</date>
       <text>خامنه‌ای جونیور هم لفظ جالب بود.</text>
-      <views>46896</views>
-      <forwards>61</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49135">
-      <date>2026-06-19T19:17:46.000Z</date>
-      <text>حضرت‌امام دنالد:
-
-هیچکس نمی‌خواست به ایران زمینی حمله کنیم، نه؟!
-حتی اگر همین الان هم بهشون حمله میکردیم، رهبران و فرمانده هاشون فرار میکردن به غار هاشون که زیر کوه های گرانیتی ساختند.
-این کوه ها خیلی محکم اند و نابود کردن شون سخته.
-الان از غار اومدن بیرون ولی اگه بازم حمله کنیم سریع فرار میکنن اون زیر؛
-• تنها راه گرفتنشون فرستادن سرباز هامون به اونجا بود.
-اگه صلح نمی‌کردیم الان تنگه بسته بود و نفت نداشتیم.</text>
-      <views>47982</views>
-      <forwards>117</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49134">
-      <date>2026-06-19T19:16:54.000Z</date>
-      <text></text>
-      <views>46295</views>
-      <forwards>28</forwards>
-      <media type="video" available="false">
-        <mime_type>video/mp4</mime_type>
-        <duration_seconds>48.15</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/49134</telegram_link>
-      </media>
-    </post>
-    <post id="49133">
-      <date>2026-06-19T18:39:34.000Z</date>
-      <text>🔴 اسرائیل هیوم: اسرائیل و لبنان هفته آینده برای دور دیگری از مذاکرات به واشنگتن برمیگردن.</text>
-      <views>48123</views>
-      <forwards>11</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49132">
-      <date>2026-06-19T17:56:36.000Z</date>
-      <text>🔴 مارکو روبیو، وزیر خارجه آمریکا: تأکید میکنم که آمریکا کاملا پشت لبنان ایستاده تا بتونه حاکمیتش رو کامل به دست بگیره و با همه همسایه‌هاش به صلح برسه.</text>
-      <views>50303</views>
-      <forwards>90</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49131">
-      <date>2026-06-19T16:41:29.000Z</date>
-      <text>🔴 سناتور تد کروز: ۳۰۰ میلیارد دلار رو به دیوونه‌هایی ندید که شعارشون مرگ ماست و قصد کشتنمون رو دارن.</text>
-      <views>52278</views>
-      <forwards>107</forwards>
+      <views>50071</views>
+      <forwards>62</forwards>
       <media type="none"/>
     </post>
   </posts>
