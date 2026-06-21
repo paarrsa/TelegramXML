@@ -7,35 +7,184 @@
     <members>259837</members>
     <profile>https://raw.githubusercontent.com/yourusername/yourrepo/main/profiles/bbcnews.png</profile>
     <telegram_link>https://t.me/chekhabarre</telegram_link>
-    <generated_at>2026-06-21T15:27:47.298Z</generated_at>
+    <generated_at>2026-06-21T17:07:50.250Z</generated_at>
   </meta>
   <posts>
+    <post id="49241">
+      <date>2026-06-21T17:03:43.000Z</date>
+      <text>🔴 عضو تیم مذاکره‌کننده: پیش‌نویس معافیت موقت تحریم نفتی آماده شده، اما تمرکز اصلی مذاکرات روی لبنان بوده و تا حل نشدن جنگ لبنان، بقیه توافق‌ها اجرا نمی‌شن.</text>
+      <views>3061</views>
+      <forwards>0</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49240">
+      <date>2026-06-21T16:50:57.000Z</date>
+      <text>🔴 یکی از اعضای تیم مذاکره: تا قضیه لبنان درست نشه ماهم مذاکره رو ادامه نمیدیم.</text>
+      <views>9179</views>
+      <forwards>35</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49239">
+      <date>2026-06-21T16:30:56.000Z</date>
+      <text>🔴 قهلم.
+
+یک منبع نزدیک به تیم مذاکره‌کننده به تسنیم: هیئت مذاکره‌کننده ایرانی در اعتراض به تهدیدات ترامپ محل مذاکره رو ترک کرد.</text>
+      <views>15265</views>
+      <forwards>138</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49238">
+      <date>2026-06-21T16:19:27.000Z</date>
+      <text>🔴 تسنیم، رسانه وابسته به سپاه پاسداران:
+
+«اگر اسرائیل از لبنان عقب‌نشینی نکند، تمامی مذاکرات متوقف خواهد شد.
+
+ایران در صورت ادامه اشغالگری و جنایات اسرائیل، وارد مرحله انتقام سخت خواهد شد.
+تسنیم اطلاعاتی دریافت کرده است که نشان می‌دهد اگر ماده ۱ توافقنامه اسلام‌آباد بین رؤسای جمهور آمریکا و ایران - که بر پایان جنگ در تمامی جبهه‌ها از جمله لبنان تأکید دارد و حاکمیت و تمامیت ارضی لبنان را تضمین می‌کند - محقق نشود، تمامی مذاکرات بین ایران و آمریکا در موضوعات دیگر به حالت تعلیق درخواهد آمد.</text>
+      <views>18314</views>
+      <forwards>34</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49237">
+      <date>2026-06-21T16:15:37.000Z</date>
+      <text>اینطوری که این گفت من الان پاوربانکمو زدم به شارژ.</text>
+      <views>19345</views>
+      <forwards>69</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49236">
+      <date>2026-06-21T16:14:03.000Z</date>
+      <text>🔴 توییت جدید قالیباف.</text>
+      <views>19360</views>
+      <forwards>210</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__49236__photo.jpg</file>
+        <width>1080</width>
+        <height>888</height>
+        <telegram_link>https://t.me/chekhabarre/49236</telegram_link>
+      </media>
+    </post>
+    <post id="49235">
+      <date>2026-06-21T16:12:50.000Z</date>
+      <text>🔴 مدیرعامل شرکت ملی نفت ایران اعلام کرد که از روز دوشنبه گذشته تاکنون، ۲۵ میلیون بشکه از نفت ایران از خط محاصره دریایی عبور کرده.</text>
+      <views>19320</views>
+      <forwards>0</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49234">
+      <date>2026-06-21T16:09:59.000Z</date>
+      <text>🔴 لیندزی گراهام: وقتی شما از حزب‌الله برای حمله به اسرائیل استفاده می‌کنید، سیاست جدید این خواهد بود که ما به ایران حمله خواهیم کرد.</text>
+      <views>19333</views>
+      <forwards>70</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>21.44</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/49234</telegram_link>
+      </media>
+    </post>
+    <post id="49233">
+      <date>2026-06-21T16:09:57.000Z</date>
+      <text>🔴 ضرغامی توی مصاحبه جدیدش علنا به خامنه‌ای گفته بی‌عقل و اعلام رفراندوم کرده؛ ضرغامی گفت مردم باید تصمیم بگیرن که چه سرنوشتی داشته باشن. واقعاً سرعت پوست‌اندازی جمهوری اسلامی بیشتر از انتظارمون شدت گرفته.</text>
+      <views>19315</views>
+      <forwards>415</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>148.748</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/49233</telegram_link>
+      </media>
+    </post>
+    <post id="49232">
+      <date>2026-06-21T16:09:55.000Z</date>
+      <text>Sportnavad➕ | اسپورت نود➕
+
+⚽️ اوج هیجان مسابقات جام‌جهانی ۲۰۲۶ فقط با اسپورت نود
+
+⚽️ گروه G جام‌جهانی ۲۰۲۶
+
+[ ایران 🇮🇷 🆚 🇧🇪 بلژیک ]
+
+⏰ یکشنبه ساعت ۲۲:۳۰
+🏟 استادیوم سوفای
+
+🎁   بونوس ویژه ثبت‌نام برای کاربران سایت، با شارژ حساب از طریق کریپتو ۴٪ بیشتر از مبلغ شارژ حساب دریافت کنید.
+
+🔗 برای ورود سریعتر به اسپورت نود از طریق ربات رسمی سایت اقدام نمایید:👇
+
+🤖 @Sportnavad_bot
+🤖 @Sportnavad_bot
+
+🔗 کانال رسمی اسپورت نود:👇
+
+✉️ @Sportnavad</text>
+      <views>17304</views>
+      <forwards>0</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__49232__photo.jpg</file>
+        <width>1200</width>
+        <height>1200</height>
+        <telegram_link>https://t.me/chekhabarre/49232</telegram_link>
+      </media>
+    </post>
+    <post id="49231">
+      <date>2026-06-21T15:56:28.000Z</date>
+      <text>🔴 نرینید فقط.
+
+انتخاب: هیئت ایرانی اعتراض خود را به طرف آمریکایی اعلام کرده و اکنون در حال بررسی گزینه‌های پاسخ مناسب به تهدیدات لفظی اخیر دونالد ترامپ است.</text>
+      <views>19334</views>
+      <forwards>34</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49230">
+      <date>2026-06-21T15:51:40.000Z</date>
+      <text>🔴 صداوسیما: هنوز مشخص نیست که قراره مذاکرات چهارجانبه ادامه پیدا کنه یا نه.</text>
+      <views>20350</views>
+      <forwards>0</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49229">
+      <date>2026-06-21T15:39:04.000Z</date>
+      <text>🔴 این پیروزی رو مجدداً تبریک عرض میکنم.
+
+صداسیما: تو هشتاد دقیقه اول مذاکرات راجب مسائل هسته‌ای حرف نزدیم.</text>
+      <views>24417</views>
+      <forwards>70</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49228">
+      <date>2026-06-21T15:38:36.000Z</date>
+      <text>🇮🇷🇮🇷🇮🇷</text>
+      <views>24421</views>
+      <forwards>0</forwards>
+      <media type="none"/>
+    </post>
     <post id="49227">
       <date>2026-06-21T15:19:35.000Z</date>
       <text>🔴 نتانیاهو: تا هرزمان که لازم باشه برای حفظ شمال اسرائیل توی منطقه میمونم و همچنین اجازه نمیدم جمهوری اسلامی به سلاح هسته‌ای دست پیدا کنه.</text>
-      <views>4106</views>
+      <views>26475</views>
       <forwards>0</forwards>
       <media type="none"/>
     </post>
     <post id="49226">
       <date>2026-06-21T15:12:52.000Z</date>
       <text>🔴 لیندزی گراهام: من روز جمعه ۴ ساعت و نیم پیش ترامپ بودم و چیزی که فهمیدم این بود که اگر توافق صورت نگیره، اون بلافاصله حمله سنگینی به ایران انجام میده.</text>
-      <views>8366</views>
-      <forwards>51</forwards>
+      <views>28704</views>
+      <forwards>120</forwards>
       <media type="none"/>
     </post>
     <post id="49224">
       <date>2026-06-21T15:04:21.000Z</date>
       <text>فعلا مذاکرات برای مشورت متوقف شده و یکم دیگه ادامه پیدا میکنه.</text>
-      <views>11677</views>
+      <views>28969</views>
       <forwards>10</forwards>
       <media type="none"/>
     </post>
     <post id="49223">
       <date>2026-06-21T14:56:58.000Z</date>
       <text>یادی کنیم از رهبر شهیدمون 😔</text>
-      <views>13977</views>
-      <forwards>134</forwards>
+      <views>30211</views>
+      <forwards>238</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>34.48</duration_seconds>
@@ -46,7 +195,7 @@
     <post id="49222">
       <date>2026-06-21T14:50:34.000Z</date>
       <text>🔴 نشست چهارجانبه جمهوری اسلامی و آمریکا تمام شد.</text>
-      <views>16112</views>
+      <views>30326</views>
       <forwards>31</forwards>
       <media type="none"/>
     </post>
@@ -54,137 +203,9 @@
       <date>2026-06-21T14:43:16.000Z</date>
       <text>🔴 حزب‌الله: ما این مذاکرات دولت لبنان با آمریکا رو تحمیل خواسته‌ها می‌دونیم که کشور رو به سمت سازش با اسرائیل می‌بره.
 به نظر ما این روند نوعی تسلیم شدنه و در راستای منافع آمریکا و اسرائیله، نه لبنان.</text>
-      <views>18069</views>
+      <views>31269</views>
       <forwards>4</forwards>
       <media type="none"/>
-    </post>
-    <post id="49220">
-      <date>2026-06-21T14:08:03.000Z</date>
-      <text>🔴 ترامپ: کیر استارمر قراره از سمت خودش استعفا بده. اون در دو موضوع خیلی بد شکست خورد؛ مهاجرت‌و‌انرژی. براش آرزوی موفقیت دارم.</text>
-      <views>23826</views>
-      <forwards>50</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49219">
-      <date>2026-06-21T14:07:06.000Z</date>
-      <text></text>
-      <views>23973</views>
-      <forwards>34</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__49219__photo.jpg</file>
-        <width>644</width>
-        <height>213</height>
-        <telegram_link>https://t.me/chekhabarre/49219</telegram_link>
-      </media>
-    </post>
-    <post id="49218">
-      <date>2026-06-21T13:58:46.000Z</date>
-      <text>🔴 عشق میکنیدا، کل دنیا فکر میکنن تروریستیم.
-
-جو‌ روگن تو پادکستش: توی کارت کاخ‌سفید یو‌اف‌سی، من به ترامپ گفتم امیدوارم تو یک حمله تروریستی نمیریم. اونم برگشت بهم گفت بهرحال هرکسی یجوری باید بمیره 😂</text>
-      <views>25673</views>
-      <forwards>57</forwards>
-      <media type="video" available="false">
-        <mime_type>video/mp4</mime_type>
-        <duration_seconds>40.635</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/49218</telegram_link>
-      </media>
-    </post>
-    <post id="49217">
-      <date>2026-06-21T13:37:38.000Z</date>
-      <text>تسلیم بی‌قیدوشرط؟</text>
-      <views>29359</views>
-      <forwards>45</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49216">
-      <date>2026-06-21T13:36:21.000Z</date>
-      <text>🔴 ترامپ: ایران باید فوراً جلوی دردسرسازی نیروهای نیابتی پردرآمد خود در لبنان را بگیرد. اگر این کار را نکنند، ما دوباره به ایران ضربه سختی خواهیم زد، درست مثل هفته گذشته، فقط شدیدتر</text>
-      <views>29749</views>
-      <forwards>171</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49215">
-      <date>2026-06-21T13:35:24.000Z</date>
-      <text></text>
-      <views>29393</views>
-      <forwards>71</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__49215__photo.jpg</file>
-        <width>638</width>
-        <height>210</height>
-        <telegram_link>https://t.me/chekhabarre/49215</telegram_link>
-      </media>
-    </post>
-    <post id="49214">
-      <date>2026-06-21T13:35:16.000Z</date>
-      <text>باز این کسپدر جنس بد کشید</text>
-      <views>28761</views>
-      <forwards>28</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49213">
-      <date>2026-06-21T13:31:44.000Z</date>
-      <text>🔴 قمارباز: از اسرائیل ناامیدم. اونا نمیتونن حزب‌الله رو از بین ببرن. حتماً باید چندین‌تا ساختمون رو نابود کنن. احتمالاً مسئولیت این‌کارو به الشرع و سوریه بدم.</text>
-      <views>29798</views>
-      <forwards>110</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49212">
-      <date>2026-06-21T13:27:16.000Z</date>
-      <text>🔴 ریدم.
-
-تری‌اینگست: رئیس‌جمهور ترامپ در جریان تماسش با ما، مستقیماً به این اظهارات پزشکیان، رئیس‌جمهور ایران پاسخ داد. ترامپ گفت که اون (پزشکیان) بهتره مراقب حرف زدنش باشه، بهتره خودشو جمع‌وجور کنه وگرنه ما بقیه کشورشو تصرف میکنیم.</text>
-      <views>29698</views>
-      <forwards>235</forwards>
-      <media type="video" available="false">
-        <mime_type>video/mp4</mime_type>
-        <duration_seconds>43.862</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/49212</telegram_link>
-      </media>
-    </post>
-    <post id="49210">
-      <date>2026-06-21T13:24:07.000Z</date>
-      <text>شاشیدم</text>
-      <views>28130</views>
-      <forwards>2</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49209">
-      <date>2026-06-21T13:22:40.000Z</date>
-      <text>🔴 دالگ‌خیز:
-اگه به‌توافق نرسیم، ایالات متحده میتونه به «فرشته نگهبان» تنگه هرمز تبدیل شه و ۲۰ درصد از نفت آن رو سهم خودش کنه. «اگر لازم باشد، کنترل تنگه رو در دست میگیریم. اونارو به‌شدت در هم می‌کوبیم. اگر به توافق نرسن، از کشتی‌ها عوارض عبور خواهیم گرفت.</text>
-      <views>28633</views>
-      <forwards>57</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49208">
-      <date>2026-06-21T13:20:51.000Z</date>
-      <text>🔴 ترامپ: شب گذشته با مقام‌های ایرانی صحبت کردم و به آن‌ها هشدار داده است که تنگه را نبندند. اگر آن را ببندید، دیگر کشوری نخواهید داشت. حتی فرصت نخواهید کرد به کشور لعنتی‌تان برگردید.</text>
-      <views>29051</views>
-      <forwards>142</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49206">
-      <date>2026-06-21T13:16:57.000Z</date>
-      <text>🔴 ونس: ترامپ به دولتش مأموریت داده که یه «ورق جدید» تو رابطه آمریکا و ایران باز کنن. ممکنه این مذاکرات همه اختلافا رو حل نکنه، ولی حداقلش اینه که تیم‌های آمریکا و ایران برای اولین بار تو تاریخ مثل دو تا تیم بشینن پای میز با هم حرف بزنن.</text>
-      <views>29355</views>
-      <forwards>12</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49205">
-      <date>2026-06-21T13:10:58.000Z</date>
-      <text>🔴 ونس: باز شدن تنگه هرمز و متوقف کردن برنامه هسته‌ای ایران، کارهایی است که همین حالا به سرانجام رسیده. حالا سؤال اصلی این است که چقدر می‌توانیم جلوتر برویم و دستاوردهای بیشتری داشته باشیم. آیا می‌توانیم روابط منطقه را برای همیشه متحول کنیم، یا دوباره برمی‌گردیم به همان روش‌های قدیمی؟ روش‌هایی که دوست نداریم.</text>
-      <views>30547</views>
-      <forwards>64</forwards>
-      <media type="video" available="false">
-        <mime_type>video/mp4</mime_type>
-        <duration_seconds>26.347</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/49205</telegram_link>
-      </media>
     </post>
   </posts>
 </channel>
