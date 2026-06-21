@@ -7,193 +7,183 @@
     <members>259837</members>
     <profile>https://raw.githubusercontent.com/yourusername/yourrepo/main/profiles/bbcnews.png</profile>
     <telegram_link>https://t.me/chekhabarre</telegram_link>
-    <generated_at>2026-06-21T13:25:21.380Z</generated_at>
+    <generated_at>2026-06-21T15:27:47.298Z</generated_at>
   </meta>
   <posts>
-    <post id="49211">
-      <date>2026-06-21T13:24:54.000Z</date>
+    <post id="49227">
+      <date>2026-06-21T15:19:35.000Z</date>
+      <text>🔴 نتانیاهو: تا هرزمان که لازم باشه برای حفظ شمال اسرائیل توی منطقه میمونم و همچنین اجازه نمیدم جمهوری اسلامی به سلاح هسته‌ای دست پیدا کنه.</text>
+      <views>4106</views>
+      <forwards>0</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49226">
+      <date>2026-06-21T15:12:52.000Z</date>
+      <text>🔴 لیندزی گراهام: من روز جمعه ۴ ساعت و نیم پیش ترامپ بودم و چیزی که فهمیدم این بود که اگر توافق صورت نگیره، اون بلافاصله حمله سنگینی به ایران انجام میده.</text>
+      <views>8366</views>
+      <forwards>51</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49224">
+      <date>2026-06-21T15:04:21.000Z</date>
+      <text>فعلا مذاکرات برای مشورت متوقف شده و یکم دیگه ادامه پیدا میکنه.</text>
+      <views>11677</views>
+      <forwards>10</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49223">
+      <date>2026-06-21T14:56:58.000Z</date>
+      <text>یادی کنیم از رهبر شهیدمون 😔</text>
+      <views>13977</views>
+      <forwards>134</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>34.48</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/49223</telegram_link>
+      </media>
+    </post>
+    <post id="49222">
+      <date>2026-06-21T14:50:34.000Z</date>
+      <text>🔴 نشست چهارجانبه جمهوری اسلامی و آمریکا تمام شد.</text>
+      <views>16112</views>
+      <forwards>31</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49221">
+      <date>2026-06-21T14:43:16.000Z</date>
+      <text>🔴 حزب‌الله: ما این مذاکرات دولت لبنان با آمریکا رو تحمیل خواسته‌ها می‌دونیم که کشور رو به سمت سازش با اسرائیل می‌بره.
+به نظر ما این روند نوعی تسلیم شدنه و در راستای منافع آمریکا و اسرائیله، نه لبنان.</text>
+      <views>18069</views>
+      <forwards>4</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49220">
+      <date>2026-06-21T14:08:03.000Z</date>
+      <text>🔴 ترامپ: کیر استارمر قراره از سمت خودش استعفا بده. اون در دو موضوع خیلی بد شکست خورد؛ مهاجرت‌و‌انرژی. براش آرزوی موفقیت دارم.</text>
+      <views>23826</views>
+      <forwards>50</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49219">
+      <date>2026-06-21T14:07:06.000Z</date>
+      <text></text>
+      <views>23973</views>
+      <forwards>34</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__49219__photo.jpg</file>
+        <width>644</width>
+        <height>213</height>
+        <telegram_link>https://t.me/chekhabarre/49219</telegram_link>
+      </media>
+    </post>
+    <post id="49218">
+      <date>2026-06-21T13:58:46.000Z</date>
+      <text>🔴 عشق میکنیدا، کل دنیا فکر میکنن تروریستیم.
+
+جو‌ روگن تو پادکستش: توی کارت کاخ‌سفید یو‌اف‌سی، من به ترامپ گفتم امیدوارم تو یک حمله تروریستی نمیریم. اونم برگشت بهم گفت بهرحال هرکسی یجوری باید بمیره 😂</text>
+      <views>25673</views>
+      <forwards>57</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>40.635</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/49218</telegram_link>
+      </media>
+    </post>
+    <post id="49217">
+      <date>2026-06-21T13:37:38.000Z</date>
+      <text>تسلیم بی‌قیدوشرط؟</text>
+      <views>29359</views>
+      <forwards>45</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49216">
+      <date>2026-06-21T13:36:21.000Z</date>
+      <text>🔴 ترامپ: ایران باید فوراً جلوی دردسرسازی نیروهای نیابتی پردرآمد خود در لبنان را بگیرد. اگر این کار را نکنند، ما دوباره به ایران ضربه سختی خواهیم زد، درست مثل هفته گذشته، فقط شدیدتر</text>
+      <views>29749</views>
+      <forwards>171</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49215">
+      <date>2026-06-21T13:35:24.000Z</date>
+      <text></text>
+      <views>29393</views>
+      <forwards>71</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__49215__photo.jpg</file>
+        <width>638</width>
+        <height>210</height>
+        <telegram_link>https://t.me/chekhabarre/49215</telegram_link>
+      </media>
+    </post>
+    <post id="49214">
+      <date>2026-06-21T13:35:16.000Z</date>
+      <text>باز این کسپدر جنس بد کشید</text>
+      <views>28761</views>
+      <forwards>28</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49213">
+      <date>2026-06-21T13:31:44.000Z</date>
+      <text>🔴 قمارباز: از اسرائیل ناامیدم. اونا نمیتونن حزب‌الله رو از بین ببرن. حتماً باید چندین‌تا ساختمون رو نابود کنن. احتمالاً مسئولیت این‌کارو به الشرع و سوریه بدم.</text>
+      <views>29798</views>
+      <forwards>110</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49212">
+      <date>2026-06-21T13:27:16.000Z</date>
       <text>🔴 ریدم.
 
-ترامپ خطاب به پزشکیان در مورد حق غنی‌سازی: بهتره مراقب حرف زدنت باشی وگرنه بقیه کشورتو هم میگیرم.</text>
-      <views>7</views>
-      <forwards>0</forwards>
+تری‌اینگست: رئیس‌جمهور ترامپ در جریان تماسش با ما، مستقیماً به این اظهارات پزشکیان، رئیس‌جمهور ایران پاسخ داد. ترامپ گفت که اون (پزشکیان) بهتره مراقب حرف زدنش باشه، بهتره خودشو جمع‌وجور کنه وگرنه ما بقیه کشورشو تصرف میکنیم.</text>
+      <views>29698</views>
+      <forwards>235</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>43.862</duration_seconds>
         <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/49211</telegram_link>
+        <telegram_link>https://t.me/chekhabarre/49212</telegram_link>
       </media>
     </post>
     <post id="49210">
       <date>2026-06-21T13:24:07.000Z</date>
       <text>شاشیدم</text>
-      <views>1837</views>
-      <forwards>0</forwards>
+      <views>28130</views>
+      <forwards>2</forwards>
       <media type="none"/>
     </post>
     <post id="49209">
       <date>2026-06-21T13:22:40.000Z</date>
       <text>🔴 دالگ‌خیز:
 اگه به‌توافق نرسیم، ایالات متحده میتونه به «فرشته نگهبان» تنگه هرمز تبدیل شه و ۲۰ درصد از نفت آن رو سهم خودش کنه. «اگر لازم باشد، کنترل تنگه رو در دست میگیریم. اونارو به‌شدت در هم می‌کوبیم. اگر به توافق نرسن، از کشتی‌ها عوارض عبور خواهیم گرفت.</text>
-      <views>3358</views>
-      <forwards>20</forwards>
+      <views>28633</views>
+      <forwards>57</forwards>
       <media type="none"/>
     </post>
     <post id="49208">
       <date>2026-06-21T13:20:51.000Z</date>
       <text>🔴 ترامپ: شب گذشته با مقام‌های ایرانی صحبت کردم و به آن‌ها هشدار داده است که تنگه را نبندند. اگر آن را ببندید، دیگر کشوری نخواهید داشت. حتی فرصت نخواهید کرد به کشور لعنتی‌تان برگردید.</text>
-      <views>4590</views>
-      <forwards>40</forwards>
+      <views>29051</views>
+      <forwards>142</forwards>
       <media type="none"/>
     </post>
     <post id="49206">
       <date>2026-06-21T13:16:57.000Z</date>
       <text>🔴 ونس: ترامپ به دولتش مأموریت داده که یه «ورق جدید» تو رابطه آمریکا و ایران باز کنن. ممکنه این مذاکرات همه اختلافا رو حل نکنه، ولی حداقلش اینه که تیم‌های آمریکا و ایران برای اولین بار تو تاریخ مثل دو تا تیم بشینن پای میز با هم حرف بزنن.</text>
-      <views>7039</views>
-      <forwards>10</forwards>
+      <views>29355</views>
+      <forwards>12</forwards>
       <media type="none"/>
     </post>
     <post id="49205">
       <date>2026-06-21T13:10:58.000Z</date>
       <text>🔴 ونس: باز شدن تنگه هرمز و متوقف کردن برنامه هسته‌ای ایران، کارهایی است که همین حالا به سرانجام رسیده. حالا سؤال اصلی این است که چقدر می‌توانیم جلوتر برویم و دستاوردهای بیشتری داشته باشیم. آیا می‌توانیم روابط منطقه را برای همیشه متحول کنیم، یا دوباره برمی‌گردیم به همان روش‌های قدیمی؟ روش‌هایی که دوست نداریم.</text>
-      <views>9182</views>
-      <forwards>31</forwards>
+      <views>30547</views>
+      <forwards>64</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>26.347</duration_seconds>
         <note>Video not stored — view on Telegram</note>
         <telegram_link>https://t.me/chekhabarre/49205</telegram_link>
-      </media>
-    </post>
-    <post id="49204">
-      <date>2026-06-21T13:06:36.000Z</date>
-      <text>🔴 آکسیوس: مذاکرات مستقیم آمریکا و جمهوری اسلامی شروع شد.</text>
-      <views>10693</views>
-      <forwards>32</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49203">
-      <date>2026-06-21T13:04:47.000Z</date>
-      <text>🔴 ونس: رئیس جمهور ترامپ به آتش بس کامل منطقه ای متعهد است. ما در روزهای اخیر شاهد پیشرفت زیادی در تأمین آتش‌بس در لبنان بوده‌ایم.</text>
-      <views>11312</views>
-      <forwards>1</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49202">
-      <date>2026-06-21T12:06:04.000Z</date>
-      <text>خدایا شکرت.</text>
-      <views>22886</views>
-      <forwards>0</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49201">
-      <date>2026-06-21T11:35:23.000Z</date>
-      <text>🔴 فارس: رافائل گروسی هیچ نقشی توی مذاکرات نداره.</text>
-      <views>27767</views>
-      <forwards>10</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49200">
-      <date>2026-06-21T11:34:13.000Z</date>
-      <text>🔴 صداوسیما اعلام کرد نشست بین جمهوری اسلامی، قطر و بلاد کفر شروع شده.</text>
-      <views>28381</views>
-      <forwards>41</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49199">
-      <date>2026-06-21T11:30:13.000Z</date>
-      <text>صدق الله العلی العظیم.</text>
-      <views>29728</views>
-      <forwards>49</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__49199__photo.jpg</file>
-        <width>1080</width>
-        <height>1113</height>
-        <telegram_link>https://t.me/chekhabarre/49199</telegram_link>
-      </media>
-    </post>
-    <post id="49198">
-      <date>2026-06-21T10:25:19.000Z</date>
-      <text>🔴 عرزشی: عمویم نتانیاهو.
-
-پزشکلندر: هر پیامی که بوی تفرقه بده در جهت راهبردهای نتانیاهو و سازمان سیا قرار داره.</text>
-      <views>35618</views>
-      <forwards>52</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49197">
-      <date>2026-06-21T10:20:00.000Z</date>
-      <text>🔴 پزشکیان: آنچه که مسلم است این است که ما هرگز از حق غنی‌سازی اورانیوم خود دست نخواهیم کشید و طرف مقابل چاره‌ای جز پذیرش آن نخواهد داشت.</text>
-      <views>35398</views>
-      <forwards>32</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49196">
-      <date>2026-06-21T10:00:00.000Z</date>
-      <text>🔴 پزشکیان: آمریکا به ما گفت فقط بنویسید و امضا کنید که بمب‌اتم نمیخوایم. ما گفتیم که رهبر شهید معظم هم همینو میگفت. امضا کردین و گفتیم که نمیخوایم.</text>
-      <views>37729</views>
-      <forwards>104</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49195">
-      <date>2026-06-21T09:56:13.000Z</date>
-      <text>🔴 ممنون بابت خایمالیت.
-
-ابراهیم رضایی، سخنگوی کمیسیون امنیت ملی: ‏از پیام روشنگرانه رهبر حکیم انقلاب عصبانی هستند، به روحانیت انقلابی به جرم تبیین خط رهبری حمله می‌کنند.</text>
-      <views>37668</views>
-      <forwards>20</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__49195__photo.jpg</file>
-        <width>1080</width>
-        <height>509</height>
-        <telegram_link>https://t.me/chekhabarre/49195</telegram_link>
-      </media>
-    </post>
-    <post id="49194">
-      <date>2026-06-21T09:52:44.000Z</date>
-      <text>🔴 دلار ۱۵۸.۳۰۰</text>
-      <views>36752</views>
-      <forwards>16</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49193">
-      <date>2026-06-21T08:58:31.000Z</date>
-      <text>🔴 آمار رسمی اعلام شده از وضعیت پتروشیمی‌های کشور که پس از حمله اسرائیل شاهد حدودا ۸۷ درصد کاهش تولید نسبت به سال گذشته بوده.</text>
-      <views>40710</views>
-      <forwards>240</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__49193__photo.jpg</file>
-        <width>1024</width>
-        <height>1280</height>
-        <telegram_link>https://t.me/chekhabarre/49193</telegram_link>
-      </media>
-    </post>
-    <post id="49192">
-      <date>2026-06-21T08:58:29.000Z</date>
-      <text></text>
-      <views>34498</views>
-      <forwards>431</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__49192__photo.jpg</file>
-        <width>1164</width>
-        <height>1191</height>
-        <telegram_link>https://t.me/chekhabarre/49192</telegram_link>
-      </media>
-    </post>
-    <post id="49191">
-      <date>2026-06-21T08:58:28.000Z</date>
-      <text>‏برای من یکی از تاریک‌ترین نقاط کارنامه قالیباف، واکنشش به پرونده محمد بیجه در سال ۱۳۸۳ بود. بهش فکر می‌کنم قلبم به درد میاد. بین ۱۷ تا ۲۷ کودک به شکل وحشیانه‌ای مورد تجاوز قرار گرفته و به قتل رسیده بودن. قالیباف اون زمان فرمانده نیروی انتظامی کشور بود و دقیقا مثل امروز تشنه قدرت. پلیس چندبار به خونواده‌های بچه‌های گمشده که کم‌برخوردار بودن بی‌اعتنایی کرده بود. اگر دستشون رو دراز می‌کردن بیجه رو می‌گرفتن، با یک تحقیق ساده می‌شد از کشته شدن بچه‌های بیشتر جلوگیری کرد. انگار می‌ترسیدن الگانس‌های نو‌شون توی پاکدشت خاکی بشه. وقتی بالاخره بیجه دستگیر شد و کشور از شنیدن ابعاد جنایت‌ها شوکه شد، بعضی مقام‌ها دست‌کم ژست عذرخواهی و استعفا گرفتن. واکنش قالیباف چی بود؟ حاضر نشد حتی برای حفظ ظاهر عذرخواهی کنه و گفت این پرونده تجربه‌ای برای اصلاح و آسیب‌شناسی عملکرد پلیسه!
-
-کشته شدن این همه کودک که جمجمه بعضی‌هاشون با آجر خرد شده بود، از نظرش «تجربه‌ای برای اصلاح عملکرد پلیس» بود. چرا عذرخواهی کنه وقتی سودی توش نیست؟
-
-@Khabariee</text>
-      <views>34872</views>
-      <forwards>432</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__49191__photo.jpg</file>
-        <width>249</width>
-        <height>400</height>
-        <telegram_link>https://t.me/chekhabarre/49191</telegram_link>
       </media>
     </post>
   </posts>
