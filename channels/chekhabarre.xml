@@ -7,30 +7,77 @@
     <members>259837</members>
     <profile>https://raw.githubusercontent.com/yourusername/yourrepo/main/profiles/bbcnews.png</profile>
     <telegram_link>https://t.me/chekhabarre</telegram_link>
-    <generated_at>2026-06-22T16:07:15.863Z</generated_at>
+    <generated_at>2026-06-22T19:45:05.508Z</generated_at>
   </meta>
   <posts>
+    <post id="49307">
+      <date>2026-06-22T18:39:43.000Z</date>
+      <text>گویا توافقات تا اینجا خوب پیش رفته، لب گرفتن تماشاچیا توی پخش زنده جام‌جهانی از صداوسیما.</text>
+      <views>18316</views>
+      <forwards>50</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49306">
+      <date>2026-06-22T18:31:10.000Z</date>
+      <text>🔴 قالیباف: انشاالله، حاکمیت ملی لبنان بر کل خاکش در این مذاکرات به نتیجه نهایی خواهد رسید و تا زمانی که این اتفاق نیفتد، ما آنها را رها نخواهیم کرد.</text>
+      <views>20700</views>
+      <forwards>12</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49305">
+      <date>2026-06-22T17:59:49.000Z</date>
+      <text>🔴 ونس: اول اینکه، ما سازوکاری را ایجاد کردیم تا نه تنها تنگه هرمز باز باشد، بلکه باز بماند... دوم اینکه، ما در واقع سازوکار مناسبی را برای تضمین آتش‌بس منطقه‌ای ایجاد کردیم... ما ایرانی‌ها را داریم که برای اولین بار پس از مدت‌ها به بازرسان تسلیحاتی و بازرسان هسته‌ای اجازه ورود به کشور را می‌دهند... و در نهایت، ما همچنان در حال پیشرفت در این مذاکرات فنی هستیم.</text>
+      <views>24955</views>
+      <forwards>24</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49304">
+      <date>2026-06-22T17:18:21.000Z</date>
+      <text>🔴 شبکه ۱۳ اسرائیل: اسرائیل پیامی از آمریکا با این مضمون که «چراغ سبز پایان یافته است» دریافت کرد. ترامپ عملیات‌های اسرائیل را در همه جبهه‌ها متوقف کرد.</text>
+      <views>29724</views>
+      <forwards>63</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49303">
+      <date>2026-06-22T17:13:41.000Z</date>
+      <text>🔴 ترامپ: همگان به این درک رسیده‌اند که ایران با هدف تضمین سلامت فعالیت‌های هسته‌ای خود در بلندمدت، با انجام بازرسی‌های فراگیر تسلیحاتی موافقت خواهد کرد.</text>
+      <views>30060</views>
+      <forwards>35</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49302">
+      <date>2026-06-22T16:50:38.000Z</date>
+      <text>یه عمر گفتین حضرت علی رو از پشت سر شهید کردن، بچه‌ی من که کلا ۴۷ کیلو بود رو زدین تو حنجره‌اش و کشتینش. شما ترسو بودین، از این به بعد، تاسوعا، عاشورای ما ۱۸ و ۱۹ دی هست.</text>
+      <views>32252</views>
+      <forwards>285</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>28.767</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/49302</telegram_link>
+      </media>
+    </post>
     <post id="49301">
       <date>2026-06-22T16:06:34.000Z</date>
       <text>🔴 به‌جون مادرم.
 
 خبرگزاری فارس: ادعای ونس مبنی بر بازگشت بازرسان به ایران کذبه.</text>
-      <views>306</views>
-      <forwards>0</forwards>
+      <views>34942</views>
+      <forwards>11</forwards>
       <media type="none"/>
     </post>
     <post id="49300">
       <date>2026-06-22T15:52:21.000Z</date>
       <text>🔴 دقایقی پیش قالیباف به مسقط عمان سفر کرد.</text>
-      <views>6725</views>
-      <forwards>10</forwards>
+      <views>35751</views>
+      <forwards>20</forwards>
       <media type="none"/>
     </post>
     <post id="49299">
       <date>2026-06-22T15:42:55.000Z</date>
       <text>نظرسنجی پخش شده از شبکه فاکس در برنامه مارک‌لوین از ۲۶ می تا ۳ جون؛ ۵۱ ٪ از طرفدارهای ترامپ در جنبش ماگا، رژیم چینج رو ترجیح میدن.</text>
-      <views>10096</views>
-      <forwards>64</forwards>
+      <views>36594</views>
+      <forwards>119</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__49299__photo.jpg</file>
         <width>1200</width>
@@ -41,8 +88,8 @@
     <post id="49298">
       <date>2026-06-22T14:59:00.000Z</date>
       <text>سید محمد موسوی مالک Padra Clinic در دوبی! فراموش نکنید اسامی رو.</text>
-      <views>17721</views>
-      <forwards>184</forwards>
+      <views>37947</views>
+      <forwards>316</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>92.021</duration_seconds>
@@ -64,7 +111,7 @@
 
 🤖 @Wincobet_bot
 🤖 @Wincobet_bot</text>
-      <views>17411</views>
+      <views>35868</views>
       <forwards>0</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__49297__photo.jpg</file>
@@ -76,15 +123,15 @@
     <post id="49296">
       <date>2026-06-22T14:23:44.000Z</date>
       <text>🔴 هیئت مذاکره‌کننده جمهوری اسلامی دقایقی پیش وارد تهران شد.</text>
-      <views>22448</views>
-      <forwards>12</forwards>
+      <views>36399</views>
+      <forwards>22</forwards>
       <media type="none"/>
     </post>
     <post id="49295">
       <date>2026-06-22T13:39:15.000Z</date>
       <text>🔴 نتانیاهو:
 نیروهای ارتش اسرائیل در جنوب لبنان آزادی عمل کامل برای مقابله با هرگونه تهدید مستقیم یا نوظهور علیه خود یا ساکنان شمال اسرائیل را دارند. ارتش اسرائیل هیچ محدودیتی در این زمینه ندارد.</text>
-      <views>26989</views>
+      <views>38881</views>
       <forwards>24</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
@@ -96,22 +143,22 @@
     <post id="49294">
       <date>2026-06-22T13:26:55.000Z</date>
       <text>🔴 ارتش اسرائیل ۳۷ ساعت بعد از آتش‌بس به منطقه المشاع در منصوری و منطقه بیوت الصیاد در جنوب لبنان حملات توپخانه‌ای انجام داد.</text>
-      <views>28673</views>
+      <views>39652</views>
       <forwards>46</forwards>
       <media type="none"/>
     </post>
     <post id="49293">
       <date>2026-06-22T13:21:50.000Z</date>
       <text>🔴 وزارت خزانه‌داری آمریکا مجوز داد تا ایران که بتونه تا ۲۱ آگوست (۳۰ مرداد) ۲۰۲۶ نفت خام، محصولات پتروشیمی و فرآورده‌های نفتی‌شو بفروشه. طبق این مجوز، حتی واردات این محصولات ایرانی به خود آمریکا هم مجازه و توی لیست معاملات مجاز قرار گرفته.</text>
-      <views>29582</views>
-      <forwards>138</forwards>
+      <views>40099</views>
+      <forwards>148</forwards>
       <media type="none"/>
     </post>
     <post id="49292">
       <date>2026-06-22T12:49:44.000Z</date>
       <text>🖤</text>
-      <views>32896</views>
-      <forwards>113</forwards>
+      <views>41764</views>
+      <forwards>134</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__49292__photo.jpg</file>
         <width>1148</width>
@@ -122,8 +169,8 @@
     <post id="49291">
       <date>2026-06-22T12:37:04.000Z</date>
       <text>🔴 ارتش اسرائیل یک تونل زیرزمینی حزب‌الله رو در زیر روستای مجدل زون لبنان کشف کرد که حاوی سلاح، موشک، پهپاد و گودال‌های پرتاب موشک به سمت اسرائیل بود.</text>
-      <views>33385</views>
-      <forwards>149</forwards>
+      <views>41390</views>
+      <forwards>170</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>97</duration_seconds>
@@ -134,79 +181,22 @@
     <post id="49290">
       <date>2026-06-22T12:31:01.000Z</date>
       <text>🔴 سی‌ان‌ان: تنگه هرمز بازه و مشکلی برای تردد وجود نداره.</text>
-      <views>33271</views>
+      <views>41304</views>
       <forwards>22</forwards>
       <media type="none"/>
     </post>
     <post id="49289">
       <date>2026-06-22T12:11:23.000Z</date>
       <text>تیبو کورتوا، گلر رئال‌مادرید، حسین کنعانی‌زادگان رو فالو کرد.</text>
-      <views>35621</views>
+      <views>42644</views>
       <forwards>113</forwards>
       <media type="none"/>
     </post>
     <post id="49288">
       <date>2026-06-22T11:59:40.000Z</date>
       <text>دلا دیدی که تنگه‌ رو هم دادیم رفت</text>
-      <views>37379</views>
-      <forwards>123</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49287">
-      <date>2026-06-22T11:56:34.000Z</date>
-      <text>وطن‌فروشا چخبر؟ مملکتو دودستی آمریکا صاحب شد که.
-خمینی با کلیدواژه «کاپیتولاسیون» انقلاب کرد تا خامنه‌ای دودستی برینه توش.
-حالا برو پرچم بچرخون الاغ
-🇮🇷🇮🇷🇮🇷</text>
-      <views>37866</views>
-      <forwards>298</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49286">
-      <date>2026-06-22T11:54:38.000Z</date>
-      <text>فواد ایزدی : ایران از تنگه هرمز عوارض نخواهد گرفت، بعد از ۶۰ روز آمریکا از تنگه هرمز عوارض خواهد گرفت!</text>
-      <views>39823</views>
-      <forwards>989</forwards>
-      <media type="video" available="false">
-        <mime_type>video/mp4</mime_type>
-        <duration_seconds>76.046</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/49286</telegram_link>
-      </media>
-    </post>
-    <post id="49285">
-      <date>2026-06-22T11:53:38.000Z</date>
-      <text>ریدمممممم</text>
-      <views>35941</views>
-      <forwards>38</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49284">
-      <date>2026-06-22T11:51:23.000Z</date>
-      <text>حالا ما وطن فروختیم یا شما؟ کسکشای ابله.
-خنده‌دار، گنده‌گوز و هیچکاره.</text>
-      <views>36348</views>
-      <forwards>124</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49283">
-      <date>2026-06-22T11:49:29.000Z</date>
-      <text>🔴 ونس: یکی از کارایی که ما میخواستیم انجام بدیم [و خیلیم برای ما اولیت نداشت] این بود که یک پروسه‌ای رو ترتیب بدیم که اگه، اگه، دارایی از ایران آزاد شه، این پول، به مردم ایران برسه و نه سپاه پاسداران و تروریسم. جرد کوشنر و قطری‌ها به یک راه‌حل مناسب رسیدن که اگر پولی از دارایی ایرانی‌ها آزاد شه، ما اول اونو تایید کنیم و قطری‌ها تایید کنن تا از اون پول برای خرید محصولات کشاورزی آمریکایی استفاده بشه 😂 برخلاف صحبتایی که ایرانی‌ها میکنن، همشون نه، بعضیاشون، ما به یک توافق کلاسیک ترامپی رسیدیم. این پولا اگه آزاد بشه، کشاورزهای آمریکایی رو پولدارتر میکنه و به مردم ایران، محصولات میرسونه.</text>
-      <views>38561</views>
-      <forwards>798</forwards>
-      <media type="video" available="false">
-        <mime_type>video/mp4</mime_type>
-        <duration_seconds>84.16</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/49283</telegram_link>
-      </media>
-    </post>
-    <post id="49282">
-      <date>2026-06-22T11:39:33.000Z</date>
-      <text>پارهههه شدم. وایسید وایسید بنویسم
-عرزشی قالیباف و عراقچی یجوری گذاشته تو کاستون که فقط باید برید بمیرید 😂😂😂😂😂😂😂😂</text>
-      <views>35797</views>
-      <forwards>112</forwards>
+      <views>43847</views>
+      <forwards>134</forwards>
       <media type="none"/>
     </post>
   </posts>
