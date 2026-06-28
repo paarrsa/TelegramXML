@@ -7,35 +7,116 @@
     <members>259837</members>
     <profile>https://raw.githubusercontent.com/yourusername/yourrepo/main/profiles/bbcnews.png</profile>
     <telegram_link>https://t.me/chekhabarre</telegram_link>
-    <generated_at>2026-06-28T01:52:58.928Z</generated_at>
+    <generated_at>2026-06-28T06:21:20.092Z</generated_at>
   </meta>
   <posts>
+    <post id="49605">
+      <date>2026-06-28T06:20:41.000Z</date>
+      <text>این ویدیو احتمالاً به یکی از صحنه‌های شاهکار تبدیل بشه؛ جایی که گزارشگر پس از گل الجزایر گفت یک کشور مسلمان به کشور مسلمان دیگری کمک کرد تا صعود کنه، اما تنها دو دقیقه بعد اتریش گل زد و ورق شانس صعود تیم جمهوری اسلامی برگشت.</text>
+      <views>307</views>
+      <forwards>0</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>134.189</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/49605</telegram_link>
+      </media>
+    </post>
+    <post id="49604">
+      <date>2026-06-28T06:07:42.000Z</date>
+      <text>در تاریخ بنویسید تیمی که شانس صعودش به مرحله بعد، ۹۲ درصد بود ولی داغ دل عزیزانی که توی دی‌ماه جگر گوشه‌ها و اقوامشون رو از دست دادن خوب گذاشت توی کاسشون و حذفشون کرد. عاقبت مردمی نبودن همین میشه و چه‌بسا  حقتون بدتر از این‌هاست.</text>
+      <views>6733</views>
+      <forwards>218</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__49604__photo.jpg</file>
+        <width>1200</width>
+        <height>1200</height>
+        <telegram_link>https://t.me/chekhabarre/49604</telegram_link>
+      </media>
+    </post>
+    <post id="49603">
+      <date>2026-06-28T05:58:26.000Z</date>
+      <text>🔴 آره داداش تو راست میگی.
+
+میثاقی بعد از حذف تیم جمهوری اسلامی: اتریش و الجزایر بازیشون تبانی بود، بِت زده بودن و بنظر من بازی تمیزی نبود.</text>
+      <views>9774</views>
+      <forwards>83</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>20.843</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/49603</telegram_link>
+      </media>
+    </post>
+    <post id="49602">
+      <date>2026-06-28T05:55:54.000Z</date>
+      <text>🔴 دقیقا خدا می‌خواست بزنه که صعود نکنید.
+
+خداداد عزیزی قبل از بازی: بنظر من امکان نداره ۳ تا بازی با نتیجه ضد ما تموم شه و حذف شیم و حقمون صعوده. مگه اینکه خدا بخواد تیم ملی رو بزنه که صعود نکنه.</text>
+      <views>10667</views>
+      <forwards>186</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>54.892</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/49602</telegram_link>
+      </media>
+    </post>
+    <post id="49601">
+      <date>2026-06-28T05:23:43.000Z</date>
+      <text>🔴 واکنش تراز.
+
+وزارت خارجه جمهوری اسلامی: حملات آمریکا نقض صریح بند یک تفاهمنامهٔ اسلام‌آباده.</text>
+      <views>16171</views>
+      <forwards>10</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49600">
+      <date>2026-06-28T04:34:00.000Z</date>
+      <text>⚽️ از #فوتبال چه‌خبر؟
+
+تیم‌میلی جمهوری‌اسلامی پس‌از تساوی ۳-۳ امروز صبح اتریش و الجزایر، از صعود به مرحله‌حذفی جام‌جهانی بازموند.
+
+باید کرواسی از غنا امتیاز میگرفت، کنگو ازبکستان رو شکست میداد، و اتریش-الجزایر مساوی میشد تا این اتفاق میوفتاد، که همشم رخ داد :) خیلی بد کیر شدید
+
+@CheKhabarr</text>
+      <views>23167</views>
+      <forwards>325</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49599">
+      <date>2026-06-28T04:32:05.000Z</date>
+      <text>عه وا چقد ناراحت شدم</text>
+      <views>22961</views>
+      <forwards>11</forwards>
+      <media type="none"/>
+    </post>
     <post id="49598">
       <date>2026-06-28T00:11:55.000Z</date>
       <text>به کویت هم حمله کردن؛ صدای چهار انفجار شنیده شده</text>
-      <views>9005</views>
-      <forwards>103</forwards>
+      <views>35275</views>
+      <forwards>171</forwards>
       <media type="none"/>
     </post>
     <post id="49597">
       <date>2026-06-28T00:08:39.000Z</date>
       <text>🔴 شین | صدای انفجارهایی در بحرین شنیده شد.</text>
-      <views>9416</views>
-      <forwards>69</forwards>
+      <views>35213</views>
+      <forwards>111</forwards>
       <media type="none"/>
     </post>
     <post id="49596">
       <date>2026-06-27T23:49:32.000Z</date>
       <text>مثکه سپاه باز بحرین رو زده 😂</text>
-      <views>11617</views>
-      <forwards>131</forwards>
+      <views>36603</views>
+      <forwards>171</forwards>
       <media type="none"/>
     </post>
     <post id="49595">
       <date>2026-06-27T23:26:27.000Z</date>
       <text>این خط و این نشون خامنه‌ای خاک نمیشه 😂</text>
-      <views>14719</views>
-      <forwards>158</forwards>
+      <views>38871</views>
+      <forwards>235</forwards>
       <media type="none"/>
     </post>
     <post id="49594">
@@ -43,8 +124,8 @@
       <text>🔴 ترامپ در تروث سوشال:
 
 هواپیماهای ایالات متحده همین حالا مراکز ذخیره‌سازی موشک‌ها و پهپادهای ایران و همچنین مواضع راداری ساحلی را به‌دلیل نقض توافق آتش‌بس، بار دیگر هدف حمله قرار دادند! کاملاً ممکن است که آن‌ها هرگز یاد نگیرند! شاید زمانی فرا برسد که دیگر نتوانیم معقولانه رفتار کنیم و مجبور شویم از نظر نظامی کاری را که بسیار موفقانه آغاز کرده‌ایم، به‌طور کامل به پایان برسانیم. اگر چنین شود، جمهوری اسلامی ایران دیگر وجود نخواهد داشت!</text>
-      <views>16182</views>
-      <forwards>349</forwards>
+      <views>39946</views>
+      <forwards>453</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__49594__photo.jpg</file>
         <width>1200</width>
@@ -57,8 +138,8 @@
       <text>🔴 بعد اداره‌ مملکتم دست همین گاو گوسفندهاست.
 
 خبرنگار آوردن تو رسانه ملی داره میگه چون کشتی‌ها قصد عبور از مسیر «ناایمن» رو داشتند سپاه اون‌ها رو هدف قرار داده بوده.</text>
-      <views>17027</views>
-      <forwards>131</forwards>
+      <views>38999</views>
+      <forwards>207</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>47.718</duration_seconds>
@@ -69,29 +150,29 @@
     <post id="49592">
       <date>2026-06-27T23:06:27.000Z</date>
       <text>چرا انقدر این جماعت خنده‌دارن جدی؟</text>
-      <views>16673</views>
+      <views>37236</views>
       <forwards>0</forwards>
       <media type="none"/>
     </post>
     <post id="49591">
       <date>2026-06-27T22:00:53.000Z</date>
       <text>🔴 حملات آمریکا به قشم، سیریک، بندر لنگه و بندر کنگ انجام شده.</text>
-      <views>26158</views>
-      <forwards>432</forwards>
+      <views>43641</views>
+      <forwards>467</forwards>
       <media type="none"/>
     </post>
     <post id="49590">
       <date>2026-06-27T21:59:28.000Z</date>
       <text>🔴 فاکس نیوز: نیروهای آمریکا و بحرین ۹ پهپاد ایرانی را که به سمت نیروهای آمریکایی در بحرین پرتاب شده بودند، سرنگون کردند.</text>
-      <views>25856</views>
-      <forwards>93</forwards>
+      <views>42951</views>
+      <forwards>96</forwards>
       <media type="none"/>
     </post>
     <post id="49589">
       <date>2026-06-27T21:59:26.000Z</date>
       <text>🔴 سنتکام اعلام کرد پس از هدف‌گیری تانکر کیکو در تنگه هرمز، حملات هوایی دفاعی جدیدی علیه زیرساخت‌های نظارتی، سامانه‌های ارتباطی، پدافند هوایی، انبارهای پهپادی و توانمندی‌های مین‌گذاری دریایی ایران انجام داد. سنتکام تأکید کرد تردد کشتی‌های تجاری در تنگه هرمز ادامه دارد و نیروهای آمریکایی با آمادگی کامل مأموریت خود را دنبال می‌کنند.</text>
-      <views>25584</views>
-      <forwards>96</forwards>
+      <views>42320</views>
+      <forwards>127</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>18.669</duration_seconds>
@@ -122,100 +203,27 @@
 🔗 کانال رسمی اسپورت نود:👇
 
 ✉️ @Sportnavad</text>
-      <views>24309</views>
+      <views>39913</views>
       <forwards>0</forwards>
-      <media type="photo" available="false">
-        <note>Image download failed</note>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__49588__photo.jpg</file>
+        <width>1200</width>
+        <height>1200</height>
         <telegram_link>https://t.me/chekhabarre/49588</telegram_link>
       </media>
     </post>
     <post id="49587">
       <date>2026-06-27T21:29:44.000Z</date>
       <text>🔴 آمریکا به سیریک حمله کرده!!!</text>
-      <views>30083</views>
-      <forwards>523</forwards>
+      <views>43016</views>
+      <forwards>524</forwards>
       <media type="none"/>
     </post>
     <post id="49586">
       <date>2026-06-27T21:26:28.000Z</date>
       <text>🔴 شنیده شدن صدای انفجار در بندر سیریک.</text>
-      <views>29998</views>
-      <forwards>310</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49585">
-      <date>2026-06-27T20:55:50.000Z</date>
-      <text>زیرنویس داره.</text>
-      <views>34773</views>
-      <forwards>39</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49584">
-      <date>2026-06-27T20:52:28.000Z</date>
-      <text>Citizen Vigilante | Armie Hammer
-
-این فیلم حول محور کسیه که از سیستم قضایی فاسد خسته شده و میخواد از طریق کشتن مجرمان فضای شهر رو به حالت عادی برگردونه. اتمسفر این داستان بیشتر درحال توصیف وضعیت ناامن کشورهای غربی هست که توسط مهاجران آفریقایی، مسلمان و لاتین ایجاد شده. حال و روز این روزهای اروپا هم به همین شکل پیش میره و اگر دوست دارید شخصا با چکیده‌ای از جنایات این جماعت آشنا بشید بنظرم این فیلم رو ببینید.
-
-🔗 Download link (1080 Quality)
-
-🔗 Download link (720 Quality)
-
-لازم به‌ذکره که پخش این فیلم، بخاطر کثافتی که چپول‌جماعت به اروپا زد، فعلا تو انگلیس و آلمان ممنوعه.</text>
-      <views>36258</views>
-      <forwards>1674</forwards>
-      <media type="photo" available="false">
-        <note>Image download failed</note>
-        <telegram_link>https://t.me/chekhabarre/49584</telegram_link>
-      </media>
-    </post>
-    <post id="49583">
-      <date>2026-06-27T20:50:11.000Z</date>
-      <text>این بچه (که از قضا مسلمونم هست)، با چندتا از رفیقاش به یک دختر تجاوز میکنن و این بابا هم الان اومده سروقتشون.
-
-خواهرش میگه که داداشم درسش رو گرفته و پشیمونه. اما مرد زیربار نمیره و میگه تو شبکه‌های اجتماعیت دیدم که حتی نوشتی تجاوز حقش بوده!
-
-اینجاش قشنگ میشه. دختر جواب میده: منظور من اینه که اونا اشتباه لباس میپوشن و مردا حشری میشن. اونا دامن میپوشن و پاها و ممه‌هاشونو نشون میدن.
-
-و اینجاش حتی قشنگترم هست. مرد روبه پدر میگه، این چیزاییه که داری یاد بچه‌هات میدی؟ پدر جواب میده من دارم ارزش‌های قرآنی رو یاد بچه‌هام میدم.
-
-مرد جواب میده: اگه طبق آئین شما تموم زن‌های آمریکا و اروپا باید بخاطر یک لباس کشته بشن پس چرا اصلا اومدین اینجا؟</text>
-      <views>33477</views>
-      <forwards>558</forwards>
-      <media type="video" available="false">
-        <mime_type>video/mp4</mime_type>
-        <duration_seconds>53.634</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/49583</telegram_link>
-      </media>
-    </post>
-    <post id="49582">
-      <date>2026-06-27T20:43:17.000Z</date>
-      <text>بعدش یه ریلز از فیلم دیدم و خیلی بیشتر توجهم رو جلب کرد. پلات فیلم راجع به مهاجرهای غیرقانونیه و یک‌جاش شخصیت لید داستان، با یک خانواده مسلمان روبرو می‌شه. بذارید آپلود کنم</text>
-      <views>33357</views>
-      <forwards>160</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49581">
-      <date>2026-06-27T20:41:10.000Z</date>
-      <text>دیروز ایلان ماسک یک فیلم هشتاد دقیقه‌ای رو تو ایکسش آپلود کرد که اول توجه منم جلب کرد.
-
-بعدها تو اخبار خوندم که این فیلم رو سعی کردن تو آلمان و انگلیس غیرمجاز کنن و تا حالا هم اجازه پخش بهش ندادن.</text>
-      <views>33090</views>
-      <forwards>195</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49580">
-      <date>2026-06-27T20:26:06.000Z</date>
-      <text>اگه همین یکی دو روز جنگ شه و تشیع خامنه‌ای هیچوقت انجام نشه چی؟ ابسولوت سینما.</text>
-      <views>36092</views>
-      <forwards>254</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49579">
-      <date>2026-06-27T20:24:24.000Z</date>
-      <text>بنظرم میرسیم به همون ماجرای پنج دقیقه بعد از بالا بردن جام‌جهانی.</text>
-      <views>35952</views>
-      <forwards>81</forwards>
+      <views>42704</views>
+      <forwards>311</forwards>
       <media type="none"/>
     </post>
   </posts>
