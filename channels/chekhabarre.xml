@@ -7,21 +7,75 @@
     <members>259837</members>
     <profile>https://raw.githubusercontent.com/yourusername/yourrepo/main/profiles/bbcnews.png</profile>
     <telegram_link>https://t.me/chekhabarre</telegram_link>
-    <generated_at>2026-06-28T11:27:15.138Z</generated_at>
+    <generated_at>2026-06-28T12:57:43.947Z</generated_at>
   </meta>
   <posts>
+    <post id="49631">
+      <date>2026-06-28T12:48:11.000Z</date>
+      <text>[@OutOfContext]</text>
+      <views>4502</views>
+      <forwards>19</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__49631__photo.jpg</file>
+        <width>964</width>
+        <height>1205</height>
+        <telegram_link>https://t.me/chekhabarre/49631</telegram_link>
+      </media>
+    </post>
+    <post id="49630">
+      <date>2026-06-28T12:22:13.000Z</date>
+      <text>خودتو میزنی به خواب هوا بشه تاریک بی‌چش‌ و‌ روعن و جلو میان میگن چش مایی
+نقابتون می‌ افته رو زمین یه روز بالاخره شما بی‌ خبرید که دو تا چش داره «ت» تاریخ
+ مرامتون مُرده میده بو جسد، می‌خورید به در باز روتون زیاده، کمه شرفتون سر که هیچی حتی خمه کمرتون 😮‍💨</text>
+      <views>12832</views>
+      <forwards>17</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49629">
+      <date>2026-06-28T12:14:27.000Z</date>
+      <text>رو سیاهی میمونه به شما، مثل زغال.
+آهنگ پیشنهادی برای ریلز ساختن از اتفاقات جام‌جهانی. اگه ادیت حقی زدید، بفرستید می‌زنم کانال.</text>
+      <views>15264</views>
+      <forwards>402</forwards>
+      <media type="audio" available="false">
+        <mime_type>audio/mpeg</mime_type>
+        <note>Audio not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/49629</telegram_link>
+      </media>
+    </post>
+    <post id="49628">
+      <date>2026-06-28T12:10:29.000Z</date>
+      <text>فصل آخر، قسمت‌های پایانی.</text>
+      <views>17281</views>
+      <forwards>66</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49627">
+      <date>2026-06-28T12:07:55.000Z</date>
+      <text>🔴 خبرگزاری فارس: جمهوری اسلامی در دوران گذار به نظم جدید جهانی، راهی جز دستیابی به بمب اتم نداره تا گزینه نظامی علیه کشور از روی میز برداشته شود.</text>
+      <views>18170</views>
+      <forwards>155</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49626">
+      <date>2026-06-28T11:45:42.000Z</date>
+      <text>🔴 عراق دیشب در یک حرکت گازانبری، ۳۷ نفر از وزرا و دست‌اندرکاران سیاسی در مجلس رو به‌دلیل فساد و عمدتاً ارتباط با جمهوری‌اسلامی و سپاه (از اعضای حشدالشعبی) رو دستگیر کردن.</text>
+      <views>23024</views>
+      <forwards>195</forwards>
+      <media type="none"/>
+    </post>
     <post id="49625">
       <date>2026-06-28T11:09:03.000Z</date>
       <text>خامنه‌ای ۹ اسفند وقتی بهش گفتن بیا بیرون نمیزنن.</text>
-      <views>10646</views>
-      <forwards>39</forwards>
+      <views>30072</views>
+      <forwards>83</forwards>
       <media type="none"/>
     </post>
     <post id="49624">
       <date>2026-06-28T11:05:06.000Z</date>
       <text>تراپی رایگان با کیر شدن مجریان حکومت 🫶🏼</text>
-      <views>12685</views>
-      <forwards>257</forwards>
+      <views>31411</views>
+      <forwards>579</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>77.741</duration_seconds>
@@ -32,8 +86,8 @@
     <post id="49623">
       <date>2026-06-28T10:51:55.000Z</date>
       <text>استوری بابای کیان پیرفلک.</text>
-      <views>18330</views>
-      <forwards>178</forwards>
+      <views>33218</views>
+      <forwards>250</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__49623__photo.jpg</file>
         <width>724</width>
@@ -44,8 +98,8 @@
     <post id="49622">
       <date>2026-06-28T10:40:56.000Z</date>
       <text>مجتبی خامنه‌ای این سری زیاد حال نداشت و ۰.۷ درصد از خودش مایه گذاشته.</text>
-      <views>22279</views>
-      <forwards>410</forwards>
+      <views>35389</views>
+      <forwards>502</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__49622__photo.jpg</file>
         <width>1054</width>
@@ -62,22 +116,22 @@
 حقوق مردم فقط فردی نیست و شامل مسائل کلان مثل اقتصاد، محیط‌زیست و حکمرانی هم می‌شود.
 پیگیری حقوق ملت در برابر جنایات بین‌المللی و خسارات جنگ‌های اخیر (۱۴۰۴ و ۱۴۰۵) تأکید شده است.
 برخورد حقوقی با عاملان این جنایات در داخل و مجامع بین‌المللی ضروری دانسته شده است.</text>
-      <views>22967</views>
-      <forwards>150</forwards>
+      <views>34375</views>
+      <forwards>189</forwards>
       <media type="none"/>
     </post>
     <post id="49620">
       <date>2026-06-28T10:34:36.000Z</date>
       <text>🔴 مجتبی خامنه‌ای بیانیه داد.</text>
-      <views>23007</views>
-      <forwards>21</forwards>
+      <views>33186</views>
+      <forwards>37</forwards>
       <media type="none"/>
     </post>
     <post id="49619">
       <date>2026-06-28T09:26:33.000Z</date>
       <text>🔴 واکنش ترامپ به حرف‌های بایدن: من به ترامپ باختم.</text>
-      <views>31719</views>
-      <forwards>44</forwards>
+      <views>39038</views>
+      <forwards>66</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__49619__photo.jpg</file>
         <width>652</width>
@@ -88,8 +142,8 @@
     <post id="49618">
       <date>2026-06-28T09:11:23.000Z</date>
       <text>🔴 دلار ۱۷۰ هزار تومان.</text>
-      <views>33480</views>
-      <forwards>71</forwards>
+      <views>39849</views>
+      <forwards>83</forwards>
       <media type="none"/>
     </post>
     <post id="49617">
@@ -97,8 +151,8 @@
       <text>🔴 آمریکا بعد حرفای عباس عقب‌نشینی کرد.
 
 عراقچی: در تنگهٔ هرمز دخالت نکنید و به یادداشت تفاهم پایبند باشید.</text>
-      <views>34101</views>
-      <forwards>20</forwards>
+      <views>40342</views>
+      <forwards>33</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>105.545</duration_seconds>
@@ -109,8 +163,8 @@
     <post id="49616">
       <date>2026-06-28T08:41:05.000Z</date>
       <text>🔴 ویدیوی خوشحالی کردن بازیکنای تیم جمهوری اسلامی بعد از گل سوم الجزایر به اتریش رو ببینید که خدا واقعاً بهترین موقعیت ممکن اینا رو ضایع کرد و خوشحالیشون به دو دقیقه هم نکشید.</text>
-      <views>36702</views>
-      <forwards>483</forwards>
+      <views>42460</views>
+      <forwards>540</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>82.756</duration_seconds>
@@ -121,8 +175,8 @@
     <post id="49615">
       <date>2026-06-28T08:24:19.000Z</date>
       <text>🔴 سپاه پاسداران ویدیوی حملات موشکی شب گذشته رو منتشر کرد.</text>
-      <views>36246</views>
-      <forwards>70</forwards>
+      <views>41121</views>
+      <forwards>89</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>65.472</duration_seconds>
@@ -134,8 +188,8 @@
       <date>2026-06-28T08:09:16.000Z</date>
       <text>🔴 بایدن درباره ترامپ:  مسئله فقط تحریف و تخریب عمدی ناتو توسط او و ترجیح دادن پوتین به متحدان آمریکا نیست؛ یا این واقعیت که او بیش از هر رئیس‌جمهوری در تاریخ، جایگاه و اعتبار آمریکا را در نگاه جهان تضعیف کرده.
 موضوع فقط پروژه‌های خودنمایانهٔ او نیست؛ اسم خودش را روی مرکز کندی گذاشته، دارد یک طاق یادبود به افتخار خودش می‌سازد، حتی تعمیرکار استخر شخصی‌اش را هم آورده تا حوض بازتاب را تعمیر کند.</text>
-      <views>36146</views>
-      <forwards>41</forwards>
+      <views>40946</views>
+      <forwards>58</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>318.635</duration_seconds>
@@ -146,8 +200,8 @@
     <post id="49613">
       <date>2026-06-28T08:09:14.000Z</date>
       <text>عرزشی‌هایی که به مردم ایران اتهام وطن‌فروشی میزنن حتماً باید این ویدیو از پایه‌گذار جمهوری اسلامی رو ببینن.</text>
-      <views>34695</views>
-      <forwards>413</forwards>
+      <views>38624</views>
+      <forwards>497</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>36.711</duration_seconds>
@@ -178,85 +232,13 @@
 🔗 کانال رسمی اسپورت نود:👇
 
 ✉️ @Sportnavad</text>
-      <views>34239</views>
+      <views>38496</views>
       <forwards>0</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__49612__photo.jpg</file>
         <width>1200</width>
         <height>1200</height>
         <telegram_link>https://t.me/chekhabarre/49612</telegram_link>
-      </media>
-    </post>
-    <post id="49611">
-      <date>2026-06-28T07:20:21.000Z</date>
-      <text>🔴 ترامپ تو قزوین زمین داره؟
-
-اژه‌ای: اگر به اموال مقامات آمریکایی دست پیدا کنیم، سریعاً توقیف و ضبطشون میکنیم.</text>
-      <views>36207</views>
-      <forwards>123</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49610">
-      <date>2026-06-28T07:11:01.000Z</date>
-      <text>🔴 پس کی می‌دونه؟
-
-سخنگوی سپاه: از اینکه دولت به سپاه نفت داده اطلاعی ندارم و بعید می‌دونم چنین موضوعی درست باشه.</text>
-      <views>37207</views>
-      <forwards>62</forwards>
-      <media type="video" available="false">
-        <mime_type>video/mp4</mime_type>
-        <duration_seconds>81.085</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/49610</telegram_link>
-      </media>
-    </post>
-    <post id="49609">
-      <date>2026-06-28T07:01:34.000Z</date>
-      <text>🔴 جو بایدن درباره ترامپ:
-ترامپ از زمان بازگشت به کاخ سفید میلیاردها دلار به دست آورده. به‌نظر من این واقعا حیرت‌آور است. او هیچ شرمی ندارد و صادقانه بگویم، این برای کشور مایه شرمساری است. اما ترامپ اصلا برایش اهمیتی ندارد. پول درآوردن از مقام ریاست‌جمهوری یکی از دلایلی است که او می‌خواهد رئیس‌جمهور باشد.</text>
-      <views>37862</views>
-      <forwards>51</forwards>
-      <media type="video" available="false">
-        <mime_type>video/mp4</mime_type>
-        <duration_seconds>23.04</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/49609</telegram_link>
-      </media>
-    </post>
-    <post id="49608">
-      <date>2026-06-28T06:51:24.000Z</date>
-      <text></text>
-      <views>38508</views>
-      <forwards>232</forwards>
-      <media type="photo" available="true">
-        <file>img/chekhabarre__49608__photo.jpg</file>
-        <width>800</width>
-        <height>557</height>
-        <telegram_link>https://t.me/chekhabarre/49608</telegram_link>
-      </media>
-    </post>
-    <post id="49607">
-      <date>2026-06-28T06:51:23.000Z</date>
-      <text>در این شرایط که هممون از حذف تیم جمهوری اسلامی خوشحال هستیم، یادی کنیم از مهران سماک عزیز؛ فردی که در جریان جام جهانی قبلی، هنگام شادی در خیابان‌ها هدف تیراندازی قرار گرفت و جون خودش رو از دست داد. خون به ناحق ریخته شده روی زمین نموند و آخرش نفستونو گرفت.</text>
-      <views>38615</views>
-      <forwards>232</forwards>
-      <media type="video" available="false">
-        <mime_type>video/mp4</mime_type>
-        <duration_seconds>23.569</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/49607</telegram_link>
-      </media>
-    </post>
-    <post id="49606">
-      <date>2026-06-28T06:38:02.000Z</date>
-      <text>خوش باش که ظالم نبرد راه به منزل؛ زیباترین عبارتی که میشد به این تیم حکومتی نازل کرد رو ابراهیم رئیسی چند سال پیش بهش دست پیدا کرده بود.</text>
-      <views>38264</views>
-      <forwards>368</forwards>
-      <media type="video" available="false">
-        <mime_type>video/mp4</mime_type>
-        <duration_seconds>7.501</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/49606</telegram_link>
       </media>
     </post>
   </posts>
