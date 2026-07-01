@@ -7,14 +7,85 @@
     <members>259837</members>
     <profile>https://raw.githubusercontent.com/yourusername/yourrepo/main/profiles/bbcnews.png</profile>
     <telegram_link>https://t.me/chekhabarre</telegram_link>
-    <generated_at>2026-07-01T10:14:02.065Z</generated_at>
+    <generated_at>2026-07-01T13:13:59.048Z</generated_at>
   </meta>
   <posts>
+    <post id="49758">
+      <date>2026-07-01T13:06:11.000Z</date>
+      <text>🔴 بر اساس فایل صوتی منتسب به یکی از مسئولان شهرداری منطقه ۱۰ تهران، گفته شده تمامی کارکنان زن و مرد این مجموعه ملزم به حضور در مراسم تشییع علی خامنه‌ای شدن.</text>
+      <views>4289</views>
+      <forwards>40</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>80.016</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/49758</telegram_link>
+      </media>
+    </post>
+    <post id="49757">
+      <date>2026-07-01T12:42:37.000Z</date>
+      <text>🔴 ترامپ: ایران گام‌های بلندی در رابطه با توافق برداشته.</text>
+      <views>11012</views>
+      <forwards>30</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49756">
+      <date>2026-07-01T12:22:36.000Z</date>
+      <text>🔴 آقایون تا دیر نشده تنگه رو ببندید که اوضاع پسه.
+
+جی‌دی ونس: کاری که رئیس‌جمهور به ما گفته، اینه که از این تفاهم‌نامه برای پر کردن ذخایر انرژی جهان استفاده کنیم تا بعدش ببینیم کجای کاریم.</text>
+      <views>16505</views>
+      <forwards>277</forwards>
+      <media type="video" available="false">
+        <mime_type>video/mp4</mime_type>
+        <duration_seconds>13.167</duration_seconds>
+        <note>Video not stored — view on Telegram</note>
+        <telegram_link>https://t.me/chekhabarre/49756</telegram_link>
+      </media>
+    </post>
+    <post id="49755">
+      <date>2026-07-01T11:56:14.000Z</date>
+      <text>🔴 دلار ۱۷۵ هزار تومان.</text>
+      <views>21083</views>
+      <forwards>60</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49754">
+      <date>2026-07-01T11:48:35.000Z</date>
+      <text>🔴 عراقچی در جواب یسرائل کاتز که گفته بود «مجتبی خامنه‌ای تارگت بعدی برای ترور شدنه» گفت:
+مفاد تفاهم‌نامه اسلام‌آباد کاملاً واضح و برای همه قابل مشاهده است.
+رئیس‌جمهور آمریکا متعهد شده است که دست‌نشانده‌های خود در تل‌آویو را خفه کند. اگر آنها از ارباب خود سرپیچی کنند، ایران آنها را تربیت خواهد کرد.
+هرگونه تهدیدی علیه مردم و رهبری ما با پاسخ فوری و قدرتمند مواجه خواهد شد.</text>
+      <views>22613</views>
+      <forwards>83</forwards>
+      <media type="photo" available="true">
+        <file>img/chekhabarre__49754__photo.jpg</file>
+        <width>1080</width>
+        <height>1716</height>
+        <telegram_link>https://t.me/chekhabarre/49754</telegram_link>
+      </media>
+    </post>
+    <post id="49753">
+      <date>2026-07-01T11:38:56.000Z</date>
+      <text>🔴 دست خدا فقط کمک مارادونا اومد نه شما.
+
+اژه‌ای: ما خونخواهی امام شهیدمان را هیچ‌گاه فراموش نخواهیم کرد و دست انتقام الهی دیر یا زود گریبان دشمنان را خواهد گرفت.</text>
+      <views>23517</views>
+      <forwards>10</forwards>
+      <media type="none"/>
+    </post>
+    <post id="49752">
+      <date>2026-07-01T10:30:32.000Z</date>
+      <text>🔴 نتانیاهو: جمهوری اسلامی میخواست ما رو وادار به عقب‌نشینی از جنوب لبنان کنه ولی این اتفاق هرگز نخواهد افتاد.</text>
+      <views>30604</views>
+      <forwards>42</forwards>
+      <media type="none"/>
+    </post>
     <post id="49751">
       <date>2026-07-01T09:20:03.000Z</date>
       <text>🔴 ذوالقدر، دبیر شعام: انتقام خون علی خامنه‌ای به دست «عناصر صالحه» گرفته خواهد شد.</text>
-      <views>13869</views>
-      <forwards>45</forwards>
+      <views>35893</views>
+      <forwards>80</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__49751__photo.jpg</file>
         <width>1080</width>
@@ -25,8 +96,8 @@
     <post id="49750">
       <date>2026-07-01T09:03:45.000Z</date>
       <text>🔴 صداوسیما: یک فروند کشتی که از مسیری غیر از مسیر تعیین شده در قالب نظم ایرانی در تنگه هرمز، تردد می‌کرد، به گل نشسته است.</text>
-      <views>17881</views>
-      <forwards>11</forwards>
+      <views>36036</views>
+      <forwards>24</forwards>
       <media type="none"/>
     </post>
     <post id="49749">
@@ -34,8 +105,8 @@
       <text>🔴 جنگ از داخل شروع شده.
 
 صداوسیما بعد از قطع کردن حرف‌های قالیباف، سخنرانی‌هایی از خامنه‌ای پخش کرد که علنا مخالف پروسه قالیباف بوده.</text>
-      <views>17996</views>
-      <forwards>220</forwards>
+      <views>36089</views>
+      <forwards>346</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>24.683</duration_seconds>
@@ -54,7 +125,7 @@
 
 🤖 @Wincobet_bot
 🤖 @Wincobet_bot</text>
-      <views>17530</views>
+      <views>35374</views>
       <forwards>0</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__49748__photo.jpg</file>
@@ -66,29 +137,29 @@
     <post id="49747">
       <date>2026-07-01T08:52:49.000Z</date>
       <text>🔴 رویترز: گفت‌وگوهای فنی غیرمستقیم میان واشنگتن و تهران در دوحه با میانجی‌گری قطر و پاکستان در حال انجامه.</text>
-      <views>19277</views>
-      <forwards>9</forwards>
+      <views>35048</views>
+      <forwards>19</forwards>
       <media type="none"/>
     </post>
     <post id="49746">
       <date>2026-07-01T05:55:23.000Z</date>
       <text>🔴 سخنگوی دولت: سه‌شنبه ۱۶ تیر تهران تعطیل شد.</text>
-      <views>34170</views>
-      <forwards>555</forwards>
+      <views>43660</views>
+      <forwards>583</forwards>
       <media type="none"/>
     </post>
     <post id="49745">
       <date>2026-07-01T05:37:04.000Z</date>
       <text>🔴 ساعتی قبل افرادی مسلح به سمت محمد پلنگی، مامور انتظامی اهل سنت بلوچ که از منزل در حال عزیمت به محل کار بود با سلاح گرم تیراندازی کردن و اون رو کشتن.</text>
-      <views>35332</views>
-      <forwards>169</forwards>
+      <views>44177</views>
+      <forwards>183</forwards>
       <media type="none"/>
     </post>
     <post id="49744">
       <date>2026-06-30T22:21:34.000Z</date>
       <text>🔴 بشنویم از صحبت‌های فیروز میرانی، آسیب‌دیده چشمی خیزش زن زندگی آزادی در مورد خالد خالدی، عضو سپاه که شب گذشته در حمله به پایگاه سپاه پاوه کشته شد. خالد خالدی از عوامل تیراندازی در این خیزش بود.</text>
-      <views>44641</views>
-      <forwards>253</forwards>
+      <views>50133</views>
+      <forwards>277</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>14.443</duration_seconds>
@@ -101,8 +172,8 @@
       <text>🔴 بنازم سری بعدی ذرتا رسید.
 
 ناو آبی خاکی USS Boxer آمریکا شامل ۲۲۰۰ تفنگدار دریایی وارد منطقه خاورمیانه شد.</text>
-      <views>46891</views>
-      <forwards>669</forwards>
+      <views>51025</views>
+      <forwards>701</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__49743__photo.jpg</file>
         <width>804</width>
@@ -119,8 +190,8 @@
 محمدباقر هم از حرف مجتبی خوشش نمیاد و میگه من باید کسب تکلیف کنم و بحثشون که بالا گرفت، مجتبی یکی میخوابونه زیر گوش قالیباف و اونم از اونجا میره و بلافاصله اعتراضات رو میخوابونه.
 
 اما قالیباف از آینده پسا خامنه‌ای هراس داشته و میخواسته شأن و منزلت خودش در نظام رو از دست نده که الانم پلن محمدباقر مو به مو درحال اجرا شدنه.</text>
-      <views>46511</views>
-      <forwards>1135</forwards>
+      <views>50001</views>
+      <forwards>1220</forwards>
       <media type="video" available="false">
         <mime_type>video/mp4</mime_type>
         <duration_seconds>124.901</duration_seconds>
@@ -145,7 +216,7 @@
 🔗 کانال رسمی وینکوبت:
 
 🔵 @Wincobetofficial</text>
-      <views>44407</views>
+      <views>48367</views>
       <forwards>0</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__49741__photo.jpg</file>
@@ -159,8 +230,8 @@
       <text>🔴 دیگه ریدی.
 
 صداوسیما اعلام کرد بخش دوم مصاحبه قالیباف رو فردا پخش میکنیم.</text>
-      <views>45433</views>
-      <forwards>124</forwards>
+      <views>49057</views>
+      <forwards>138</forwards>
       <media type="photo" available="true">
         <file>img/chekhabarre__49740__photo.jpg</file>
         <width>953</width>
@@ -171,70 +242,8 @@
     <post id="49739">
       <date>2026-06-30T19:55:20.000Z</date>
       <text>🔴 نتانیاهو: اگر لازم باشه، برای بار سوم هم به ایران حمله میکنیم.</text>
-      <views>48147</views>
-      <forwards>223</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49738">
-      <date>2026-06-30T19:46:10.000Z</date>
-      <text>🔴 منهدم شدم.
-
-صداوسیما پخش مستقیم مصاحبه قالیباف رو قطع کرد.</text>
-      <views>49879</views>
-      <forwards>498</forwards>
-      <media type="video" available="false">
-        <mime_type>video/mp4</mime_type>
-        <duration_seconds>21.688</duration_seconds>
-        <note>Video not stored — view on Telegram</note>
-        <telegram_link>https://t.me/chekhabarre/49738</telegram_link>
-      </media>
-    </post>
-    <post id="49737">
-      <date>2026-06-30T19:14:16.000Z</date>
-      <text>🔴 قالیباف:  از روزی که محاصره را برداشتیم تا امروز بیش از ۴۰ میلیون بشکه نفت صادر کردیم.</text>
-      <views>49215</views>
-      <forwards>35</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49736">
-      <date>2026-06-30T19:03:29.000Z</date>
-      <text>🔴 باک موتور برقو پر کنم پس.
-
-قالیباف: ما عضو ان‌پی‌تی هستیم و با آژانس همکاری می‌کنیم. غنی‌سازی حق ماست و تعهدات  را رعایت می‌کنیم، اما این موضوع قابل مذاکره نیست. این‌ها ضمانت ما در برابر طمع آمریکاست.</text>
-      <views>49843</views>
-      <forwards>61</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49735">
-      <date>2026-06-30T19:02:08.000Z</date>
-      <text>🔴 ترامپ: د آخه بی‌نا...
-
-قالیباف: کسانی که آمده بودند ما را براندازی کنند، جبهه مقاومت را به رسمیت نشناسند. امروز آمریکا ضمانت کرده که جبهه مقاومت در لبنان باشد.</text>
-      <views>49479</views>
-      <forwards>30</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49734">
-      <date>2026-06-30T18:59:57.000Z</date>
-      <text>🔴 قالیباف: اختلاف در خود آمریکا نیز وجود دارد؛ رویه‌ها متفاوت است. روبیو روز پنجشنبه در حاشیه خلیج فارس در بحرین چه اقداماتی انجام داد؟ اقدامات علیه تفاهم‌نامه کشورهای خلیج فارس انجام شد. دشمنان ما هستند، اما تفاهم‌نامه محکم است.</text>
-      <views>48857</views>
-      <forwards>26</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49733">
-      <date>2026-06-30T18:57:33.000Z</date>
-      <text>🔴 آره خامنه‌ای هم شاهده.
-
-قالیباف: مذاکره با آمریکا مذاکره با یک دشمن بد عهد است که هر لحظه فرصت پیدا کند علیه ما اقدام خواهد کرد. کسی می تواند خوب مذاکره کند که برای جنگ آماده باشد.</text>
-      <views>48318</views>
-      <forwards>43</forwards>
-      <media type="none"/>
-    </post>
-    <post id="49732">
-      <date>2026-06-30T18:55:39.000Z</date>
-      <text>🔴 قالیباف: اگر نخواهند در گفت‌وگو به تعهدات خود عمل کنند، آماده جنگ هستیم.</text>
-      <views>47361</views>
-      <forwards>45</forwards>
+      <views>51296</views>
+      <forwards>227</forwards>
       <media type="none"/>
     </post>
   </posts>
